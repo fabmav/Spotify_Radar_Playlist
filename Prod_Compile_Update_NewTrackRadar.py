@@ -14,6 +14,10 @@ from time import sleep
 load_dotenv()
 client_id = os.getenv("SP_PUB_KEY")
 client_secret = os.getenv("SP_PRIV_KEY")
+#le refresh token
+refresh_token = os.getenv("REFRESH_TOKEN")
+#l'uri de la playlist
+playlist_uri = os.getenv("PLAYLIST")
 
 #les urls dont on va avoir besoin (ie les points d'accès des différentes requêtes)
 auth_url = "https://accounts.spotify.com/authorize"
@@ -21,10 +25,6 @@ token_url = 'https://accounts.spotify.com/api/token'
 
 #la liste des playliste qu'on va utiliser
 liste_uri=liste_uri_playlist("liste_playlist.txt")
-
-#le refresh token
-f_out = open("Token_Spotify.txt",'r',encoding='UTF-8')
-refresh_token = f_out.readline()
 
 #première étape avoir un access token valide
 access_token = get_refresh_token(refresh_token,client_id,client_secret)
@@ -82,7 +82,6 @@ sleep(60)
 format_track_topost(access_token)
 
 #septième étape : mettre à jour la description
-playlist_uri = "5qCOMZEfehGH3T0Pu6vzrd"
 description  = "All the tracks from this day one year ago until today from Pithfork Selects, NME's Best New Tracks,  Stereogum's Favorite New Music and Radio Nova Le Grand Mix playlist."
 aujourdhui = date.today()
 jour = aujourdhui.strftime('%d')
