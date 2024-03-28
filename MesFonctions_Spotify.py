@@ -4,13 +4,12 @@ from dotenv import load_dotenv
 import os
 import base64
 import json
-from requests import post
-from requests import get
-from requests import delete
+from requests import post, get, delete, put
 from io import*
 import re
 from bs4 import BeautifulSoup
 from time import sleep
+from datetime import*
 
 def get_current_token() : 
     load_dotenv()
@@ -80,6 +79,7 @@ def get_auth_token(token) :
     return{"Authorization": token}
 
 def liste_uri_playlist(nom) :
+    '''this function reads from a file spotify playlist uris and puts them in a list'''
     liste=[]
     f_in = open(nom,'r',encoding='UTF-8')
     for ligne in f_in :
@@ -104,6 +104,12 @@ def get_playlist_snapshotid(token,uri) :
     return json_result['snapshot_id']
 
 def store_uri(token) : 
+    '''this function takes a token and a file containing playlist uris as input\n
+    identify the total number of tracks of each playlist,\n
+    sends a GET request to spotify api and outputs the result of the requests\n
+    in a file containing the compiled list of each playlist tracks uri with their upload date '''
+    #! pourquoi un fichier, et pas une data structure ou un dataframe
+    
     valid_token = 'Bearer '+token
     liste_uri=liste_uri_playlist("liste_playlist.txt")
     f_out = open("compile_playlist_spotify.txt",'w',encoding='UTF-8')
@@ -126,7 +132,7 @@ def store_uri(token) :
     f_out.close()
 
 
-def get_delete_uri(token,fichier="delete_playlist_spotify.txt",uri="5qCOMZEfehGH3T0Pu6vzrd") : 
+def get_delete_uri(token,uri,fichier="delete_playlist_spotify.txt") : 
     valid_token = 'Bearer '+token
     f_out = open(fichier,'w',encoding='UTF-8')
     offset = 0
@@ -142,7 +148,7 @@ def get_delete_uri(token,fichier="delete_playlist_spotify.txt",uri="5qCOMZEfehGH
         offset = offset+100
     f_out.close()
 
-def format_track_todelete(token,fichier = "delete_playlist_spotify.txt",Uri_Playlist='5qCOMZEfehGH3T0Pu6vzrd') : 
+def format_track_todelete(token,Uri_Playlist,fichier = "delete_playlist_spotify.txt") : 
     buffer=0
     f_out = open(fichier,'r',encoding='UTF-8')
     total= len(f_out.readlines())
@@ -184,7 +190,7 @@ def post_tracks(token,uris,Uri_Playlist="5qCOMZEfehGH3T0Pu6vzrd") :
     response_message=response.text
     print(f'statut post track : {response.status_code}, {response_message}\n si 200 : pb si 201 : ok')
 
-def format_track_topost(token,nom = "compile_playlist_spotify_nettoye.txt",uri_playlist="5qCOMZEfehGH3T0Pu6vzrd") : 
+def format_track_topost(token,uri_playlist,nom = "compile_playlist_spotify_nettoye.txt") : 
     buffer=0
     spot_out = open(nom,'r',encoding='UTF-8')
     spot_out.seek(0)
@@ -219,15 +225,31 @@ def get_artist(token,artiste) :
     data = response.json()
     return data
 
+def date_text () : 
+    aujourdhui = date.today()
+    jour = aujourdhui.strftime('%d')
+    if jour.endswith(('11', '12', '13')):
+        suffix = 'th'
+    else:
+        suffix = {'1': 'st', '2': 'nd', '3': 'rd'}.get(jour[-1], 'th')
+    aujourdhui_text = aujourdhui.strftime(f'%A the %d{suffix} of %B, %Y')
+    return aujourdhui_text
 
-def julian_date (date) : 
-    jul_detector = re.compile(r'\d{4}-\d{2}-\d{2}')
-    if jul_detector.match(date) : 
-        return date
-    else : 
-        jul_dat=date[-4:]+"-"+date[3:5]+"-"+date[:2]
-        return jul_dat
+def update_description(token,uri,text) : 
+    url = f"https://api.spotify.com/v1/playlists/{uri}"
+    additem_header = {
+        "Authorization": 'Bearer '+token,
+        "Content-Type": 'application/json'
+    }
+    data={
+        "description": text
+    }
 
+    response = put(url=url, headers=additem_header, json=data)
+    response_message=response.text
+    print(response)
+    print(response.status_code)
+    print(response_message)
 
 if __name__ == '__main__' : 
     None

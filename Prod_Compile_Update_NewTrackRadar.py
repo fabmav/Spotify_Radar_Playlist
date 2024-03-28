@@ -10,6 +10,17 @@ from datetime import*
 from re import*
 from time import sleep
 
+aujourdhui = datetime.now(tz=timezone.utc)
+
+
+#on créer un fichier de log pour suivre ce qu'il s'est passé
+nom_fichier=f'log_best_new_track_radar_{aujourdhui}.txt'
+
+with open (nom_fichier,'w',encoding='UTF-8') as log_txt : 
+    log_txt.write(f'log/log_best_new_track_radar_{aujourdhui}\n')
+    log_txt.write('----------------------')
+
+
 #on charge les variable : les clés publiques et privées
 load_dotenv()
 client_id = os.getenv("SP_PUB_KEY")
@@ -24,7 +35,11 @@ auth_url = "https://accounts.spotify.com/authorize"
 token_url = 'https://accounts.spotify.com/api/token'
 
 #la liste des playliste qu'on va utiliser
+#! sert à rien : tester si on enlève
 liste_uri=liste_uri_playlist("liste_playlist.txt")
+
+log_txt.write(f'playlists uris : {liste_uri}')
+log_txt.write('----------------------')
 
 #première étape avoir un access token valide
 access_token = get_refresh_token(refresh_token,client_id,client_secret)
@@ -67,46 +82,28 @@ for i in range(len(liste)) :
 f2_out.close()
 
 # quatrième étape : obtenir les pistes à supprimer de la playlist
-get_delete_uri(access_token)
+get_delete_uri(access_token,playlist_uri)
 
 sleep(60)
 
 #cinquième étape : supprimer les pistes
-format_track_todelete(access_token)
+format_track_todelete(access_token,playlist_uri)
 
 sleep(60)
 
 #sixième étape : uploader les nouvelles pistes
 #le refresh token
 
-format_track_topost(access_token)
+format_track_topost(access_token,playlist_uri)
 
 #septième étape : mettre à jour la description
-description  = "All the tracks from this day one year ago until today from Pithfork Selects, NME's Best New Tracks,  Stereogum's Favorite New Music and Radio Nova Le Grand Mix playlist."
-aujourdhui = date.today()
-jour = aujourdhui.strftime('%d')
-if jour.endswith(('11', '12', '13')):
-    suffix = 'th'
-else:
-    suffix = {'1': 'st', '2': 'nd', '3': 'rd'}.get(jour[-1], 'th')
-aujourdhui_text = aujourdhui.strftime(f'%A the %d{suffix} of %B, %Y')
+with open("playlist_description.txt",'r') as text_desc : 
+    description =text_desc.read().replace('\n','')
+
+aujourdhui_text = date_text()
 updade_date = f' Last update : {aujourdhui_text}'
+new_description = description+updade_date
 
-url = f"https://api.spotify.com/v1/playlists/{playlist_uri}"
-
-additem_header = {
-    "Authorization": 'Bearer '+access_token,
-    "Content-Type": 'application/json'
-}
-data={
-    "description": description+updade_date
-}
-
-response = requests.put(url, headers=additem_header, json=data)
-response_message=response.text
-print(response)
-print(response.status_code)
-print(response_message)
-
+update_description(access_token,playlist_uri,new_description)
 
 
