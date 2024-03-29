@@ -36,43 +36,43 @@ token_url = 'https://accounts.spotify.com/api/token'
 
 #la liste des playliste qu'on va utiliser
 #! sert à rien : tester si on enlève
-liste_uri=liste_uri_playlist("liste_playlist.txt")
+# liste_uri=liste_uri_playlist("liste_playlist.txt")
 
-log_txt.write(f'playlists uris : {liste_uri}')
-log_txt.write('----------------------')
+
 
 #première étape avoir un access token valide
 access_token = get_refresh_token(refresh_token,client_id,client_secret)
 
 #seconde étape : obtenir les piste
-store_uri(access_token)
+liste_uri=store_uri(access_token)
+
+log_txt.write(f'playlists uris : {liste_uri}')
+log_txt.write('----------------------')
 
 #troisième étape : enlever les doublons et les pistes de plus d'un an
 #TODO A transformer en fonction
 
-aujourdhui = datetime.now(tz=timezone.utc)
-borne = aujourdhui.replace(year = aujourdhui.year -1)
+def OneYearFromNow(txt="compile_playlist_spotify.txt") :  
+    aujourdhui = datetime.now(tz=timezone.utc)
+    borne = aujourdhui.replace(year = aujourdhui.year -1)
 
-liste=[]
-liste2=[]
+    liste=[]
+    liste2=[]
 
-f_in = open("compile_playlist_spotify.txt",'r',encoding='UTF-8')
-for ligne in f_in :
-    x=search('(.+) - (.+)',ligne)
-    y= isoparse(x[1])
-    annee = y.year
-    print(f'{x[1]} - {y} - {annee} - {aujourdhui} - {borne}')
-    if y>= borne : 
-        liste.append(x[2])
+    f_in = open(txt,'r',encoding='UTF-8')
+    for ligne in f_in :
+        x=search('(.+) - (.+)',ligne)
+        y= isoparse(x[1])
+        annee = y.year
+        print(f'{x[1]} - {y} - {annee} - {aujourdhui} - {borne}')
+        if y>= borne : 
+            liste.append(x[2])
+    return liste
 
 print(len(liste))
 
-i=0
-while i < (len(liste)-1) :
-    if liste.count(liste[i])>1 :
-        del liste [i]
-        i=0
-    else : i=i+1
+
+liste = duplicate_suppr(L)
 
 print(len(liste))
 

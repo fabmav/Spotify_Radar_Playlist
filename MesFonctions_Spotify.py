@@ -88,6 +88,7 @@ def liste_uri_playlist(nom) :
     return liste
 
 def get_playlist_total(token,uri) : 
+    '''this function returns the total number of track of a playlist'''
     valid_token = 'Bearer '+token
     headers = get_auth_token(valid_token)
     url="https://api.spotify.com/v1/playlists/"+uri+"/tracks?fields=total"
@@ -109,7 +110,7 @@ def store_uri(token) :
     sends a GET request to spotify api and outputs the result of the requests\n
     in a file containing the compiled list of each playlist tracks uri with their upload date '''
     #! pourquoi un fichier, et pas une data structure ou un dataframe
-    
+    liste=[]
     valid_token = 'Bearer '+token
     liste_uri=liste_uri_playlist("liste_playlist.txt")
     f_out = open("compile_playlist_spotify.txt",'w',encoding='UTF-8')
@@ -126,11 +127,21 @@ def store_uri(token) :
             for item in json_result["items"] : 
                 a= item["added_at"]
                 b= item["track"]["uri"]
-                f_out.write("{} - {} \n".format(a,b))
+                f_out.write(f"{a} - {b} \n")
+                liste.append(f'{a} - {b}')
             print(f'{offset} - {total}')
             offset = offset+100
     f_out.close()
+    return liste
 
+def duplicate_suppr(L) : 
+    i=0
+    while i < (len(L)-1) :
+        if L.count(L[i])>1 :
+            del L [i]
+            i=0
+        else : i=i+1
+    return L
 
 def get_delete_uri(token,uri,fichier="delete_playlist_spotify.txt") : 
     valid_token = 'Bearer '+token
