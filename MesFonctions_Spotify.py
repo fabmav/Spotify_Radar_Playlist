@@ -10,6 +10,7 @@ import re
 from bs4 import BeautifulSoup
 from time import sleep
 from datetime import*
+from dateutil.parser import isoparse
 
 def get_current_token() : 
     load_dotenv()
@@ -143,7 +144,38 @@ def duplicate_suppr(L) :
         else : i=i+1
     return L
 
+def OneYearFromNow(txt="compile_playlist_spotify.txt") :  
+    aujourdhui = datetime.now(tz=timezone.utc)
+    borne = aujourdhui.replace(year = aujourdhui.year -1)
+
+    liste=[]
+
+    f_in = open(txt,'r',encoding='UTF-8')
+    for ligne in f_in :
+        x=re.search('(.+) - (.+)',ligne)
+        y= isoparse(x[1])
+        annee = y.year
+        print(f'{x[1]} - {y} - {annee} - {aujourdhui} - {borne}')
+        if y>= borne : 
+            liste.append(x[2])
+    return liste
+
+def OneYearFromNow_List(L) :  
+    aujourdhui = datetime.now(tz=timezone.utc)
+    borne = aujourdhui.replace(year = aujourdhui.year -1)
+    liste=[]
+
+    for i in L :
+        x=re.search('(.+) - (.+)',i)
+        y= isoparse(x[1])
+        annee = y.year
+        print(f'{x[1]} - {y} - {annee} - {aujourdhui} - {borne}')
+        if y>= borne : 
+            liste.append(x[2])
+    return liste
+
 def get_delete_uri(token,uri,fichier="delete_playlist_spotify.txt") : 
+    liste=[]
     valid_token = 'Bearer '+token
     f_out = open(fichier,'w',encoding='UTF-8')
     offset = 0
@@ -156,8 +188,10 @@ def get_delete_uri(token,uri,fichier="delete_playlist_spotify.txt") :
         for item in json_result["items"] : 
             b= item["track"]["uri"]
             f_out.write("{}\n".format(b))
+            liste.append(b)
         offset = offset+100
     f_out.close()
+    return liste
 
 def format_track_todelete(token,Uri_Playlist,fichier = "delete_playlist_spotify.txt") : 
     buffer=0
@@ -174,7 +208,21 @@ def format_track_todelete(token,Uri_Playlist,fichier = "delete_playlist_spotify.
         string_json=json.loads(string)
         delete_tracks(token,string_json,Uri_Playlist)
         buffer = buffer +100
-        
+
+def format_track_todelete_Liste(token,Uri_Playlist,liste) : 
+    buffer=0
+    total= len(liste)
+    while buffer<=total :
+        i=0
+        string = '{"tracks":['
+        for i in range (0,min(100,total - buffer)) : 
+                ligne = liste[buffer+i]
+                string =string+'{ "uri": "'+ligne.rstrip('\n')+'" },'
+        string=string.rstrip(',')+']}'
+        string_json=json.loads(string)
+        delete_tracks(token,string_json,Uri_Playlist)
+        buffer = buffer +100
+
 def delete_tracks(token, uris,uri_playlist="5qCOMZEfehGH3T0Pu6vzrd") : 
     playlist_uri = uri_playlist
     url = f"https://api.spotify.com/v1/playlists/{playlist_uri}/tracks"
@@ -215,6 +263,24 @@ def format_track_topost(token,uri_playlist,nom = "compile_playlist_spotify_netto
         print(f'minimum entre total et buffer : {min(100,total - buffer)}')
         for i in range (0,min(100,total - buffer)) : 
                 ligne = spot_out.readline()
+                string =string+'"'+ligne.rstrip(' \n')+'",'
+        string=string.rstrip(',')+']}'
+        string_json=json.loads(string)
+        post_tracks(token,string_json,Uri_Playlist=uri_playlist)
+        buffer = buffer +100
+
+#! pas fini
+def format_track_topost_Liste(token,uri_playlist,liste) : 
+    buffer=0
+    total= len(liste)
+    print(f'total de piste à uploader : {total}')
+    while buffer<=total :
+        print(f"taille buffer à l'initialisation de la boucle : {buffer}")
+        i=0
+        string = '{"uris":['
+        print(f'minimum entre total et buffer : {min(100,total - buffer)}')
+        for i in range (0,min(100,total - buffer)) : 
+                ligne = liste[buffer+i]
                 string =string+'"'+ligne.rstrip(' \n')+'",'
         string=string.rstrip(',')+']}'
         string_json=json.loads(string)
