@@ -3,11 +3,9 @@ from dotenv import load_dotenv
 import os
 import base64
 import json
-from requests import post
 from requests import get
 from MesFonctions_Spotify import*
 from io import*
-from bs4 import BeautifulSoup
 
 load_dotenv()
 
