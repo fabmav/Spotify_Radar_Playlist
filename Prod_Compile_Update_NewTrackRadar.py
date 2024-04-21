@@ -15,8 +15,9 @@ TODAY = datetime.now(tz=timezone.utc)
 
 #on créer un fichier de log pour suivre ce qu'il s'est passé
 nom_fichier=f'log_best_new_track_radar_{TODAY}.txt'
+path_fichier=f'log/{nom_fichier}'
 
-with open (nom_fichier,'w',encoding='UTF-8') as log_txt : 
+with open (path_fichier,'w',encoding='UTF-8') as log_txt : 
     log_txt.write(f'log/log_best_new_track_radar_{TODAY}\n')
     log_txt.write('----------------------')
 
@@ -46,13 +47,14 @@ access_token = get_refresh_token(refresh_token,client_id,client_secret)
 #seconde étape : obtenir les piste
 liste_uri_raw=store_uri(access_token)
 
-log_txt.write(f'playlists uris : {liste_uri_raw}')
-log_txt.write('----------------------')
+with open (path_fichier,'a',encoding='UTF-8') as log_txt : 
+    log_txt.write(f'playlists uris : {liste_uri_raw}')
+    log_txt.write('----------------------')
 
 #troisième étape : enlever les doublons et les pistes de plus d'un an
 #TODO A transformer en fonction
 
-liste_uri_year= OneYearFromNow(liste_uri_raw)
+liste_uri_year= OneYearFromNow_List(liste_uri_raw)
 print(len(liste_uri_year))
 
 

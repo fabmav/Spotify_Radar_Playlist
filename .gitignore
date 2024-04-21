@@ -4,3 +4,5 @@
 log/
 #test code
 test/
+# virtual environment
+.venv/
