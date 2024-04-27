@@ -11,6 +11,9 @@ from bs4 import BeautifulSoup
 from time import sleep
 from datetime import*
 from dateutil.parser import isoparse
+import logging
+
+logger = logging.getLogger(__name__)
 
 def get_current_token() : 
     load_dotenv()
@@ -84,8 +87,10 @@ def liste_uri_playlist(nom) :
     liste=[]
     f_in = open(nom,'r',encoding='UTF-8')
     for ligne in f_in :
+        logger.info(ligne)
         x=re.search('(.)*:*:*:(.+)',ligne)
         liste.append(x[2])   
+    
     return liste
 
 def get_playlist_total(token,uri) : 
@@ -147,7 +152,7 @@ def duplicate_suppr(L) :
 def OneYearFromNow(txt="compile_playlist_spotify.txt") :  
     aujourdhui = datetime.now(tz=timezone.utc)
     borne = aujourdhui.replace(year = aujourdhui.year -1)
-
+    logger.info(f'suppressing all tracks uploaded prior to {borne} : ')
     liste=[]
 
     f_in = open(txt,'r',encoding='UTF-8')
@@ -158,11 +163,14 @@ def OneYearFromNow(txt="compile_playlist_spotify.txt") :
         print(f'{x[1]} - {y} - {annee} - {aujourdhui} - {borne}')
         if y>= borne : 
             liste.append(x[2])
+        else : 
+            logger.info(f'suppressed : {x}')
     return liste
 
 def OneYearFromNow_List(L) :  
     aujourdhui = datetime.now(tz=timezone.utc)
     borne = aujourdhui.replace(year = aujourdhui.year -1)
+    logger.info(f'suppressing all tracks uploaded prior to {borne} : ')
     liste=[]
 
     for i in L :
@@ -172,6 +180,8 @@ def OneYearFromNow_List(L) :
         print(f'{x[1]} - {y} - {annee} - {aujourdhui} - {borne}')
         if y>= borne : 
             liste.append(x[2])
+        else : 
+            logger.info(f'suppressed : {i}')
     return liste
 
 def get_delete_uri(token,uri,fichier="delete_playlist_spotify.txt") : 

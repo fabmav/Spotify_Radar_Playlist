@@ -1,25 +1,23 @@
 #ce code récupère le authorization code et le "refresh token" puis à partir de là récupère un refreshed token
 
-import requests
-import os
-import base64
-import json
+# import requests
+# import os
+#import base64
+#import json
 from MesFonctions_Spotify import*
 from dateutil.parser import isoparse
 from datetime import*
 from re import*
 from time import sleep
+import logging
 
-TODAY = datetime.now(tz=timezone.utc)
+#paramétrage logging
+logging.basicConfig(filename='log/spotify_playlist.log', level=logging.INFO) 
 
+#constantes
+TODAY = datetime.now(tz=timezone.utc).strftime("%Y-%m-%d")
 
-#on créer un fichier de log pour suivre ce qu'il s'est passé
-nom_fichier=f'log_best_new_track_radar_{TODAY}.txt'
-path_fichier=f'log/{nom_fichier}'
-
-with open (path_fichier,'w',encoding='UTF-8') as log_txt : 
-    log_txt.write(f'log/log_best_new_track_radar_{TODAY}\n')
-    log_txt.write('----------------------')
+logging.info(f'date script : {TODAY}\n----------------------------------------')
 
 
 #on charge les variable : les clés publiques et privées
@@ -47,19 +45,16 @@ access_token = get_refresh_token(refresh_token,client_id,client_secret)
 #seconde étape : obtenir les piste
 liste_uri_raw=store_uri(access_token)
 
-with open (path_fichier,'a',encoding='UTF-8') as log_txt : 
-    log_txt.write(f'playlists uris : {liste_uri_raw}')
-    log_txt.write('----------------------')
+#logging.info(f'playlists uris : {liste_uri_raw}')
 
 #troisième étape : enlever les doublons et les pistes de plus d'un an
-#TODO A transformer en fonction
 
 liste_uri_year= OneYearFromNow_List(liste_uri_raw)
 print(len(liste_uri_year))
 
-
 liste_uri_to_upload = duplicate_suppr(liste_uri_year)
 
+logging.info(f'playlist length : {len(liste_uri_to_upload)}')
 print(len(liste_uri_to_upload))
 
 # f2_out = open("compile_playlist_spotify_nettoye.txt",'w',encoding='UTF-8')
@@ -69,6 +64,13 @@ print(len(liste_uri_to_upload))
 
 # quatrième étape : obtenir les pistes à supprimer de la playlist
 liste_uri_deletion=get_delete_uri(access_token,playlist_uri)
+
+#TODO comparer la liste suppression à la liste upload pour identifier les pistes supprimées
+#TODO ajouter dans les listes le nom de la piste et de l'artiste afin de pouvoir exploiter ces informations
+set_prev = set(liste_uri_deletion)
+set_new = set(liste_uri_to_upload)
+logging.info(f'tracks suppressed from playlist : {list(set_prev - set_new)}')
+logging.info(f'tracks added to playlist : {list(set_new - set_prev)}')
 
 sleep(60)
 
