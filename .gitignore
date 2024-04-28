@@ -6,3 +6,5 @@ log/
 test/
 # virtual environment
 .venv/
+#pycache
+__pycache__/

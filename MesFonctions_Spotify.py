@@ -117,9 +117,10 @@ def store_uri(token) :
     in a file containing the compiled list of each playlist tracks uri with their upload date '''
     #! pourquoi un fichier, et pas une data structure ou un dataframe
     liste=[]
+    dico = {}
     valid_token = 'Bearer '+token
     liste_uri=liste_uri_playlist("liste_playlist.txt")
-    f_out = open("compile_playlist_spotify.txt",'w',encoding='UTF-8')
+    #f_out = open("compile_playlist_spotify.txt",'w',encoding='UTF-8')
     for i in range(len(liste_uri)) :
         offset = 0
         total = get_playlist_total(token,liste_uri[i])
@@ -133,12 +134,15 @@ def store_uri(token) :
             for item in json_result["items"] : 
                 a= item["added_at"]
                 b= item["track"]["uri"]
-                f_out.write(f"{a} - {b} \n")
-                liste.append(f'{a} - {b}')
+                c=item["track"]["name"]
+                d=item["track"]["artists"][0]["name"]
+                #f_out.write(f"{a} - {b} \n")
+                dico[b] = [a,b,c,d]
+                liste.append(f'{a} - {b} - {c} - {d}')
             print(f'{offset} - {total}')
             offset = offset+100
-    f_out.close()
-    return liste
+    #f_out.close()
+    return liste,dico
 
 def duplicate_suppr(L) : 
     i=0
@@ -167,27 +171,27 @@ def OneYearFromNow(txt="compile_playlist_spotify.txt") :
             logger.info(f'suppressed : {x}')
     return liste
 
-def OneYearFromNow_List(L) :  
+def OneYearFromNow_List(D) :  
     aujourdhui = datetime.now(tz=timezone.utc)
     borne = aujourdhui.replace(year = aujourdhui.year -1)
     logger.info(f'suppressing all tracks uploaded prior to {borne} : ')
-    liste=[]
+    dico={}
 
-    for i in L :
-        x=re.search('(.+) - (.+)',i)
-        y= isoparse(x[1])
+    for i in D :
+        y= isoparse(D[i][0])
         annee = y.year
-        print(f'{x[1]} - {y} - {annee} - {aujourdhui} - {borne}')
+        print(f'{i} - {y} - {annee} - {aujourdhui} - {borne}')
         if y>= borne : 
-            liste.append(x[2])
+            dico[i] = D[i]
         else : 
             logger.info(f'suppressed : {i}')
-    return liste
+    return dico
 
 def get_delete_uri(token,uri,fichier="delete_playlist_spotify.txt") : 
     liste=[]
+    dico = {}
     valid_token = 'Bearer '+token
-    f_out = open(fichier,'w',encoding='UTF-8')
+    #f_out = open(fichier,'w',encoding='UTF-8')
     offset = 0
     total = get_playlist_total(token,uri)
     while offset < total : 
@@ -197,11 +201,14 @@ def get_delete_uri(token,uri,fichier="delete_playlist_spotify.txt") :
         json_result = json.loads(result.content)
         for item in json_result["items"] : 
             b= item["track"]["uri"]
-            f_out.write("{}\n".format(b))
-            liste.append(b)
+            c=item["track"]["name"]
+            d=item["track"]["artists"][0]["name"]
+            #f_out.write("{}\n".format(b))
+            liste.append(f'{b} - {c} - {d}')
+            dico[b] = [b,c,d]
         offset = offset+100
-    f_out.close()
-    return liste
+    #f_out.close()
+    return dico
 
 def format_track_todelete(token,Uri_Playlist,fichier = "delete_playlist_spotify.txt") : 
     buffer=0

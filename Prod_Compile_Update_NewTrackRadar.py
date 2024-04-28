@@ -11,11 +11,11 @@ from re import*
 from time import sleep
 import logging
 
-#paramétrage logging
-logging.basicConfig(filename='log/spotify_playlist.log', level=logging.INFO) 
-
 #constantes
 TODAY = datetime.now(tz=timezone.utc).strftime("%Y-%m-%d")
+
+#paramétrage logging
+logging.basicConfig(filename=f'log/spotify_playlist{TODAY}.log', level=logging.INFO) 
 
 logging.info(f'date script : {TODAY}\n----------------------------------------')
 
@@ -43,19 +43,20 @@ token_url = 'https://accounts.spotify.com/api/token'
 access_token = get_refresh_token(refresh_token,client_id,client_secret)
 
 #seconde étape : obtenir les piste
-liste_uri_raw=store_uri(access_token)
+dico_uri_raw=store_uri(access_token)[1]
 
+logging.info(f'{dico_uri_raw }')
 #logging.info(f'playlists uris : {liste_uri_raw}')
 
 #troisième étape : enlever les doublons et les pistes de plus d'un an
 
-liste_uri_year= OneYearFromNow_List(liste_uri_raw)
-print(len(liste_uri_year))
+dico_uri_new= OneYearFromNow_List(dico_uri_raw)
+print(len(dico_uri_new))
 
-liste_uri_to_upload = duplicate_suppr(liste_uri_year)
+#liste_uri_new = duplicate_suppr(liste_uri_year)
 
-logging.info(f'playlist length : {len(liste_uri_to_upload)}')
-print(len(liste_uri_to_upload))
+logging.info(f'playlist length : {len(dico_uri_new)}')
+print(len(dico_uri_new))
 
 # f2_out = open("compile_playlist_spotify_nettoye.txt",'w',encoding='UTF-8')
 # for i in range(len(liste)) : 
@@ -63,26 +64,29 @@ print(len(liste_uri_to_upload))
 # f2_out.close()
 
 # quatrième étape : obtenir les pistes à supprimer de la playlist
-liste_uri_deletion=get_delete_uri(access_token,playlist_uri)
+dico_uri_old=get_delete_uri(access_token,playlist_uri)
 
 #TODO comparer la liste suppression à la liste upload pour identifier les pistes supprimées
 #TODO ajouter dans les listes le nom de la piste et de l'artiste afin de pouvoir exploiter ces informations
-set_prev = set(liste_uri_deletion)
-set_new = set(liste_uri_to_upload)
-logging.info(f'tracks suppressed from playlist : {list(set_prev - set_new)}')
-logging.info(f'tracks added to playlist : {list(set_new - set_prev)}')
+set_prev = set(dico_uri_old.keys())
+set_new = set(dico_uri_new.keys())
+liste_uri_toDelete = list(set_prev - set_new)
+liste_uri_toUpload = list(set_new - set_prev)
 
-sleep(60)
+logging.info(f'tracks suppressed from playlist : {[dico_uri_old[i] for i in liste_uri_toDelete]}')
+logging.info(f'tracks added to playlist : {[dico_uri_new[i] for i in liste_uri_toUpload]}')
+
+#sleep(60)
 
 #cinquième étape : supprimer les pistes
-format_track_todelete_Liste(access_token,playlist_uri,liste_uri_deletion)
+format_track_todelete_Liste(access_token,playlist_uri,liste_uri_toDelete)
 
-sleep(60)
+#sleep(60)
 
 #sixième étape : uploader les nouvelles pistes
 #le refresh token
 
-format_track_topost_Liste(access_token,playlist_uri,liste_uri_to_upload)
+format_track_topost_Liste(access_token,playlist_uri,liste_uri_toUpload)
 
 #septième étape : mettre à jour la description
 with open("playlist_description.txt",'r') as text_desc : 
