@@ -22,11 +22,10 @@ token_url = 'https://accounts.spotify.com/api/token'
 
 
 #le refresh token
-f_out = open("Token_Spotify.txt",'r',encoding='UTF-8')
-refresh_token = f_out.readline()
+REFRESH_TOKEN = os.getenv("REFRESH_TOKEN")
 
 #première étape avoir un access token valide
-access_token = get_refresh_token(refresh_token,client_id,client_secret)
+access_token = get_access_token(REFRESH_TOKEN,client_id,client_secret)
 
 #les paramètres de la requête
 headers = {
