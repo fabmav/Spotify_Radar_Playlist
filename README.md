@@ -1,10 +1,10 @@
 # Best New Track Radar
 
-The aim of this project is to create a meta playlist of trending tracks based on well known.
+The aim of this project is to create a meta playlist of trending tracks based on selected playlists from well known sources such as Pitchfork, the NME, Stereogum etc...
 It's just easier to have everything in one big playlist!
-This create a kind of radio wich can be updated at will. It currently scan ...
-This gives roughly 800 to 900 tracks. Assuming that you listen this playlist for one hour every day in random mode it would take... days to listen.
+This gives roughly 800 to 900 tracks. If listened in random, this create a kind of radio. 
+You can also sort the playlist by recently added tracks to get freshly added tracks first.
 
-This project is also the opportunity to use my data analytics skills.
+I will also use this playlist as a basis for some data analysis based on the data available from spotify API.
 
 
