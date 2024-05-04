@@ -2,3 +2,9 @@
 *.env
 #log
 log/
+#test code
+test/
+# virtual environment
+.venv/
+#pycache
+__pycache__/

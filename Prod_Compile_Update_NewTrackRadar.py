@@ -1,112 +1,86 @@
-#ce code récupère le authorization code et le "refresh token" puis à partir de là récupère un refreshed token
+#This code gets a refresh token from spotify api then retrieves tracks from selected playlist.
+#It removes tracks uploaded prior to the same day of previous year.
+#It then compares tracks from a selected playlists, removes old ones and uploads new ones
 
-import requests
-import os
-import base64
-import json
 from MesFonctions_Spotify import*
-from dateutil.parser import isoparse
 from datetime import*
 from re import*
 from time import sleep
+import logging
 
-#on charge les variable : les clés publiques et privées
+#constant variables
+TODAY = datetime.now(tz=timezone.utc).strftime("%Y-%m-%d")
+
+#public and private keys
 load_dotenv()
-client_id = os.getenv("SP_PUB_KEY")
-client_secret = os.getenv("SP_PRIV_KEY")
-#le refresh token
-refresh_token = os.getenv("REFRESH_TOKEN")
-#l'uri de la playlist
-playlist_uri = os.getenv("PLAYLIST")
+CLIENT_ID = os.getenv("SP_PUB_KEY")
+CLIENT_SECRET = os.getenv("SP_PRIV_KEY")
+#refresh token
+REFRESH_TOKEN = os.getenv("REFRESH_TOKEN")
+#uri of the target playlist
+PLAYLIST_URI = os.getenv("PLAYLIST")
+#the scrapped playlist 
+PLAYLISTS = "liste_playlist.txt"
 
-#les urls dont on va avoir besoin (ie les points d'accès des différentes requêtes)
-auth_url = "https://accounts.spotify.com/authorize"
-token_url = 'https://accounts.spotify.com/api/token'
+#logging file setup
+logging.basicConfig(filename=f'log/spotify_playlist{TODAY}.log', level=logging.INFO) 
 
-#la liste des playliste qu'on va utiliser
-liste_uri=liste_uri_playlist("liste_playlist.txt")
+logging.info(f'date script : {TODAY}\n----------------------------------------')
 
-#première étape avoir un access token valide
-access_token = get_refresh_token(refresh_token,client_id,client_secret)
+#first step : getting a valid access token
+ACCESS_TOKEN = get_access_token(REFRESH_TOKEN,CLIENT_ID,CLIENT_SECRET)
 
-#seconde étape : obtenir les piste
-store_uri(access_token)
+#second step : getting the uris
+dico_uri_raw=store_uri(ACCESS_TOKEN,PLAYLISTS)
 
-#troisième étape : enlever les doublons et les pistes de plus d'un an
-#TODO A transformer en fonction
+#third step: expluding traks uploaded more than one year ago.
+#using track uri as dictionnary key ensures that we don't have duplicated tracks
+dico_uri_new= OneYearFromNow(dico_uri_raw)
 
-aujourdhui = datetime.now(tz=timezone.utc)
-borne = aujourdhui.replace(year = aujourdhui.year -1)
+expected_length = len(dico_uri_new)
 
-liste=[]
-liste2=[]
+logging.info(f'playlist length : {expected_length}')
+print(f'expected number of tracks : {expected_length}')
 
-f_in = open("compile_playlist_spotify.txt",'r',encoding='UTF-8')
-for ligne in f_in :
-    x=search('(.+) - (.+)',ligne)
-    y= isoparse(x[1])
-    annee = y.year
-    print(f'{x[1]} - {y} - {annee} - {aujourdhui} - {borne}')
-    if y>= borne : 
-        liste.append(x[2])
 
-print(len(liste))
+#fourth step : getting tracks currently in the playlist
+dico_uri_old=get_playlist_tracks_uri(ACCESS_TOKEN,PLAYLIST_URI)
 
-i=0
-while i < (len(liste)-1) :
-    if liste.count(liste[i])>1 :
-        del liste [i]
-        i=0
-    else : i=i+1
+#comaprison of new trakcs vs previous tracks in order to get tracks to be removed and tracks to be uploaded
+set_prev = set(dico_uri_old.keys())
+set_new = set(dico_uri_new.keys())
+liste_uri_toDelete = list(set_prev - set_new)
+liste_uri_toUpload = list(set_new - set_prev)
 
-print(len(liste))
+logging.info(f'tracks suppressed from playlist : {[dico_uri_old[i] for i in liste_uri_toDelete]}')
+logging.info(f'tracks added to playlist : {[dico_uri_new[i] for i in liste_uri_toUpload]}')
 
-f2_out = open("compile_playlist_spotify_nettoye.txt",'w',encoding='UTF-8')
-for i in range(len(liste)) : 
-    f2_out.write(f"{liste[i]}\n")
-f2_out.close()
+#fifth step : suprressing old tracks
+if liste_uri_toDelete ==[] : 
+    logging.info('no tracks to delete')
+else : 
+    format_track_todelete(ACCESS_TOKEN,PLAYLIST_URI,liste_uri_toDelete)
 
-# quatrième étape : obtenir les pistes à supprimer de la playlist
-get_delete_uri(access_token)
 
-sleep(60)
+#sixth step : uploading new tracks
+if liste_uri_toUpload ==[] : 
+    logging.info('no tracks to add')
+else : 
+    format_track_topost(ACCESS_TOKEN,PLAYLIST_URI,liste_uri_toUpload)
 
-#cinquième étape : supprimer les pistes
-format_track_todelete(access_token)
+#seventh step : updating playlist description
+with open("playlist_description.txt",'r') as text_desc : 
+    description =text_desc.read().replace('\n','')
 
-sleep(60)
-
-#sixième étape : uploader les nouvelles pistes
-#le refresh token
-
-format_track_topost(access_token)
-
-#septième étape : mettre à jour la description
-description  = "All the tracks from this day one year ago until today from Pithfork Selects, NME's Best New Tracks,  Stereogum's Favorite New Music and Radio Nova Le Grand Mix playlist."
-aujourdhui = date.today()
-jour = aujourdhui.strftime('%d')
-if jour.endswith(('11', '12', '13')):
-    suffix = 'th'
-else:
-    suffix = {'1': 'st', '2': 'nd', '3': 'rd'}.get(jour[-1], 'th')
-aujourdhui_text = aujourdhui.strftime(f'%A the %d{suffix} of %B, %Y')
+aujourdhui_text = date_text()
 updade_date = f' Last update : {aujourdhui_text}'
-
-url = f"https://api.spotify.com/v1/playlists/{playlist_uri}"
-
-additem_header = {
-    "Authorization": 'Bearer '+access_token,
-    "Content-Type": 'application/json'
-}
-data={
-    "description": description+updade_date
-}
-
-response = requests.put(url, headers=additem_header, json=data)
-response_message=response.text
-print(response)
-print(response.status_code)
-print(response_message)
+new_description = description+updade_date
 
 
+update_description(ACCESS_TOKEN,PLAYLIST_URI,new_description)
+
+#control of script result by comparing expected playlist length vs obtained length
+new_length = int(get_playlist_total(ACCESS_TOKEN,PLAYLIST_URI))
+logging.info(f'expected length : {expected_length}, obtained length : {new_length}')
+print(f'expected length : {expected_length}, obtained length : {new_length}')
 
