@@ -175,11 +175,10 @@ def OneYearFromNow(D) :
         #     logger.info(f'suppressed : {i}')
     return dico
 
-def get_playlist_tracks_uri(token,uri,fichier="delete_playlist_spotify.txt") : 
+def get_playlist_tracks_uri(token,uri) : 
     # liste=[]
     dico = {}
     valid_token = 'Bearer '+token
-    #f_out = open(fichier,'w',encoding='UTF-8')
     offset = 0
     total = get_playlist_total(token,uri)
     while offset < total : 

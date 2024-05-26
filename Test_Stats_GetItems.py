@@ -12,17 +12,23 @@ load_dotenv()
 client_id =os.getenv("SP_PUB_KEY")
 client_secret=os.getenv("SP_PRIV_KEY")
 uri = os.getenv("PLAYLIST")
-access_token = get_token(client_id,client_secret)
+access_token = get_access_token(client_id,client_secret)
 
 
 #l'uri de la playlist best new track radar
 
-
-get_delete_uri(access_token,uri,fichier="test_stat_uri.txt")
+#!retourne un dico je pense que ça ne fonctionne pas
+dico = get_playlist_tracks_uri(access_token,uri)
 with open ("test_stat_playlist.txt",'w',encoding='UTF-8') as stat : 
      column='id,danceability,energy,key,loudness,mode,valence,tempo,duration_ms,time_signature\n'
      stat.write(column)
 f_out = open("test_stat_playlist.txt",'a',encoding='UTF-8')
+
+#!ai-je besoin des uri ou des ids des tracks
+with open ("test_stat_uri.txt",'w', encoding='UTF-8') as f :
+     for data in dico : 
+          f.write(data)
+
 g_out = open("test_stat_uri.txt",'r',encoding='UTF-8')
 
 offset = 0
@@ -69,6 +75,6 @@ while offset < total :
         except Exception as e : 
              print('pas trouvé')
     offset = offset+100
-g_out.close
-f_out.close
+g_out.close()
+f_out.close()
 

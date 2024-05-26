@@ -7,6 +7,7 @@ from datetime import*
 from re import*
 from time import sleep
 import logging
+from functools import reduce
 
 #constant variables
 TODAY = datetime.now(tz=timezone.utc).strftime("%Y-%m-%d")
@@ -21,6 +22,8 @@ REFRESH_TOKEN = os.getenv("REFRESH_TOKEN")
 PLAYLIST_URI = os.getenv("PLAYLIST")
 #the scrapped playlist 
 PLAYLISTS = "liste_playlist.txt"
+
+line_jump = lambda x,y : str(x)+"\n"+str(y)
 
 #logging file setup
 logging.basicConfig(filename=f'log/spotify_playlist{TODAY}.log', level=logging.INFO) 
@@ -46,14 +49,14 @@ print(f'expected number of tracks : {expected_length}')
 #fourth step : getting tracks currently in the playlist
 dico_uri_old=get_playlist_tracks_uri(ACCESS_TOKEN,PLAYLIST_URI)
 
-#comaprison of new trakcs vs previous tracks in order to get tracks to be removed and tracks to be uploaded
+#comaprison of new tracks vs previous tracks in order to get tracks to be removed and tracks to be uploaded
 set_prev = set(dico_uri_old.keys())
 set_new = set(dico_uri_new.keys())
 liste_uri_toDelete = list(set_prev - set_new)
 liste_uri_toUpload = list(set_new - set_prev)
-
-logging.info(f'tracks suppressed from playlist : {[dico_uri_old[i] for i in liste_uri_toDelete]}')
-logging.info(f'tracks added to playlist : {[dico_uri_new[i] for i in liste_uri_toUpload]}')
+#TODO improve logging to add artist and track name
+logging.info(f'tracks suppressed from playlist : {reduce(line_jump,liste_uri_toDelete)}')
+logging.info(f'tracks added to playlist : {reduce(line_jump, liste_uri_toUpload)}')
 
 #fifth step : suprressing old tracks
 if liste_uri_toDelete ==[] : 

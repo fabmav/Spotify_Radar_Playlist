@@ -13,39 +13,90 @@ from random import randint
 
 #on charge les variable : les clés publiques et privées
 load_dotenv()
-client_id = os.getenv("SP_PUB_KEY")
-client_secret = os.getenv("SP_PRIV_KEY")
+CLIENT_ID = os.getenv("SP_PUB_KEY")
+CLIENT_SECRET = os.getenv("SP_PRIV_KEY")
 
 #les urls dont on va avoir besoin (ie les points d'accès des différentes requêtes)
-auth_url = "https://accounts.spotify.com/authorize"
-token_url = 'https://accounts.spotify.com/api/token'
-
+AUTH_URL = "https://accounts.spotify.com/authorize"
+TOKEN_URL = 'https://accounts.spotify.com/api/token'
 
 #le refresh token
 REFRESH_TOKEN = os.getenv("REFRESH_TOKEN")
 
 #première étape avoir un access token valide
-access_token = get_access_token(REFRESH_TOKEN,client_id,client_secret)
+ACCESS_TOKEN = get_access_token(REFRESH_TOKEN,CLIENT_ID,CLIENT_SECRET)
 
 #les paramètres de la requête
 headers = {
-    'Authorization': f'Bearer {access_token}'
+    'Authorization': f'Bearer {ACCESS_TOKEN}'
 }
 params = {
     'country': "FR"
 }
 
 
-string = 'ids=7ouMYWpwJ422jRcDASZB7P,4VqPOruhp5EdPBeR92t6lQ,2takcwOaAZWiXQijPHIx7B'
-
 #définition d'une erreur pour tester les uri
-def Test_Erreur_Playlist(n) : 
-    if n == [] : 
-        raise TypeError('Mauvaise uri')
+# def Test_Erreur_Playlist(n) : 
+#     if n == [] : 
+#         raise TypeError('Mauvaise uri')
 
 
-url = f"https://api.spotify.com/v1/tracks?{string}"
+URL = f"https://api.spotify.com/v1/tracks?"
 
-result = requests.get(url=url, headers=headers, params=params)
-data = json.loads(result.content)
-print(data)
+# result = requests.get(url=URL, headers=headers, params=params)
+# data = json.loads(result.content)
+# print(data)
+
+g_out = open("test_stat_uri.txt",'r',encoding='UTF-8')
+f_out = open("stat_tracks_popularity.txt",'w',encoding='UTF-8')
+h_out = open("stat_artists.txt",'w',encoding='UTF-8')
+f_out.write('id,popularity\n')
+#!attention aux virgules dans le nom des groupes
+h_out.write('artist_id;artist_name;track_id\n')
+
+
+offset = 0
+total= len(g_out.readlines())
+# print(total)
+g_out.seek(0)
+pos=0
+while offset < total : 
+
+    
+    i=0
+    
+    string = 'ids='
+    for i in range (0,min(50,total - offset)) : 
+            pos+=1
+            ligne = g_out.readline()
+            id_uri=re.search('(.)*:*:*:(.+)',ligne)[2]
+            string =string+id_uri.rstrip('\n')+","
+    string=string.rstrip(",")
+
+
+
+
+    url_=f'{URL}{string}'
+    result = requests.get(url=url_, headers=headers, params=params)
+
+    # print(url)
+    # print(result.status_code)
+    # print(result.content)
+    json_result = json.loads(result.content)
+    # print(json_result)
+    for item in json_result["tracks"] : 
+        # print(type(item))
+        # print(item.keys())
+        track_id = item["id"]
+        popularity = item['popularity']
+        f_out.write(f'{track_id},{popularity}\n')
+        for artist in item['artists'] : 
+            h_out.write(f'{artist["id"]};{artist["name"]};{track_id}\n')
+
+    offset = offset+50
+#TODO pour chaque id de tracks, je veux une strings d'artistes, une string d'id d'artistes et la popularity
+#TODO la string 
+
+g_out.close()
+f_out.close()
+h_out.close()
