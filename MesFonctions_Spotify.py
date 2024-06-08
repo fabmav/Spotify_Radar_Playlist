@@ -197,6 +197,27 @@ def get_playlist_tracks_uri(token,uri) :
     #f_out.close()
     return dico
 
+def get_playlist_tracks_id(token,uri) : 
+    liste=[]
+    # dico = {}
+    valid_token = 'Bearer '+token
+    offset = 0
+    total = get_playlist_total(token,uri)
+    while offset < total : 
+        headers = format_token(valid_token)
+        url=f'https://api.spotify.com/v1/playlists/{uri}/tracks?offset={offset}&limit=100'
+        result=get(url=url, headers=headers)
+        json_result = json.loads(result.content)
+        for item in json_result["items"] : 
+            track_id = item["track"]["id"]
+            #f_out.write("{}\n".format(b))
+            # liste.append(f'{b} - {c} - {d}')
+            liste.append(track_id)
+        offset = offset+100
+    #f_out.close()
+    return liste
+
+
 def format_track_todelete(token,Uri_Playlist,liste) : 
     '''this function takes tracks uri stored in a list and puts them in the proper json format 
     to submit a delete request to spotify api'''
