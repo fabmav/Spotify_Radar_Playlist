@@ -5,7 +5,7 @@ import requests
 import os
 import base64
 import json
-from MesFonctions_Spotify import*
+from spotify_func.MesFonctions_Spotify import*
 from datetime import*
 from re import*
 from time import sleep
@@ -50,62 +50,69 @@ with open('stat_artists.txt','r',encoding='UTF-8') as f_out :
     # print(total)
     
 f_out = open('stat_artists.txt','r',encoding='UTF-8')
-offset = 0
-pos = 0
-while offset < total : 
-    
-    i = 0
-
-    string = 'ids='
-    for i in range (0,min(50,total - offset)) : 
-            pos+=1
-            if pos == 1 : 
-                 ligne=f_out.readline()
-            else : 
-                ligne = f_out.readline()
-                id_uri=re.search(r'(\w+);*;(.+)',ligne)[1]
-                string =string+id_uri.rstrip('\n')+","
-    string=string.rstrip(",")
 
 
-# string = 'ids=2CIMQHirSU0MQqyYHq0eOx,57dN52uHvrHOxijzpIgu3E,1vCWHaC5f2uS3yhpwWbIA6'
+#! transformer le code : 
+#! une fonction qui génère l'url.
+#! une fonction qui exécute une requête et génère un json.
+#! une fonction qui parse le json et sort sort les data.
+def main(liste) : 
+    offset = 0
+    pos = 0
+    while offset < total : 
+        
+        i = 0
 
-# #définition d'une erreur pour tester les uri
-# def Test_Erreur_Playlist(n) : 
-#     if n == [] : 
-#         raise TypeError('Mauvaise uri')
+        string = 'ids='
+        for i in range (0,min(50,total - offset)) : 
+                pos+=1
+                if pos == 1 : 
+                    ligne=f_out.readline()
+                else : 
+                    ligne = f_out.readline()
+                    id_uri=re.search(r'(\w+);*;(.+)',ligne)[1]
+                    string =string+id_uri.rstrip('\n')+","
+        string=string.rstrip(",")
 
-    url_=f'{URL}{string}'
-    result = requests.get(url=url_, headers=headers)
-    # f_out.seek(offset+1)
-    
-    data = json.loads(result.content)
-    for i,item in enumerate(data['artists']) : 
-        artist_id=item["id"]
-        total_follower = item['followers']['total']
-        artist_genres = item['genres']
-        artist_popularity = item['popularity']
-        dico_data_artist[artist_id] = [artist_id,total_follower,artist_popularity]
-        dico_genre_artist[artist_id] = artist_genres
-    offset+=50
-f_out.close()
 
-with open('data_artist.txt','w',encoding='UTF-8') as f : 
-    f.write('artist_id,total_follower,artist_popularity\n')
-    for i in dico_data_artist : 
-        line = f'{dico_data_artist[i][0]},{dico_data_artist[i][1]},{dico_data_artist[i][2]}\n'
-        f.write(line)
+    # string = 'ids=2CIMQHirSU0MQqyYHq0eOx,57dN52uHvrHOxijzpIgu3E,1vCWHaC5f2uS3yhpwWbIA6'
 
-#!tester avec un reduce
-with open('data_genre.txt','w',encoding='UTF-8') as f : 
-    f.write('artist_id,genre\n')
-    for artist in dico_genre_artist : 
-            if dico_genre_artist[artist] == [] : 
-                 f.write(f'{artist},Nan\n')
-            else : 
-                for genre in dico_genre_artist[artist] : 
-                    line = f'{artist},{genre}\n'
-                    f.write(line)
+    # #définition d'une erreur pour tester les uri
+    # def Test_Erreur_Playlist(n) : 
+    #     if n == [] : 
+    #         raise TypeError('Mauvaise uri')
+
+        url_=f'{URL}{string}'
+        result = requests.get(url=url_, headers=headers)
+        # f_out.seek(offset+1)
+        
+        data = json.loads(result.content)
+        for i,item in enumerate(data['artists']) : 
+            artist_id=item["id"]
+            total_follower = item['followers']['total']
+            artist_genres = item['genres']
+            artist_popularity = item['popularity']
+            dico_data_artist[artist_id] = [artist_id,total_follower,artist_popularity]
+            dico_genre_artist[artist_id] = artist_genres
+        offset+=50
+    f_out.close()
+
+    with open('data_artist.txt','w',encoding='UTF-8') as f : 
+        f.write('artist_id,total_follower,artist_popularity\n')
+        for i in dico_data_artist : 
+            line = f'{dico_data_artist[i][0]},{dico_data_artist[i][1]},{dico_data_artist[i][2]}\n'
+            f.write(line)
+
+    #!tester avec un reduce
+    with open('data_genre.txt','w',encoding='UTF-8') as f : 
+        f.write('artist_id,genre\n')
+        for artist in dico_genre_artist : 
+                if dico_genre_artist[artist] == [] : 
+                    f.write(f'{artist},Nan\n')
+                else : 
+                    for genre in dico_genre_artist[artist] : 
+                        line = f'{artist},{genre}\n'
+                        f.write(line)
 
 
 
@@ -131,3 +138,6 @@ with open('data_genre.txt','w',encoding='UTF-8') as f :
 # g_out.close()
 # f_out.close()
 # h_out.close()
+
+if __name__ == "__main__" : 
+     None

@@ -7,8 +7,6 @@ import json
 from requests import post, get, delete, put
 from io import*
 import re
-from bs4 import BeautifulSoup
-from time import sleep
 from datetime import*
 from dateutil.parser import isoparse
 import logging
@@ -313,6 +311,7 @@ def update_description(token,uri,text) :
     print(response)
     print(response.status_code)
     print(response_message)
+
 
 if __name__ == '__main__' : 
     None

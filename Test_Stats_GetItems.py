@@ -3,7 +3,7 @@ import os
 import base64
 import json
 from requests import get
-from MesFonctions_Spotify import*
+from spotify_func.MesFonctions_Spotify import*
 from io import*
 
 load_dotenv()
@@ -22,11 +22,6 @@ ACCESS_TOKEN = get_access_token(REFRESH_TOKEN,CLIENT_ID,CLIENT_SECRET)
 
 liste_id = get_playlist_tracks_id(ACCESS_TOKEN,URI)
 
-with open ("test_stat_playlist.txt",'w',encoding='UTF-8') as stat : 
-     column='id,danceability,energy,key,loudness,mode,valence,tempo,duration_ms,time_signature\n'
-     stat.write(column)
-f_out = open("test_stat_playlist.txt",'a',encoding='UTF-8')
-
 #!ai-je besoin des URI ou des ids des tracks
 # with open ("test_stat_uri.txt",'w', encoding='UTF-8') as f :
 #      for data in dico : 
@@ -35,6 +30,10 @@ f_out = open("test_stat_playlist.txt",'a',encoding='UTF-8')
 # g_out = open("test_stat_uri.txt",'r',encoding='UTF-8')
 
 def main(liste) : 
+    '''this fuction writes on a file named test_stat_playlist.txt musical data of spotify tracks\n
+    input : list of track id\n
+    action : generates a file of track musical data\n
+    output : none'''
 
     offset = 0
     total= len(liste)-1

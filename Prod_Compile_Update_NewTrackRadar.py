@@ -2,7 +2,7 @@
 #It removes tracks uploaded prior to the same day of previous year.
 #It then compares tracks from a selected playlists, removes old ones and uploads new ones
 
-from MesFonctions_Spotify import*
+from spotify_func.MesFonctions_Spotify import*
 from datetime import*
 from re import*
 from time import sleep

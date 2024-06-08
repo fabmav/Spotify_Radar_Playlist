@@ -4,7 +4,7 @@
 import requests
 import os
 import json
-from MesFonctions_Spotify import*
+from spotify_func.MesFonctions_Spotify import*
 from datetime import*
 
 #on charge les variable : les clés publiques et privées
@@ -48,7 +48,13 @@ URL = f"https://api.spotify.com/v1/tracks?"
 
 
 def main(liste) : 
-
+    ''' this function generates two files from a list 
+    of track id one with track popularity,\n
+    one with artists associated with the track\n
+    input : list of track id
+    action : two files written
+    output : none'''
+    
     f_out = open("stat_tracks_popularity.txt",'w',encoding='UTF-8')
     f_out.write('id,popularity\n')
 
