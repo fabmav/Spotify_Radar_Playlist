@@ -3,12 +3,19 @@
 from requests import get
 from json import loads
 import logging
+from functools import reduce
 
 logger = logging.getLogger(__name__)
 
+def list_to_string(list,sep) : 
+    f = lambda x,y : str(x)+sep+str(y)
+    string = (reduce(f,list))
+    return string
+
+
 def generate_string(string_start, liste,length, start, end) : 
     string_temp = string_start       
-    for index,i in enumerate(range (0,min(length,end - start))) : 
+    for index,i in enumerate(range (start,min(start + length,end - start))) : 
         string_temp=string_temp+","+liste[i]
     string_temp=string_temp.rstrip(',')
     return string_temp
@@ -106,7 +113,7 @@ def write_to_file(liste, file_name,first_line,string_length,base_url,parse_func,
     with open(file_name,'w',encoding = 'UTF-8') as file : 
         file.write(f'{first_line}\n')
         for key in dico_line : 
-            file.write(f'{dico_line[key]}\n')
+            file.write(f'{list_to_string(dico_line[key],",")}\n')
 
 if __name__ == "__main__" : 
     None
