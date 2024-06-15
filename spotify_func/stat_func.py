@@ -4,8 +4,10 @@ from requests import get
 from json import loads
 import logging
 from functools import reduce
-
+from datetime import datetime, timezone
 logger = logging.getLogger(__name__)
+
+
 
 def list_to_string(list,sep) : 
     f = lambda x,y : str(x)+sep+str(y)
@@ -14,10 +16,14 @@ def list_to_string(list,sep) :
 
 
 def generate_string(string_start, liste,length, start, end) : 
-    string_temp = string_start       
-    for index,i in enumerate(range (start,min(start + length,end - start))) : 
+    logger.info(f'length of base list to generate string : {len(liste)}')
+    string_temp = ""       
+    for index,i in enumerate(range (start,min(start + length,end))) : 
         string_temp=string_temp+","+liste[i]
+    string_temp=string_temp.lstrip(',')
     string_temp=string_temp.rstrip(',')
+    string_temp=string_start + string_temp
+    logger.info(f'length of string generated : {len(string_temp.split(sep=","))}')
     return string_temp
 
 def get_request_data(base_url,string,request_headers,request_parameters=None) : 
@@ -44,7 +50,10 @@ def get_music_data(json_data) :
             dico[track_id] = [track_id,danceability,energy,key,loudness,mode,
                               valence,tempo,duration_ms,time_signature]
         except Exception as e : 
+            logger.info(f'''music features data not found for track id {item}''')
             print('pas trouvé')
+    logger.info(f'total id parsed: {len(dico)}')
+    print(f'total parsé : {len(dico)}')
     return dico
 
 def get_tracks_popularity(json_data) : 
@@ -52,7 +61,7 @@ def get_tracks_popularity(json_data) :
     for item in json_data["tracks"] : 
         track_id = item["id"]
         popularity = item['popularity']
-        dico[track_id]= [{track_id},{popularity}]
+        dico[track_id]= [track_id,popularity]
     return dico
 
 
@@ -63,12 +72,12 @@ def get_tracks_artist(json_data) :
         for artist in item['artists'] : 
             artist_id = artist["id"]
             artist_name = artist["name"]
-            dico[artist_id] = [{artist["id"]},{artist["name"]},{track_id}]
+            dico[artist_id] = [artist["id"],artist["name"],track_id]
     return dico
 
 def get_artist_data(json_data) : 
     dico = {}
-    for i,item in enumerate(json_data['artists']) : 
+    for item in json_data['artists'] : 
         artist_id=item["id"]
         total_follower = item['followers']['total']
         artist_popularity = item['popularity']
@@ -77,7 +86,7 @@ def get_artist_data(json_data) :
 
 def get_artist_genre(json_data) : 
     dico = {}
-    for i,item in enumerate(json_data['artists']) : 
+    for item in json_data['artists'] : 
         artist_id=item["id"]
         artist_genres = item['genres']
         dico[artist_id] = [artist_id,artist_genres]
@@ -100,7 +109,7 @@ def write_to_file(liste, file_name,first_line,string_length,base_url,parse_func,
     none'''
 
     dico_line = {}
-    total = len(liste) -1
+    total = len(liste)
     offset = 0
         
     while offset < total : 
@@ -109,11 +118,18 @@ def write_to_file(liste, file_name,first_line,string_length,base_url,parse_func,
         result = parse_func(json_data)
         dico_line.update(result)
         offset += string_length
-    
+
+    logger.info(f'total retrieved : {len(dico_line)}, total expected : {len(liste)}')
+    # if len(dico_line) != len(liste) : 
+    #     set_notfound = set(liste) - set(dico_line.keys())
+    #     for i in set_notfound : 
+    #         print(f'index in list of item not found : {liste.index(i)}')
+    #         logger.info(f'index in list of item not found : {liste.index(i)}\nid of item not found : {i}\n func : {__name__(parse_func)}')
+
     with open(file_name,'w',encoding = 'UTF-8') as file : 
         file.write(f'{first_line}\n')
         for key in dico_line : 
-            file.write(f'{list_to_string(dico_line[key],",")}\n')
+            file.write(f'{list_to_string(dico_line[key],sep)}\n')
 
 if __name__ == "__main__" : 
     None

@@ -14,7 +14,13 @@ import os
 import json
 from requests import get
 from io import*
+import logging
 
+
+#constant variables
+TODAY = datetime.now(tz=timezone.utc).strftime("%Y-%m-%d")
+#logging file setup
+logging.basicConfig(filename=f'log/stats_retrieval{TODAY}.log', level=logging.INFO) 
 
 load_dotenv()
 CLIENT_ID =os.getenv("SP_PUB_KEY")
@@ -38,5 +44,33 @@ URL_ARTISTS = f"https://api.spotify.com/v1/artists?"
 
 liste_id = get_playlist_tracks_id(ACCESS_TOKEN,URI)
 
-write_to_file(liste_id,"stat_audio_features.txt","coucou",99,URL_AUDIO_FEATURES,
-              get_music_data,HEADERS)
+write_to_file(liste=liste_id,file_name="stats/stat_audio_features.txt",first_line="coucou",
+              string_length=99,base_url=URL_AUDIO_FEATURES,parse_func=get_music_data,
+              request_headers=HEADERS)
+
+write_to_file(liste=liste_id,file_name="stats/stat_tracks_popularity.txt",first_line="coucou",
+              string_length=49,base_url=URL_TRACKS,parse_func=get_tracks_popularity,
+              request_headers=HEADERS,request_params=PARAMS)
+
+write_to_file(liste=liste_id,file_name="stats/stat_tracks_artists.txt",first_line="coucou",
+              string_length=49,base_url=URL_TRACKS,parse_func=get_tracks_artist,
+              request_headers=HEADERS,request_params=PARAMS,sep=";")
+
+
+liste_artists = []
+with open ("stats/stat_tracks_artists.txt","r",encoding="UTF-8") as f : 
+    for line in f : 
+        liste_line = line.split(sep=";")
+        liste_artists.append(liste_line[0])
+    liste_artists.remove(liste_artists[0])
+
+write_to_file(liste=liste_artists,file_name="stats/stat_artists_data.txt",first_line="coucou",
+              string_length=49,base_url=URL_ARTISTS,parse_func=get_artist_data,
+              request_headers=HEADERS)
+
+write_to_file(liste=liste_artists,file_name="stats/stat_artists_genres.txt",first_line="coucou",
+              string_length=49,base_url=URL_ARTISTS,parse_func=get_artist_genre,
+              request_headers=HEADERS)
+
+
+
