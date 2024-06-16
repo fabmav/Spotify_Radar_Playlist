@@ -72,7 +72,7 @@ def get_tracks_artist(json_data) :
         for artist in item['artists'] : 
             artist_id = artist["id"]
             artist_name = artist["name"]
-            dico[artist_id] = [artist["id"],artist["name"],track_id]
+            dico[artist_id] = [artist_id,artist_name,track_id]
     return dico
 
 def get_artist_data(json_data) : 
@@ -89,7 +89,11 @@ def get_artist_genre(json_data) :
     for item in json_data['artists'] : 
         artist_id=item["id"]
         artist_genres = item['genres']
-        dico[artist_id] = [artist_id,artist_genres]
+        try :
+            for genre in artist_genres : 
+                dico[artist_id] = [artist_id,genre]
+        except Exception as e : 
+                dico[artist_id] = [artist_id,"Nan"]
     return dico
 
 def write_to_file(liste, file_name,first_line,string_length,base_url,parse_func,request_headers,request_params=None,sep=",") : 
