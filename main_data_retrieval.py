@@ -42,7 +42,7 @@ URL_TRACKS = f"https://api.spotify.com/v1/tracks?"
 URL_ARTISTS = f"https://api.spotify.com/v1/artists?"
 
 FIRST_LINE = ["track_id,danceability,energy,key,loudness,mode,valence,tempo,duration_ms,time_signature",
-              "track_id,popularity",
+              "track_id;popularity;track_name",
               "artist_id;artist_name;track_id",
               "artist_id,total_follower,artist_popularity",
               "artist_id,artist_genres"]
@@ -55,7 +55,7 @@ write_to_file(liste=liste_id,file_name="stats/stat_audio_features.txt",first_lin
 
 write_to_file(liste=liste_id,file_name="stats/stat_tracks_popularity.txt",first_line=FIRST_LINE[1],
               string_length=49,base_url=URL_TRACKS,parse_func=get_tracks_popularity,
-              request_headers=HEADERS,request_params=PARAMS)
+              request_headers=HEADERS,request_params=PARAMS,sep=";")
 
 write_to_file(liste=liste_id,file_name="stats/stat_tracks_artists.txt",first_line=FIRST_LINE[2],
               string_length=49,base_url=URL_TRACKS,parse_func=get_tracks_artist,

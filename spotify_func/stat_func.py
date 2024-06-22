@@ -60,8 +60,9 @@ def get_tracks_popularity(json_data) :
     dico= {}
     for item in json_data["tracks"] : 
         track_id = item["id"]
+        track_name = item["name"]
         popularity = item['popularity']
-        dico[track_id]= [track_id,popularity]
+        dico[track_id]= [track_id,popularity,track_name]
     return dico
 
 

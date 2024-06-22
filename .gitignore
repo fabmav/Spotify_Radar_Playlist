@@ -10,5 +10,3 @@ test/
 __pycache__/
 #old & bup
 old/
-#stats txt file
-stats/
