@@ -79,6 +79,7 @@ def get_access_token(token, client_id, client_secret) :
     json_result = json.loads(result.content)
     print(json_result)
     new_token=json_result["access_token"]
+    logger.info(f'attempt to retrieve token : {json_result}')
     return new_token
 
 def format_token(token) : 
@@ -125,9 +126,12 @@ def store_uri(token,file) :
     dico = {}
     valid_token = 'Bearer '+token
     liste_uri=liste_uri_playlist(file)
+    count_track = 0
     for i in range(len(liste_uri)) :
         offset = 0
         total = get_playlist_total(token,liste_uri[i])
+        count_track += total
+        logger.info(total)
         print(total)
         while offset < total : 
             headers = format_token(valid_token)
@@ -145,6 +149,7 @@ def store_uri(token,file) :
             print(f'{offset} - {total}')
             offset = offset+100
     #f_out.close()
+    logger.info(f' raw number of tracks analysed : {count_track}')
     return dico
 
 def duplicate_suppr(L) : 
@@ -157,21 +162,54 @@ def duplicate_suppr(L) :
         else : i=i+1
     return L
 
-def OneYearFromNow(D) :  
+def date_above(D) :  
     aujourdhui = datetime.now(tz=timezone.utc)
-    borne = aujourdhui.replace(year = aujourdhui.year -1)
-    logger.info(f'suppressing all tracks uploaded prior to {borne} : ')
+
+    liste = [1,2,3,4,5,6,7,8,9,10,11,12]
+    new_month = liste[liste.index(aujourdhui.month) - 6]
+    new_year=aujourdhui.year
+    if liste.index(aujourdhui.month) - 6 <0 : 
+        new_year+=-1
+    borne = aujourdhui.replace(month= new_month)
+    borne = borne.replace(year= new_year)
+
+    logger.info(f' threshold date is : {borne}. all tracks above this date are kept ')
     dico={}
 
     for i in D :
         y= isoparse(D[i][0])
-        annee = y.year
         # print(f'{i} - {y} - {annee} - {aujourdhui} - {borne}')
         if y>= borne : 
             dico[i] = D[i]
         # else : 
         #     logger.info(f'suppressed : {i}')
+    logger.info(f'number of tracks kept: {len(dico)}')
     return dico
+
+def date_below(D) :  
+    aujourdhui = datetime.now(tz=timezone.utc)
+
+    liste = [1,2,3,4,5,6,7,8,9,10,11,12]
+    new_month = liste[liste.index(aujourdhui.month) - 6]
+    new_year=aujourdhui.year
+    if liste.index(aujourdhui.month) - 6 <0 : 
+        new_year+=-1
+    borne = aujourdhui.replace(month= new_month)
+    borne = borne.replace(year= new_year)
+
+    logger.info(f'threshold date is : {borne}. all tracks below this date are kept')
+    dico={}
+
+    for i in D :
+        y= isoparse(D[i][0])
+        # print(f'{i} - {y} - {annee} - {aujourdhui} - {borne}')
+        if y< borne : 
+            dico[i] = D[i]
+        # else : 
+        #     logger.info(f'suppressed : {i}')
+    logger.info(f'number of tracks to be removed : {len(dico)}')
+    return dico
+
 
 def get_playlist_tracks_uri(token,uri) : 
     # liste=[]
@@ -194,6 +232,33 @@ def get_playlist_tracks_uri(token,uri) :
         offset = offset+100
     #f_out.close()
     return dico
+
+
+def get_playlist_tracks_uri_new(token,uri) : 
+    # liste=[]
+    dico = {}
+    valid_token = 'Bearer '+token
+    offset = 0
+    total = get_playlist_total(token,uri)
+    while offset < total : 
+        headers = format_token(valid_token)
+        champs='items(added_at,track(uri,name,artists(name)))'
+        url=f'https://api.spotify.com/v1/playlists/{uri}/tracks?fields={champs}&offset={offset}&limit=100'
+        result=get(url=url, headers=headers)
+        json_result = json.loads(result.content)
+        for item in json_result["items"] : 
+            b= item["track"]["uri"]
+            c=item["track"]["name"]
+            d=item["track"]["artists"][0]["name"]
+            e=item["added_at"]
+            #f_out.write("{}\n".format(b))
+            # liste.append(f'{b} - {c} - {d}')
+            dico[b] = [e,b,c,d]
+        offset = offset+100
+    #f_out.close()
+    return dico
+
+
 
 def get_playlist_tracks_id(token,uri) : 
     liste=[]

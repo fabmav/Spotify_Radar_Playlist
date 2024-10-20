@@ -26,7 +26,7 @@ PLAYLISTS = "liste_playlist.txt"
 line_jump = lambda x,y : str(x)+"\n"+str(y)
 
 #logging file setup
-logging.basicConfig(filename=f'log/spotify_playlist{TODAY}.log', level=logging.INFO) 
+logging.basicConfig(filename=f'log/spotify_playlist{TODAY}.log', level=logging.INFO)
 
 logging.info(f'date script : {TODAY}\n----------------------------------------')
 
@@ -35,28 +35,48 @@ ACCESS_TOKEN = get_access_token(REFRESH_TOKEN,CLIENT_ID,CLIENT_SECRET)
 
 #second step : getting the uris
 dico_uri_raw=store_uri(ACCESS_TOKEN,PLAYLISTS)
-
+logging.info(f' raw number of tracks less duplicates : {len(dico_uri_raw)}')
+print(f' raw number of tracks less duplicates : {len(dico_uri_raw)}')
 #third step: expluding traks uploaded more than one year ago.
 #using track uri as dictionnary key ensures that we don't have duplicated tracks
-dico_uri_new= OneYearFromNow(dico_uri_raw)
+dico_uri_new= date_above(dico_uri_raw)
 
 expected_length = len(dico_uri_new)
 
-logging.info(f'playlist length : {expected_length}')
-print(f'expected number of tracks : {expected_length}')
+logging.info(f' number of tracks added less than 6 months ago : {expected_length}')
+print(f' number of tracks considered for upload : {expected_length}')
 
 
 #fourth step : getting tracks currently in the playlist
-dico_uri_old=get_playlist_tracks_uri(ACCESS_TOKEN,PLAYLIST_URI)
+dico_uri_old=get_playlist_tracks_uri_new(ACCESS_TOKEN,PLAYLIST_URI)
 
 #comaprison of new tracks vs previous tracks in order to get tracks to be removed and tracks to be uploaded
 set_prev = set(dico_uri_old.keys())
+
+set_delete = set(date_below(dico_uri_old).keys())
+
 set_new = set(dico_uri_new.keys())
-liste_uri_toDelete = list(set_prev - set_new)
+
+liste_uri_toDelete = list(set_delete)
+
 liste_uri_toUpload = list(set_new - set_prev)
-#TODO improve logging to add artist and track name
-logging.info(f'tracks suppressed from playlist : {reduce(line_jump,liste_uri_toDelete)}')
-logging.info(f'tracks added to playlist : {reduce(line_jump, liste_uri_toUpload)}')
+
+set_expected = (set_new -set_prev) - set_delete 
+
+#TODO simplify logging of tracks added / suppressed
+logging.info(f' tracks suppressed from playlist : ')
+if dico_uri_old == {} : 
+    logging.info(f'none')
+else : 
+    for i in liste_uri_toDelete : 
+        logging.info(f' track : {dico_uri_old[i][2]}, artist : {dico_uri_old[i][3]}, uri : {dico_uri_old[i][1]}')
+
+logging.info(f'tracks added to playlist : ')
+if dico_uri_new == {} : 
+    logging.info(f'none')
+else : 
+    for i in liste_uri_toUpload : 
+        logging.info(f' track : {dico_uri_new[i][2]}, artist : {dico_uri_new[i][3]}, uri : {dico_uri_new[i][1]}')
 
 #fifth step : suprressing old tracks
 if liste_uri_toDelete ==[] : 
@@ -84,6 +104,6 @@ update_description(ACCESS_TOKEN,PLAYLIST_URI,new_description)
 
 #control of script result by comparing expected playlist length vs obtained length
 new_length = int(get_playlist_total(ACCESS_TOKEN,PLAYLIST_URI))
-logging.info(f'expected length : {expected_length}, obtained length : {new_length}')
-print(f'expected length : {expected_length}, obtained length : {new_length}')
+logging.info(f'expected length : {len(set_expected)}, obtained length : {new_length}')
+print(f'expected length : {len(set_expected)}, obtained length : {new_length}')
 
