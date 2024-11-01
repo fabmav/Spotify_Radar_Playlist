@@ -103,9 +103,14 @@ def get_playlist_total(token,uri) :
     valid_token = 'Bearer '+token
     headers = format_token(valid_token)
     url="https://api.spotify.com/v1/playlists/"+uri+"/tracks?fields=total"
-    result=get(url=url, headers=headers)
-    json_result = json.loads(result.content)
-    return json_result['total']
+    try : 
+        result=get(url=url, headers=headers)
+        json_result = json.loads(result.content)
+        return json_result['total']
+    except Exception as e : 
+        logger.info(f'bug get_playlist_total pour uri {uri}')
+        logger.info(f'description : \n {e}')
+        return 0
 
 def get_playlist_snapshotid(token,uri) : 
     '''this function gets a playlist snapshot id'''
@@ -131,7 +136,7 @@ def store_uri(token,file) :
         offset = 0
         total = get_playlist_total(token,liste_uri[i])
         count_track += total
-        logger.info(total)
+        logger.info(f' total tracks playlist {i} : {total}')
         print(total)
         while offset < total : 
             headers = format_token(valid_token)
