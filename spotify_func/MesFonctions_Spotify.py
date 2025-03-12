@@ -109,6 +109,7 @@ def get_playlist_total(token,uri) :
         return json_result['total']
     except Exception as e : 
         logger.info(f'bug get_playlist_total pour uri {uri}')
+        logger.info(f'description : \n {json_result}')
         logger.info(f'description : \n {e}')
         return 0
 
