@@ -142,8 +142,8 @@ def store_uri(token,file) :
         while offset < total : 
             headers = format_token(valid_token)
             url=f'https://api.spotify.com/v1/playlists/{liste_uri[i]}/tracks?offset={offset}&limit=100'
-            print(url)
             result=get(url=url, headers=headers)
+            logger.info(f'resultat requête \n status code  : {result.status_code}\n headers : {result.headers}\n reason : {result.reason}\n')
             json_result = json.loads(result.content)
             for item in json_result["items"] : 
                 a= item["added_at"]
