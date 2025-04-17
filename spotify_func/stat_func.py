@@ -5,8 +5,9 @@ from json import loads
 import logging
 from functools import reduce
 from datetime import datetime, timezone
-logger = logging.getLogger(__name__)
+import re
 
+logger = logging.getLogger(__name__)
 
 
 def list_to_string(list,sep) : 
@@ -97,6 +98,19 @@ def get_artist_genre(json_data) :
                 dico[artist_id] = [artist_id,"Nan"]
     return dico
 
+
+def get_artist_genre_agg(json_data) : 
+    dico = {}
+    for item in json_data['artists'] : 
+        artist_id=item["id"]
+        artist_genres = item['genres']
+        artist_genres_main = compile_genre(str(artist_genres))
+        try :
+            dico[artist_id] = [artist_id,artist_genres,artist_genres_main]
+        except Exception as e : 
+            dico[artist_id] = [artist_id,"Nan","Other"]
+    return dico
+
 def write_to_file(liste, file_name,first_line,string_length,base_url,parse_func,request_headers,request_params=None,sep=",") : 
     '''this functions writes to a file the result of a request made to spotify API\n
     input : 
@@ -135,6 +149,44 @@ def write_to_file(liste, file_name,first_line,string_length,base_url,parse_func,
         file.write(f'{first_line}\n')
         for key in dico_line : 
             file.write(f'{list_to_string(dico_line[key],sep)}\n')
+
+def synth_genre_list(txt,output_file) : 
+    dico = {}
+    with open(txt,'r',encoding='UTF-8') as input_file : 
+        liste_genre = input_file
+        for line in liste_genre : 
+            x=re.search('(.+),(.*)',line)
+            if x[1] not in dico.keys() : 
+                dico[x[1]] = [x[2]]
+            else : 
+                dico[x[1]].append(x[2])
+
+    with open(output_file,'w',encoding = 'UTF-8') as file : 
+        for key in dico : 
+            main_genre = compile_genre(str(dico[key]))
+            file.write(f'{key},{dico[key]},{main_genre}\n')
+
+def compile_genre(L) : 
+
+    dico = {
+    'hip_hop_rnb' : re.compile("hip hop|rap|rnb|r&b|urbano|drill",re.IGNORECASE),
+    'reggae_afro' : re.compile("reggae|dub|ragga|afro",re.IGNORECASE),
+    'metal' : re.compile('metal|djent',re.IGNORECASE),
+    'soul_jazz' : re.compile('jazz|soul',re.IGNORECASE),
+    'electro_dance' : re.compile('electr|house|tech|break|bass|disco|small room|trip hop|jungle|tek',re.IGNORECASE),
+    'folk_acoustic' : re.compile("acoustic|songwriter|americana|folk",re.IGNORECASE),
+    'rock' : re.compile("rock|punk|hardcore|shoegaze|indie|power pop|country|screamo|emo|grunge|riot grrrl|psyche|crank wave",re.IGNORECASE),
+    'pop' : re.compile('pop|chanson|variete',re.IGNORECASE)}
+
+    # main_genre = [i if re.search(dico[i],L) != None else "other" for i in dico]
+    main_genre = "unknown" if L == '[]' else "other"
+    if main_genre == "unknown" : 
+        return main_genre
+    for i in dico : 
+        if re.search(dico[i],L) != None : 
+            main_genre = i
+            break
+    return main_genre
 
 if __name__ == "__main__" : 
     None
