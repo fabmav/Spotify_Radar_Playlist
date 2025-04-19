@@ -1,4 +1,6 @@
-import streamlit as st
+from config import *
+
+df = get_weekly_data_local()
 
 st.write('page browsing data')
 
