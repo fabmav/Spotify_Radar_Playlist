@@ -10,6 +10,7 @@ import re
 from datetime import*
 from dateutil.parser import isoparse
 import logging
+from time import sleep
 
 logger = logging.getLogger(__name__)
 
@@ -122,6 +123,22 @@ def get_playlist_snapshotid(token,uri) :
     json_result = json.loads(result.content)
     return json_result['snapshot_id']
 
+def test_request(func) : 
+    def wrapper(*args,**kwargs) : 
+        count = 0
+        while count != 5 : 
+            count +=1
+            result = func(*args,**kwargs)
+            if result.status_code !='200' : 
+                logger.info(f'resultat requête \n status code  : {result.status_code}\n headers : {result.headers}\n reason : {result.reason}\n')
+                sleep(60)
+            else : 
+                break
+        logger.info(f'{count} attempts\n final result :  \n status code  : {result.status_code}\n headers : {result.headers}\n reason : {result.reason}\n')
+        return wrapper
+        
+
+
 def store_uri(token,file) : 
     '''this function takes an access token and a file containing playlist uris as input\n
     identify the total number of tracks of each playlist,\n
@@ -142,16 +159,19 @@ def store_uri(token,file) :
         while offset < total : 
             headers = format_token(valid_token)
             url=f'https://api.spotify.com/v1/playlists/{liste_uri[i]}/tracks?offset={offset}&limit=100'
-            result=get(url=url, headers=headers)
-            logger.info(f'resultat requête \n status code  : {result.status_code}\n headers : {result.headers}\n reason : {result.reason}\n')
-            json_result = json.loads(result.content)
-            for item in json_result["items"] : 
-                a= item["added_at"]
-                b= item["track"]["uri"]
-                c=item["track"]["name"]
-                d=item["track"]["artists"][0]["name"]
-                dico[b] = [a,b,c,d]
-                #liste.append(f'{a} - {b} - {c} - {d}')
+            result=test_request(get(url=url, headers=headers))
+            try : 
+                json_result = json.loads(result.content)
+                for item in json_result["items"] : 
+                    a= item["added_at"]
+                    b= item["track"]["uri"]
+                    c=item["track"]["name"]
+                    d=item["track"]["artists"][0]["name"]
+                    dico[b] = [a,b,c,d]
+                    #liste.append(f'{a} - {b} - {c} - {d}')
+            except Exception as e : 
+                print(f'request unsuccessful for {i}, starting at offset : {offset}')
+                logger.info(f'request unsuccessful for {i}, starting at offset : {offset}')
             print(f'{offset} - {total}')
             offset = offset+100
     #f_out.close()
@@ -203,7 +223,7 @@ def date_below(D) :
     borne = aujourdhui.replace(month= new_month)
     borne = borne.replace(year= new_year)
 
-    logger.info(f'threshold date is : {borne}. all tracks below this date are kept')
+    logger.info(f'threshold date is : {borne}. all tracks above this date are kept')
     dico={}
 
     for i in D :

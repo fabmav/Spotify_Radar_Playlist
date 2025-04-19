@@ -1,4 +1,4 @@
-artist_id,artist_genres,artist_genre_main
+artist_id;artist_genres;artist_genre_main
 4eR9k3I0YKCQUvvP2ojptw;[];other
 65Msz2E34NUtbjEbsrsJlJ;['art rock'];rock
 6tpaMMCs8X6o8j9H5OmWmT;[];other
