@@ -1,5 +1,8 @@
 from config import *
 
+#todo boutons de choix du genre
+    #todo browser les sous genre et les artistes et morceaux associés
+
 df = get_weekly_data_local()
 
 st.write('page browsing data')
@@ -26,5 +29,5 @@ with col2 :
 
     container = st.container(border=True,height=500)
     with container : 
-        df_list = df[["artist_name","track_name"]][df["artist_genre_main"]==genre].drop_duplicates()
+        df_list = df[["artist_name","track_name"]][df["artist_genre_main"]==genre].drop_duplicates().sort_values(by="artist_name")
         st.dataframe(df_list)
