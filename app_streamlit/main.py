@@ -26,3 +26,7 @@ with col2 :
     ax.pie(x=df_genre_pie['artist_id'],labels=df_genre_pie['artist_genre_main'])
     st.pyplot(fig)
     st.write("doughnut by genre")
+
+    fig_px = px.pie(df_genre_pie, values='artist_id', names='artist_genre_main', title='Split By genre', color_discrete_sequence=px.colors.sequential.RdBu)
+
+    st.plotly_chart(fig_px)

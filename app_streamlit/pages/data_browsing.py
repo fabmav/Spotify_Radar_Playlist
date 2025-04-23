@@ -21,3 +21,10 @@ with col2 :
     with st.form(key="genre_choice") : 
         genre = st.text_input("choose a genre")
         st.form_submit_button()
+
+    st.write(genre)
+
+    container = st.container(border=True,height=500)
+    with container : 
+        df_list = df[["artist_name","track_name"]][df["artist_genre_main"]==genre].drop_duplicates()
+        st.dataframe(df_list)
