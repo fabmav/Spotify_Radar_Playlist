@@ -294,8 +294,8 @@ def get_playlist_tracks_uri_new(token,uri) :
 
 
 def get_playlist_tracks_id(token,uri) : 
-    liste=[]
-    # dico = {}
+    # liste=[]
+    dico = {}
     valid_token = 'Bearer '+token
     offset = 0
     total = get_playlist_total(token,uri)
@@ -305,13 +305,16 @@ def get_playlist_tracks_id(token,uri) :
         result=get(url=url, headers=headers)
         json_result = json.loads(result.content)
         for item in json_result["items"] : 
+            added_at = item["added_at"]
             track_id = item["track"]["id"]
             #f_out.write("{}\n".format(b))
             # liste.append(f'{b} - {c} - {d}')
-            liste.append(track_id)
+            # liste.append(track_id)
+            dico[track_id]=[track_id,added_at]
         offset = offset+100
+    logger.info(f'uri list length : {len(dico)}')
     #f_out.close()
-    return liste
+    return dico
 
 
 def format_track_todelete(token,Uri_Playlist,liste) : 

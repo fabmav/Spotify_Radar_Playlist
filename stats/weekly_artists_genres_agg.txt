@@ -1,1169 +1,1350 @@
-artist_id;artist_genres;artist_genre_main
-4eR9k3I0YKCQUvvP2ojptw;[];other
-65Msz2E34NUtbjEbsrsJlJ;['art rock'];rock
-6tpaMMCs8X6o8j9H5OmWmT;[];other
-1MRB7UrVK6DvvefA7pAqS8;[];other
-4wrzxtBZw20ufDstKyTnnP;[];other
-1WaFQSHVGZQJTbf0BdxdNo;[];other
-33swwbOrC7iMmPF3TXGLNi;[];other
-1SXilrjOlDsfjsSLP2mBFk;[];other
-1QcbaOVrpo91k6rHnzhMeA;['post-punk'];rock
-4meTRfbaVba24HXyBwbKJ0;[];other
-4wLIbcoqmqI4WZHDiBxeCB;[];other
-7axA2bNeZsae6t2mgxoSFh;['power pop'];rock
-4E2rKHVDssGJm2SCDOMMJB;[];other
-7EEefVBNBS3ckwouEl62oB;[];other
-4CvTDPKA6W06DRfBnZKrau;[];other
-35v2YILQxee0yatdWj6Kg7;[];other
-1Hs5RG6WIwUSJLxRYWaOW6;[];other
-2kt9iXyIMY6yv45SapEw5r;['bolero', 'latin indie'];rock
-0Byw4aFEQbFJBgL82P0LKc;['latin r&b'];hip_hop_rnb_soul_afro
-2fgl3me4n9diODTrVfruF3;['pop punk', 'post-hardcore', 'melodic hardcore', 'midwest emo', 'emo'];rock
-1ZerBXsbpj16RGfRQt9GVy;[];other
-2rSgemTda5SY7PQcEscHUO;[];other
-5WybyjV2fRyRQcJrmmiifF;['experimental hip hop'];hip_hop_rnb_soul_afro
-5H9qWExyKaoAteM6JzlSoZ;['underground hip hop', 'boom bap'];hip_hop_rnb_soul_afro
-0jQlt8C2OuW3ZwHTSvTDI5;['japanese indie', 'art pop', 'shibuya-kei'];rock
-4Fc4GqcYwYnTePiW3nggrd;[];other
-25uiPmTg16RbhZWAqwLBy5;['hyperpop', 'art pop'];pop
-5tDjiBYUsTqzd0RkTZxK7u;['melodic house', 'melodic techno', 'progressive house', 'deep house'];electro
-6oBm8HB0yfrIc9IHbxs6in;[];other
-5STTEE3TlZg9gb3xNC4RHF;['french pop', 'french house'];electro
-39ZEMGRv3pIYTYKEhr4Abu;['indie folk', 'chamber pop'];folk_acoustic
-4frXpPxQQZwbCu3eTGnZEw;[];other
-5INjqkS1o8h1imAzPqGZBb;['indie', 'psychedelic pop'];rock
-5APEQlUaQ5K70LgPqAdTuU;['dream pop'];pop
-4cGPrUtNiRS7pdfiKZ1EGw;['post-punk'];rock
-7fKByRicmiWrFBEn90MvuM;['shoegaze', 'dream pop', 'slowcore'];rock
-1IOeIjSSt8AcZXEriZXcvx;['americana', 'alt country'];folk_acoustic
-1oPRcJUkloHaRLYx0olBLJ;[];other
-2Hkg1gn2Hpar1sVP8adtNp;[];other
-6qqNVTkY8uBg9cP3Jd7DAH;[];other
-7B2edU3Q7btJoNsoHCNohM;['singer-songwriter', 'chamber pop', 'folk', 'indie folk'];folk_acoustic
-790FomKkXshlbRYZFtlgla;['reggaeton', 'latin', 'urbano latino'];hip_hop_rnb_soul_afro
-4OTD2AbOu5iBqSWk3NfwG5;[];other
-6FlOCziOXI157pvUREAh3E;[];other
-15iVAtD3s3FsQR4w1v6M0P;['drill'];hip_hop_rnb_soul_afro
-2DGBzoOLcKLK3eWxFyugdB;['alternative r&b'];hip_hop_rnb_soul_afro
-1O9iHQjrVuiAYOJFCBeFSl;['alternative r&b'];hip_hop_rnb_soul_afro
-09kXLeOXRyfNQMXRaDO4qA;[];other
-3UtzOHYm3lQALkKzVD4wyO;[];other
-0Ve1sk7tcGsb7ZVsp4o8GG;['jangle pop'];pop
-1jtvmXiemNFkPO11NMdjfu;['latin r&b'];hip_hop_rnb_soul_afro
-0vRyt5xtZZ8cve0YTSxNIw;['experimental', 'ambient', 'drone'];other
-7dMRwCBbJFmRLoUKkeGD3l;[];other
-4nD7mZ37GMiFBSjvWZIlDb;['shoegaze', 'slowcore'];rock
-1SCoi5U37R1KbEQHuKKgam;[];other
-0lxgPYvUjEApUKpZmr61IE;['cloud rap'];hip_hop_rnb_soul_afro
-4mcHKwboFDmpDBQ4fiOrf3;[];other
-4JzQKxgdLmyqbplHxVL8xY;[];other
-0rq22r0SYR7d7pDXwq1tLV;['alt country'];rock
-1CoZyIx7UvdxT5c8UkMzHd;[];other
-1gR0gsQYfi6joyO1dlp76N;['french house', 'new rave', 'electronic rock'];electro
-1oK8ZGSUkLNP1WADzLSJe4;[];other
-7bu3H8JO7d0UbMoVzbo70s;['new wave', 'post-punk', 'darkwave'];rock
-5rgdw8NVhnxWL8Poo6HsiX;['dub', 'reggae', 'ragga'];hip_hop_rnb_soul_afro
-63vMehdxxRWq9HBZHskapk;['dub', 'ragga', 'reggae'];hip_hop_rnb_soul_afro
-25CgccXK9hJBTuaMF44zeR;['shoegaze', 'slowcore'];rock
-480FcWBc0dlEZc52noh462;[];other
-54N4voTBO17fp6dEegF4qa;['ambient'];other
-40ZNYROS4zLfyyBSs2PGe2;['country', 'red dirt'];rock
-3eqjTLE0HfPfh78zjh6TqT;[];other
-4I29IR2MABOOQXGDdcYA2q;[];other
-3SGLeWc7J5Ve0CinAOrb3a;['surf rock', 'garage rock'];rock
-5W10uJRsbt9bROJDKoI1Wn;['art pop'];pop
-4tK6Z8fK7Sc9133byjPGIT;['alt country', 'slowcore'];rock
-4mAsHgZzoZvU0eMbHOB60X;['underground hip hop', 'rage rap', 'cloud rap'];hip_hop_rnb_soul_afro
-0WqsT2a4CBuQ0LC7vrJD0H;[];other
-3UkN1XeK2D4wD4uhtJx4vb;['space rock'];rock
-0CREEnqrPXZUTyHKATsUWE;[];other
-7EFB09NxZrMi9pGlOnuBpd;['shoegaze', 'post-punk'];rock
-1WVGbBnzZ5WLZ2PfesIHik;[];other
-69zPIMRgsZieOHFtHtvnj0;[];other
-7zNkqI6qRr0OJ4XO1Pw29g;[];other
-0GmYGGZZIU8vHbI0bAXZun;[];other
-63GTn25wbdRNX3ijCHvYxD;['midwest emo', 'math rock'];rock
-4hkOCqpKuf6KFaQeTGfYNw;[];other
-7KPlumtsoyeN8Qp3EPxv7L;['vaporwave'];other
-4HrCsxMRWFsSi8Vf0qBjK4;['post-punk'];rock
+artist_id,artist_genres,artist_genre_main
+5tDjiBYUsTqzd0RkTZxK7u;['melodic house', 'melodic techno', 'progressive house', 'deep house'];electro_dance
+6oBm8HB0yfrIc9IHbxs6in;[];unknown
+4OTD2AbOu5iBqSWk3NfwG5;[];unknown
+3UtzOHYm3lQALkKzVD4wyO;[];unknown
+4tK6Z8fK7Sc9133byjPGIT;['alt country'];rock
+69zPIMRgsZieOHFtHtvnj0;[];unknown
 0jyH4jtanxaysaxwDVhR6f;['idm', 'shoegaze', 'post-rock', 'ambient'];rock
-6Je4hal6B5wiRd46aeswrs;['afro house'];hip_hop_rnb_soul_afro
-0VVnWF3KNaa5O7ESohKhAx;['afro house', 'afropop'];hip_hop_rnb_soul_afro
-0CX4q2v1TeyeskG7GgAyxI;['afro house'];hip_hop_rnb_soul_afro
-0FSasrFTs0AQBrJkcFE6vB;['afro house'];hip_hop_rnb_soul_afro
-0Nks3cFWU2a7rooAlFQYgn;['fado'];other
-3MAzDpqE01xyUmzNsc0Ee0;['retro soul', 'soul'];hip_hop_rnb_soul_afro
-5RMLpCv3ic2KtGnqJ7eMG4;[];other
-6Xo1vXFRCEJPgVqCyHlTPW;['nu jazz'];jazz
-3tZgzfMnnKEb2WrGNO5tDp;[];other
-3zj39NVYkiKY8KUx7lFZRL;[];other
-7th9o3DE5cL9VsgNLgfxsJ;[];other
-0XcPeWzqZvamO9avSQiJlA;[];other
-4VcTmgGKGuJn56Ac2zNhiH;[];other
-65s98MYZ4xFpgKlUYS5XKw;[];other
-2aqNYQZI10b5GBQJBcxGj4;[];other
-4AA474G2hRfrHyGrfyDseO;[];other
-6M2wZ9GZgrQXHCFfjv46we;['pop'];pop
-4fd3n8zcAmsG2up1QWDNj5;[];other
-0ukgSx1gUt5rUihbNh46qy;[];other
-09yvLritEUxHrzx5TlFvbl;['americana', 'alt country'];folk_acoustic
-1ZN1c1qWEGZNX1pGeKCPpf;['bluegrass', 'newgrass', 'americana'];folk_acoustic
-2BS3fywRW33o5GygfzZaOZ;[];other
-0cmSXx965Hnm6fP42oW6vY;['midwest emo', 'math rock', 'emo'];rock
-7LMdXzRix6vqLE1PefCPAg;['screamo'];rock
-0HzDn36ZNGZBYOGWp96Eeh;['screamo', 'emocore', 'post-hardcore', 'midwest emo'];rock
-0ut7R4fRbYSYkDZuNG22hX;[];other
-3weTDlYKpF9A55JH0XAKkD;[];other
+3MAzDpqE01xyUmzNsc0Ee0;['retro soul', 'soul'];soul_jazz
+4VcTmgGKGuJn56Ac2zNhiH;[];unknown
+65s98MYZ4xFpgKlUYS5XKw;[];unknown
+2aqNYQZI10b5GBQJBcxGj4;[];unknown
+4AA474G2hRfrHyGrfyDseO;[];unknown
+4fd3n8zcAmsG2up1QWDNj5;['jazz house'];soul_jazz
+0ukgSx1gUt5rUihbNh46qy;[];unknown
 1fRv9jiRIN7zAOSpOfRP73;['hardcore punk', 'hardcore'];rock
-6wH6iStAh4KIaWfuhf0NYM;['latin alternative', 'spanish language reggae'];hip_hop_rnb_soul_afro
-22p8vOZwMABvl5qt2nZHWD;['latin indie', 'latin folk', 'latin r&b'];hip_hop_rnb_soul_afro
-3Lk9AWrpD4bminO5LwmBOw;[];other
-3rf7cB2o79L2LEcl9HIjAf;['jersey club', 'alté'];other
-0bhck1r45kgsoMNBVqIziz;['indie r&b'];hip_hop_rnb_soul_afro
-4oLeXFyACqeem2VImYeBFe;['stutter house', 'house'];electro
-3IunaFjvNKj98JW89JYv9u;[];other
-6M98IZJK2tx6x2YVyHua9K;[];other
-33YsWRCg88zGFdA0xjxeLO;[];other
-687cZJR45JO7jhk1LHIbgq;['afrobeats', 'alté', 'afrobeat', 'afropop'];hip_hop_rnb_soul_afro
-6VR4TJ20WGiho2xZWMuuWb;[];other
-4ZbFpxbORhzU78ve8e62Ej;[];other
-1jwOuEBcOKq0BeudSarbEM;[];other
-7ljTofQBh5fR5SYfGHRYs8;[];other
-7fgs0Ym1ukMZDgKjx8mbMe;[];other
-7xTo7ipdBZezIoyAkmcRge;['gothic metal', 'black metal', 'death metal', 'melodic death metal', 'doom metal', 'metal'];metal
-27JCep1zDO3K8GY50trDo6;['breakbeat', 'uk garage'];electro
-5rv6OYiDFLm0gQ8wbihOib;['french pop', 'french house'];electro
-422Vo1v0NaW7ZVU8EwvhKW;['indie'];rock
-6v6OE9MQreCmwuAqF0NfzQ;[];other
-13GH7wviJQ9gfZmr1pXHS4;['djent', 'progressive metal', 'math rock', 'metalcore'];metal
-7AgbNZPRrvTpWjVbbPoUmU;[];other
 7d0wUlQ0ZXIGFa0YzuBiR6;['shoegaze', 'dream pop'];rock
 3TJZG17pjOKXwx1ELKJPfm;['shoegaze'];rock
-6P86FLVAK4sxu8OhyQJBvH;['ambient', 'art pop', 'experimental'];pop
-380fnmlGnkyueBMqGWx2k5;[];other
-6wmTznuYHk73RoBXkYEBnV;['power pop'];rock
 4yRSUmhuSJ3KcIMljdh4fH;['noise rock', 'sludge metal'];metal
-3OyC0tKaejLvZHB4s78zED;['shoegaze', 'dream pop', 'slowcore', 'christian alternative rock'];rock
-2lciIw4vq0jQqevXA2TEUl;[];other
-75JMPNQ1B2A6WZydvs06Ok;['uk garage', 'hard house'];electro
-7MxGWmiAbqjNOGmj23wbWf;[];other
-4IVAbR2w4JJNJDDRFP3E83;[];other
-4V30Q8ACPdJCcAmAYibfrH;[];other
-00JAfwtx5gNiiqyor88Dr5;[];other
-0K4Pj79XGQRXv1ESJADlMX;['jazz'];jazz
-0AJltdSFgxM1li4ad74mIJ;['midwest emo', 'math rock', 'emo'];rock
-73MDShZzdL4vUGMkmXOG6X;[];other
-7L9i7U3GAu8NDpxvuAjb8Y;[];other
-61NKNrhSMTYg2q0f3vS46e;['french pop', 'chanson', 'variété française', 'french house'];electro
-2KlDlqEMf0YyYW8rBKUx6W;['french pop', 'french house'];electro
-5xS8cfsAaFyy188dNJGDbM;['colombian pop'];pop
-65dGLGjkw3UbddUg2GKQoZ;[];other
-4us4NMG5wuqdUZvthZrj0Q;[];other
-49xQzRRO1vI3fmCdbPTwBB;[];other
-3d93jQ6vfQHLJSMbjr7o6M;['power pop'];rock
-0EJdA6JT738oZGopzk8Usg;['french pop', 'french house'];electro
-35fcckhFq2cF2u7hIG0fPv;['boom bap'];other
-04UrujFn9VOscInw9kwHH8;['underground hip hop', 'hardcore hip hop', 'east coast hip hop'];hip_hop_rnb_soul_afro
-0IqC2A5HTnTIKzqcFXJQms;['shoegaze', 'slowcore', 'dream pop'];rock
-21WONmlGjC0BUY7OycaNvb;[];other
-5vjIHa1u3TnOlDvVDR9qQa;['slowcore', 'shoegaze'];rock
-4lZnkaz9aOPIE9gdDCztBZ;[];other
-4GoD5FJCgC0lbzde7ly44M;[];other
-151BUVKmiB9rHDjIkgbeVE;['underground hip hop', 'boom bap'];hip_hop_rnb_soul_afro
-0giUOGLTAaVVbdr7aSwM0N;['boom bap', 'underground hip hop', 'hardcore hip hop'];hip_hop_rnb_soul_afro
-4gzpq5DPGxSnKTe4SA8HAU;[];other
-3ZpEKRjHaHANcpk10u6Ntq;['afrobeats', 'afrobeat', 'afropop', 'afro soul'];hip_hop_rnb_soul_afro
-4coMsvF8UAoIjOnNCz6Es2;[];other
-1dwirHaSjsKJUYDHgvl2op;['shoegaze'];rock
-1Wxx3yxd6gZsNiAF1OwLk0;[];other
-6XePd0EqV9enJtOlKcb6o6;[];other
-7ELgaDINZw50qnlbK7iPhG;['hardcore punk', 'hardcore', 'grindcore'];rock
-5RNFFojXkPRmlJZIwXeKQC;['glam rock'];rock
-7rZNSLWMjTbwdLNskFbzFf;[];other
-3t58jfUhoMLYVO14XaUFLA;['jazz fusion', 'jazz'];jazz
-1TkiNxDsrc0PgIWBrATCbe;['shoegaze'];rock
-5dyPWLr4wOvR1d6tSSVgrv;['deathstep', 'screamo'];rock
-5g6MeOHOenBIm8tyVjRfwQ;[];other
-0u6DHFbAF5yCLQ6KXJTEib;[];other
-1culxorWJ7asjQIHf9RSzs;[];other
-0KRqdhJSmE5uVSJ2SyDpRZ;['drum and bass', 'jungle', 'breakbeat'];electro
-38ZoSddjoRbcCcEXyqdWIj;[];other
-3UEuTog3sQ7Dt3mTv0bsEo;['sludge metal'];metal
-7IrBqZo6diq3hV3GpUhrs2;[];other
-4aEnNH9PuU1HF3TsZTru54;['indietronica', 'idm'];rock
-4rdJkXHNrMgowlwUdQAg8T;['electropop'];electro
-0TTADMS1RLOmf7qACoMewD;[];other
-7KeN0XX71T4fGysIYLB5J5;[];other
-33yje3hgpNfdXpqdJQcrt9;[];other
-6hW33nVHPElaXuG2hQ0QOp;['hardcore punk', 'hardcore'];rock
-2RqrWplViWHSGLzlhmDcbt;[];other
-1Zoaf3n6LhFuN5Ir3Ab4yM;[];other
-14hI6ZlrKB6X81Y046P2MW;[];other
-0VRj0yCOv2FXJNP47XQnx5;[];other
-00FQb4jTyendYWaN8pK0wa;[];other
-1xU878Z1QtBldR7ru9owdU;['indie'];rock
-5aMPRdW6S0lzdsJgwdcggq;['midwest emo'];rock
-34YDJw1qH194wPOUrfc4hZ;[];other
+73MDShZzdL4vUGMkmXOG6X;[];unknown
+7L9i7U3GAu8NDpxvuAjb8Y;[];unknown
+5vjIHa1u3TnOlDvVDR9qQa;['slowcore', 'shoegaze', 'dream pop'];rock
+4coMsvF8UAoIjOnNCz6Es2;[];unknown
 4SpbR6yFEvexJuaBpgAU5p;['k-pop'];pop
 78rUTD7y6Cy67W1RVzYs7t;['bedroom pop'];pop
-0kDgxQlVYVecF6MCNWJTYE;[];other
-6lirZ0ouvh4l3fz3HSnIwi;[];other
-7Hjbimq43OgxaBRpFXic4x;[];other
-14hFXWA8giW96HpYkTxywX;[];other
-1H78Q8wCK3PAvs1G3ocexx;[];other
-7auVoAwdrloWdyKULVOauu;['alternative hip hop'];hip_hop_rnb_soul_afro
 4LEiUm1SRbFMgfqnQTwUbQ;['indie folk'];folk_acoustic
-5jh7sgXW2njALiIh0aPXjB;['noise rock'];rock
-4Gmrt82h2vjGjnp67SG5Nw;['post-punk'];rock
-49O77SKrEk1b9sNjhI0kM4;['sludge metal'];metal
-2HGAZDmVV3GAH4XFAZdvSG;['french pop'];pop
-5CFSYjc0PAiQvndFjafabk;['art pop'];pop
-1R84VlXnFFULOsWWV8IrCQ;['psychedelic pop'];pop
-5iUnvXddCpOrbWKm7QMr6o;['idm', 'experimental hip hop'];hip_hop_rnb_soul_afro
-59oA5WbbQvomJz2BuRG071;[];other
-6WP8xxDLcPKNgdQWjU3BzN;['power pop', 'midwest emo'];rock
-2Mvgw0Sfyepmz6lgRAooex;['neoperreo', 'jersey club'];other
-29rvPhemBdOLYdLr2xI8dr;['neoperreo'];other
-3c5PAcbkeFrbWUp42FaBkW;['drone', 'shoegaze', 'ambient', 'dark ambient'];rock
-0aE0jIMsKSVBasU5D0e5zM;[];other
-3Ut1IKlpXHBQwxklMxBsPX;['uk drill'];hip_hop_rnb_soul_afro
-1nRbtbdYK51y71nVOxu332;['drill', 'jersey club'];hip_hop_rnb_soul_afro
-5szilpXHcwOqnyKLqGco5j;[];other
-64ATDQsFeDvIJokVA2YVke;['midwest emo', 'screamo', 'math rock'];rock
-73XtH9MpvvvcUxQxYEAX15;['midwest emo', 'math rock'];rock
-5IWCU0V9evBlW4gIeGY4zF;['chamber pop'];pop
-0aCjVhVSBUMVwo7WRrdLiJ;['shibuya-kei'];other
-79yETfINxnDl54mTKLZUlb;[];other
-335TWGWGFan4vaacJzSiU8;['hyperpop'];pop
-2xGbY9iFLZqd9BK0YV1aKW;[];other
-39hfuTf4PHfnHgIl0QBDGL;['neoperreo', 'chilean trap', 'reggaeton chileno'];hip_hop_rnb_soul_afro
-3diDUq8QMCCtx8a4Jy42aO;['bedroom pop'];pop
-0BXnfQpsxFevtKePq6eX4y;[];other
-1peoXq0RPx7czVoFjloeDQ;['experimental hip hop', 'alternative hip hop'];hip_hop_rnb_soul_afro
-4fpwOzxFRMVGfd197dKIdY;['boom bap', 'alternative hip hop', 'experimental hip hop', 'jazz rap'];hip_hop_rnb_soul_afro
-1VuBGdfqq86BQyiDactQAC;['boom bap'];other
-4ZAk3yVJdtf1CFnTiG08U3;[];other
-3QTDHixorJelOLxoxcjqGx;['alternative r&b', 'neo soul'];hip_hop_rnb_soul_afro
-3jK9MiCrA42lLAdMGUZpwa;[];other
-3CiuXDKttPUT0tWGHicFUH;[];other
-5EF4drUzQkdBnQSDZfAZZ4;[];other
-39ZHUueufhIdbW4yu9uODG;[];other
-2Y8G3abt5hRU7X9RNi7dlZ;[];other
-7axZFTseO96HmG1u4ABDAI;[];other
-5jy9tglmQRLmTmcqz2qyUa;[];other
-5A7T1LAGJg5NXySBoIKUmF;['rage rap', 'underground hip hop'];hip_hop_rnb_soul_afro
-4q3ewBCX7sLwd24euuV69X;['reggaeton', 'trap latino', 'urbano latino', 'latin'];hip_hop_rnb_soul_afro
-3ztRX1UoIOsFqpD7dB6R8O;[];other
-0HRGx78eQaMqoHoopLfi2h;[];other
-4VnDOpK4rdMBMihlIt6Uxr;[];other
-16QCJENzcdhwka9bTKYMVB;['melodic hardcore', 'post-hardcore', 'screamo', 'hardcore', 'emocore', 'midwest emo'];rock
-7dYpljfleToKnSmBFqjqkd;[];other
-3qOGTt4eTeEkCn3efhAGu2;['neoperreo', 'uk funky'];other
-1nIJEqPyIj5qutlgWNmQB0;['alternative r&b'];hip_hop_rnb_soul_afro
-6U1lmwvy3I9dIYu9RalJi6;['slowcore', 'shoegaze'];rock
-3l0CmX0FuQjFxr8SK7Vqag;['bedroom pop'];pop
-53by9P3tpXOW1diWCI6MNu;['psychedelic rock', 'garage rock'];rock
-2rLGlNI6htigNxx172qxLu;['hyperpop', 'shoegaze'];rock
-4VivsO1n4n2Mi2Btyb5gfL;[];other
-1b1pwTnc2DJVXGy8pniShT;['midwest emo', 'math rock', 'emo'];rock
-5LhTec3c7dcqBvpLRWbMcf;['experimental hip hop', 'alternative hip hop', 'jazz rap'];hip_hop_rnb_soul_afro
-6DJEUXZm0e2rAohdoZ5Voo;['east coast hip hop'];hip_hop_rnb_soul_afro
-20dRvQDfCTLJU0pgq13ZYp;['boom bap', 'underground hip hop', 'experimental hip hop'];hip_hop_rnb_soul_afro
-4uG8VYp1GLQpZVokfG2Ui7;[];other
-0IVapwlnM3dEOiMsHXsghT;['idm'];other
-0ygIgsjUzKivFgxgjQ9iV9;[];other
-7fKO99ryLDo8VocdtVvwZW;['afrobeats', 'afrobeat', 'azonto', 'afropop', 'bongo flava'];hip_hop_rnb_soul_afro
-3nwYsifpwrKmCIpw4i0HDW;['dancehall', 'soca', 'riddim', 'ragga', 'reggae'];hip_hop_rnb_soul_afro
-1Kg4nxeTD9wP3082jp1nkH;['gengetone', 'bongo flava'];other
-31kZNy2FQoUD4V8LUr9exv;['power pop'];rock
-4svpOyfmQKuWpHLjgy4cdK;['post-rock', 'drone'];rock
-2ZcNubl5ligYVy7MCs2JJ9;[];other
-7DNWAdCPicuaw9vhjudRlS;[];other
-0VcpOwnjkQaqDeEiVa9cu5;[];other
-2Au9zIICTEr0oeV1iQrJ6X;['miami bass', 'jersey club'];electro
-04JuXvm8MDLVe845QWe137;['arabic rap', 'egyptian hip hop'];hip_hop_rnb_soul_afro
-6cpzd2aRLmkE06P4lFFMlj;[];other
-75klPfIVnyYcyEGaicRUSF;['garage rock'];rock
-6RRpZz1uPqY9E28kmSPAhw;['metalcore', 'post-hardcore', 'deathcore', 'screamo', 'djent'];metal
-27qVZWcFcgOFp4pbsA7Pvd;[];other
-3tM7dj8ztmzKcugbIVMxy0;[];other
-5eitAUlYmlha3LLWg7aBn5;[];other
-79YjWaAoD88XGLETIsnnQV;['latin indie'];rock
-6fxyWrfmjcbj5d12gXeiNV;['punk rap'];hip_hop_rnb_soul_afro
-3BAgmPNIK5IJl7zMK1wvMA;[];other
-27nD8P491xX8UzG3j01eIY;['post-punk'];rock
-5he5w2lnU9x7JFhnwcekXX;['dubstep', 'edm', 'electro', 'electronic'];hip_hop_rnb_soul_afro
-7vvicoei9BbKpZix8qSeLg;['uk garage', 'bassline', 'dubstep', 'bass music'];hip_hop_rnb_soul_afro
-3ou3XMRNmyDSy6gnC1bSgN;['neoperreo', 'argentine trap'];hip_hop_rnb_soul_afro
-2E1NFr5AeEGUJkLUUsWCAO;['tech house'];electro
-5VYRcaryFLFZnA5HvnRHFi;[];other
-63XBtGSEZINSyXylZxEUbv;['alternative r&b'];hip_hop_rnb_soul_afro
-1zQJBLCGM0tdPW9XwgdEll;[];other
-6q3p11nP1p80Ey6LrOOSed;[];other
-0eVyjRhzZKke2KFYTcDkeu;['alternative hip hop', 'experimental hip hop', 'boom bap', 'jazz rap'];hip_hop_rnb_soul_afro
-5lofelrRCFBwzTF616hSx4;[];other
-33U9I7yBy34UXqKYObItne;['bossa nova'];other
-3nQsp2bILdh0XwthliZsSv;[];other
-7fzE5Hf6zNW15WACzqrPIU;[];other
-2WcCoPxAWFNSCvsFPrpf30;['noise rock', 'garage rock'];rock
-33qOK5uJ8AR2xuQQAhHump;[];other
-5txKJQwlX202UqnBPII2PK;['dub', 'roots reggae', 'reggae', 'rocksteady'];hip_hop_rnb_soul_afro
-21UPYSRWFKwtqvSAnFnSvS;['alté', 'afrobeats'];hip_hop_rnb_soul_afro
-27WVFBOddxovimxMmBN4fb;['afro house'];hip_hop_rnb_soul_afro
-716NhGYqD1jl2wI1Qkgq36;['argentine trap', 'trap latino', 'urbano latino'];hip_hop_rnb_soul_afro
-2JAxtl8czMHyssC2W7b8jy;[];other
-4u2LxHDBsFDH3J9NumXSCH;[];other
-41gxyJbzbAaChEyrZ9j3rv;['lo-fi house'];electro
-1AHswQqsDNmu1xaE8KpBne;['hyperpop'];pop
-0zo109NM3S7CqHpvlXwqEN;['acid techno', 'techno', 'hard techno'];electro
-4m7q9onIm2bqhwHy9utqmw;['miami bass', 'gabber', 'g-house'];electro
-1vxsourLLLfobrxyWAcuQH;['french pop'];pop
-6XZ6Yyn1McxgRoEkKQgpZA;[];other
-33aS3DKsGRMWBwjM9ddhak;[];other
+39ZHUueufhIdbW4yu9uODG;[];unknown
+5jy9tglmQRLmTmcqz2qyUa;[];unknown
+4q3ewBCX7sLwd24euuV69X;['reggaeton', 'trap latino', 'urbano latino', 'latin'];hip_hop_rnb
+2rLGlNI6htigNxx172qxLu;['hyperpop'];pop
+0IVapwlnM3dEOiMsHXsghT;['idm', 'trip hop'];electro_dance
+0ygIgsjUzKivFgxgjQ9iV9;[];unknown
+2Au9zIICTEr0oeV1iQrJ6X;['footwork', 'miami bass', 'jersey club'];electro_dance
+27qVZWcFcgOFp4pbsA7Pvd;[];unknown
+3tM7dj8ztmzKcugbIVMxy0;[];unknown
+1AHswQqsDNmu1xaE8KpBne;['ballroom vogue', 'hyperpop'];pop
+0zo109NM3S7CqHpvlXwqEN;['acid techno', 'techno', 'hard techno'];electro_dance
+4m7q9onIm2bqhwHy9utqmw;['miami bass', 'gabber'];electro_dance
+33aS3DKsGRMWBwjM9ddhak;[];unknown
 18mAiJGFVBU5YdiIUIdzL2;['k-rock'];rock
-2sflbTtCirog5VxD6jPAfb;[];other
-42yf4QkiE9a252krn9OUCb;[];other
-0s4kXsjYeH0S1xRyVGN4NO;[];other
-1mI6keuM9rBbs9GdbAHzgr;[];other
-7BMR0fwtEvzGtK4rNGdoiQ;['jungle', 'drum and bass', 'uk garage'];electro
-3ajf12ub55b51qcS94d9Co;['indie pop'];rock
+0s4kXsjYeH0S1xRyVGN4NO;[];unknown
 3SXwqSqAoBz9WCI9PDQzY6;['post-punk'];rock
-7LPqtwClp78XM85lJWaiKQ;[];other
-0viYlscdaUskUy6oZfqm7i;['deathrock', 'post-punk', 'cold wave', 'darkwave'];rock
-5PAOxo6t7il1UN7HFurcph;[];other
-7GlBOeep6PqTfFi59PTUUN;[];other
-74KM79TiuVKeVCqs8QtB0B;[];other
-1GTIvySxCJ0Kq2ie1UuTB1;['cloud rap'];hip_hop_rnb_soul_afro
-2VddwtW7ie3dDcW8WKXHdn;['cloud rap', 'hyperpop'];hip_hop_rnb_soul_afro
-4f4Ee5QjHnoeSdlxTaK6rx;['cloud rap'];hip_hop_rnb_soul_afro
-2cAvReLDmjFQtCJFDJbHBU;['midwest emo'];rock
-2WBJQGf1bT1kxuoqziH5g4;['disco house', 'nu disco', 'funky house', 'house'];electro
-7jEEE187pVG6InOxn03oA5;[];other
-3yDIp0kaq9EFKe07X1X2rz;[];other
-1OFOShsIbhy1l5x73yuVyB;['dancehall', 'soca', 'afrobeats'];hip_hop_rnb_soul_afro
-7sLtFQOS2kTEnMPTFLFU1t;[];other
-4cUkGQyhLFqKHBtL58HYVp;['hip house'];electro
-7rzyYETlkvNEdxdtSUXXTV;[];other
-6Tyzp9KzpiZ04DABQoedps;['trip hop'];other
-3qwabfaWewpfli7hMNM3O8;['art pop', 'electropop'];electro
-0tbeZu9lv8YEKSQ9tZSslu;['alternative r&b'];hip_hop_rnb_soul_afro
-4j8CsPzssbM8TCjSvgnmSs;[];other
-3DkhgIw7lIyxekurpXNTrm;['indie folk', 'folk pop'];folk_acoustic
-6vjKiruwh9k8dDi1rYvI82;[];other
-4qxFzMJxrNzlv11J7pCY5q;[];other
-3e2PXYMu8ijWVUZOhgU018;['dream pop', 'shoegaze'];rock
-5BRAUN0yN8557PLRZIr02W;['jazz rap', 'nu jazz'];hip_hop_rnb_soul_afro
-2datC2OML2YxykP6vnDRmg;['neo soul', 'alternative r&b'];hip_hop_rnb_soul_afro
-7w29UYBi0qsHi5RTcv3lmA;['art pop', 'trip hop'];pop
-7ltDVBr6mKbRvohxheJ9h1;['latin'];other
-3VHAySZQPlfGlNLslzXYpN;['latin hip hop'];hip_hop_rnb_soul_afro
-6LEeAFiJF8OuPx747e1wxR;['art pop'];pop
-7AZm56bjPk0tYl6LTyJu9N;[];other
-5NvbTsi0Mi1mdeDchU2YkG;['slowcore'];other
-24ExnkYwR4QoLamXGi4sOR;['hardcore', 'hardcore punk'];rock
-39i5B6umzWzkfMe12JrMwW;[];other
-1pi7nGhOM7PTHR5YEgXVGq;['neoperreo', 'urbano latino'];hip_hop_rnb_soul_afro
-6Gl4Q3ePw6HKMfIOix5QpG;[];other
-0N9CUdcRxZfnPGAmbkuUrm;['shoegaze', 'dream pop', 'slowcore'];rock
-5xuNBZoM7z1Vv8IQ6uM0p6;[];other
-4dwDVC6lrMINxVBxETE1AB;['retro soul'];hip_hop_rnb_soul_afro
-2YZyLoL8N0Wb9xBt1NhZWg;['hip hop', 'west coast hip hop'];hip_hop_rnb_soul_afro
-4Sw0SFu1fFdYXdAEVdrqnO;['slowcore', 'indie folk'];folk_acoustic
-2l1xTBTIBaAiJhekoLM8mk;[];other
-11GeSCHSovaw6Y9u4BFvVZ;['ambient'];other
-2Po3wDMnscAuYcxubluJJL;[];other
-5k8cbLF5EZnAhwDvHN6Toj;[];other
-163tK9Wjr9P9DmM0AVK7lm;[];other
-0m1QOHroy845vm0zq28eIA;[];other
-4OAddazJM576euUnFSvXSL;['gothic metal', 'symphonic metal', 'metal', 'symphonic rock', 'melodic metal'];metal
-4RkC3KmYWnr6PM1FM5Shwz;[];other
-6UE7nl9mha6s8z0wFQFIZ2;[];other
-67lytN32YpUxiSeWlKfHJ3;['cloud rap'];hip_hop_rnb_soul_afro
-4DJHbK2NrlVn7hCkTrUs69;['experimental hip hop'];hip_hop_rnb_soul_afro
-2eRDm8pl8MFrZv1gsfqUtj;[];other
-2h5syT5XdsQgKLq8Yn1klO;['ambient', 'nu jazz'];jazz
-6r26MaDr8bqNALjXgYPXMa;['noise rock', 'post-hardcore', 'grunge'];rock
-1mVk9jJNL0m9WIs0a1BQdS;[];other
-4zmZ8lVLzGc84S4v2B1rLx;['afro adura', 'afrobeats', 'afrobeat', 'afropop', 'amapiano'];hip_hop_rnb_soul_afro
-4FNR2qdCVKGAep4alfgt25;[];other
-4HwlolvniI44ETSg5tajeZ;['idm', 'dub techno', 'breakbeat'];hip_hop_rnb_soul_afro
-6PEMFpe3PTOksdV4ZXUpbE;[];other
-17Zu03OgBVxgLxWmRUyNOJ;[];other
-7hJcb9fa4alzcOq3EaNPoG;['g-funk', 'west coast hip hop', 'gangster rap', 'hip hop', 'rap'];hip_hop_rnb_soul_afro
-1eNO1DUCOtZgCzlwtjtb1t;['retro soul', 'neo soul'];hip_hop_rnb_soul_afro
-2hk94pAZS1iYSqoICeTyh1;['disco house'];electro
-06HL4z0CvFAxyc27GXpf02;[];other
-1zkKkDDra0jlsiJYz57P3P;[];other
-7d1ctWXfrUvAe804Zld3Gy;['french pop'];pop
-4eArh1v6UwBbKkjdgHCned;[];other
-3wvfYm6zG9B5o7eGY5zcLu;[];other
-0F9yMp30FUREoa635VLsY8;[];other
-5KTykbPcDB4GYS49jcHbWh;[];other
-4iMO20EPodreIaEl8qW66y;['bedroom pop'];pop
-4wyNyxs74Ux8UIDopNjIai;[];other
-7exHU37Tr2al1SGQDhqy3Z;['experimental hip hop'];hip_hop_rnb_soul_afro
-2RiGIRDi4GoJpDbjDnPVJl;['melodic death metal', 'metal', 'metalcore', 'thrash metal', 'groove metal', 'melodic metal', 'death metal'];metal
-5WMjcRzR0IT378qta9NdXp;[];other
-0s0dPjkfl82y54vFVDWelo;[];other
-1rGSYidxwKVwew2k0cuUFi;['neoperreo', 'latin alternative'];other
-4oyNUG8iIjumhys2WE8bCe;['hyperpop'];pop
-0FtsMKmZEq8fBWqdSOWtqp;[];other
-6xS5PpBWaVYraexEkEjjXv;[];other
-2voadhFGdduSYHDvsVqyXo;[];other
-6HvZYsbFfjnjFrWF950C9d;['k-pop'];pop
-2BMq835Yir366yDKvW3Rcv;['underground hip hop'];hip_hop_rnb_soul_afro
-16ReCN8nJeX63Px3pynFze;[];other
-1ybINI1qPiFbwDXamRtwxD;[];other
-2kQnsbKnIiMahOetwlfcaS;['alternative r&b'];hip_hop_rnb_soul_afro
-0MoDfakkeeD4FwftxAXwEd;[];other
-6nB0iY1cjSY1KyhYyuIIKH;['art pop', 'alternative r&b'];hip_hop_rnb_soul_afro
-3qWUrXaaCWw9NohGOAKCbD;[];other
-4IndUOBCZYZg61557iq2A9;['reggaeton'];hip_hop_rnb_soul_afro
-5qPRgWcEOGRzoIST0sHAiI;['dembow'];other
-4lHTvhSBYET8vaavUNzps0;['screamo'];rock
-7a0nCvxmDN4c68agh8ajMn;['shoegaze'];rock
-2VS0Scj6uSxAJcTl48FCD7;['black metal'];metal
-246dkjvS1zLTtiykXe5h60;[];other
-19k8AgwwTSxeaxkOuCQEJs;['country hip hop', 'country'];hip_hop_rnb_soul_afro
-37ASGd4rWpHjuVonnYAN6S;[];other
-6AUl0ykLLpvTktob97x9hO;[];other
-0RpddSzUHfncUWNJXKOsjy;[];other
+7sLtFQOS2kTEnMPTFLFU1t;[];unknown
+74KM79TiuVKeVCqs8QtB0B;[];unknown
+4u2LxHDBsFDH3J9NumXSCH;[];unknown
+2eRDm8pl8MFrZv1gsfqUtj;[];unknown
+4rdJkXHNrMgowlwUdQAg8T;['electropop'];electro_dance
+2hk94pAZS1iYSqoICeTyh1;['disco house', 'jazz house'];soul_jazz
+2Y8G3abt5hRU7X9RNi7dlZ;[];unknown
+4eArh1v6UwBbKkjdgHCned;[];unknown
+4wyNyxs74Ux8UIDopNjIai;[];unknown
+2BMq835Yir366yDKvW3Rcv;['underground hip hop'];hip_hop_rnb
+3qWUrXaaCWw9NohGOAKCbD;[];unknown
+7a0nCvxmDN4c68agh8ajMn;[];unknown
+480FcWBc0dlEZc52noh462;[];unknown
 4CJ5eNfmJHQ5spEAvaxj8F;['midwest emo'];rock
-5dHt1vcEm9qb8fCyLcB3HL;['rap'];hip_hop_rnb_soul_afro
-5LeiYFiAx31mpoPKxdOLOm;['noise rock'];rock
-1844Ua6R4gOuH6GLdlR4dt;[];other
-0YMVzWF9HWGbV4DZHfCyKo;[];other
-42lURreEClfTEKhRUWm9g0;[];other
-10U1DbsjhgAqUMcouK267Q;[];other
-6WFDpw4u23uSpon4BHvFRn;[];other
-3BOfygYBFwHTBFyCbsQVMv;[];other
-6LihBQjVynXpEaT3Oe2oof;['shoegaze', 'slowcore'];rock
-2GHclqNVjqGuiE5mA7BEoc;['hip hop', 'jazz rap'];hip_hop_rnb_soul_afro
-3BeQqzKdlARoOd6y30kCO2;['jazz rap', 'east coast hip hop', 'boom bap'];hip_hop_rnb_soul_afro
-03KZUWKQujlCcgEdcrkvWd;['jungle', 'breakbeat', 'breakcore', 'drum and bass'];electro
-2cggyYmdk2HP87tYGtw3La;['jungle', 'breakbeat', 'drum and bass', 'breakcore'];electro
-6q4AmzK3GzCuEzkurnYuEQ;['hardcore punk', 'melodic hardcore', 'post-hardcore', 'hardcore'];rock
-3wkT6THiKqbXC0jJpfKL7t;['experimental hip hop'];hip_hop_rnb_soul_afro
-4DnRQspXhzqgCMkJJmOS4T;['cloud rap'];hip_hop_rnb_soul_afro
-0rTeZQSxEg1XzZ1dFz6Moz;['cloud rap'];hip_hop_rnb_soul_afro
-7hCrrpVmgtWF6Y3MZed12l;[];other
-4V8LLVI7PbaPR0K2TGSxFF;[];other
-2102wVVks8Z901vPMjXI3Q;[];other
-3HoSXBexKbsOkUk0LTTRZ8;[];other
-2ycbMlovjNV5gks2r8Vtsp;[];other
-4BrSvpXSgT02JhhNULggJk;['hyperpop', 'experimental hip hop'];hip_hop_rnb_soul_afro
-53xeKWbSRuGgTxViJTAZKC;['experimental hip hop', 'alternative hip hop'];hip_hop_rnb_soul_afro
-3ZMur3elMyOs248ah86NRk;['boom bap', 'experimental hip hop', 'alternative hip hop', 'jazz rap'];hip_hop_rnb_soul_afro
-3VNzWLePg9jTvQ2ximYOzW;['shoegaze'];rock
-7x3mbyjfOZ9y599MHmyNOu;['experimental hip hop'];hip_hop_rnb_soul_afro
-6wD4PrOL4VPp0SDCtpbtba;['indian indie', 'jazz rap', 'trip hop'];hip_hop_rnb_soul_afro
-27DeRe5LjIt9ZPXUjF90h6;['free jazz', 'jazz'];jazz
-4wMQTWavQZgr8ySlo5s2Tt;['neoperreo'];other
-1HvH97rzvCH6lfnLlgyfke;[];other
-3aGFCoR8xGN6DKwvdzeSja;[];other
-4wXchxfTTggLtzkoUhO86Q;['indie'];rock
-1m2AHwvNSDIm5mf8vPGH39;[];other
-72NhFAGG5Pt91VbheJeEPG;['hyperpop', 'electroclash'];electro
-1H6X7yhnXZg73f9bssaj1Q;[];other
-089ASSwOW4Cih3frNuDtUv;['underground hip hop'];hip_hop_rnb_soul_afro
-5FxD8fkQZ6KcsSYupDVoSO;['bedroom pop'];pop
-5IkIh9jpyGZL3JFMAbVykP;[];other
-5RTLRtXjbXI2lSXc6jxlAz;['alternative r&b'];hip_hop_rnb_soul_afro
-2jToqK8MU3rtt0DYrgCIXM;[];other
-3gfV2LBMvIE9gjpvowt11B;['ambient', 'drone'];other
-1KCSUZBJy1bAsIz7wUYkd8;['post-punk'];rock
-3gRbjzXPan9DOBEMmTjxVo;[];other
-13ubrt8QOOCPljQ2FL1Kca;['rap'];hip_hop_rnb_soul_afro
-0WtTGUjbur1R1cNzBvbsMU;['dream pop', 'indietronica', 'shoegaze'];rock
-7tHTnyrdTNM152slc8aQ3t;[];other
-2tmrdVbpFzIVIOcqxvErj2;[];other
-76Hqz0xVLDA9UwwqKR1JVl;[];other
-7i1CyQ1fogh4bkj3EPj3ls;['latin indie', 'latin r&b', 'mexican indie'];hip_hop_rnb_soul_afro
-2ZRQcIgzPCVaT9XKhXZIzh;['edm', 'melodic bass', 'future bass'];electro
-5Kmr0b3ip8g9P2i0dLTC3Z;['stutter house'];electro
-1bqxdqvUtPWZri43cKHac8;[];other
-45y1DQHCGqyNeEbqDXLJpR;['latin r&b'];hip_hop_rnb_soul_afro
-2UXI5X9jhT0bwCO13Gb3LL;['noise rock'];rock
-5HViQsHNdOovxKa420CPGR;[];other
+2102wVVks8Z901vPMjXI3Q;[];unknown
+4BrSvpXSgT02JhhNULggJk;['hyperpop'];pop
+7x3mbyjfOZ9y599MHmyNOu;['experimental hip hop'];hip_hop_rnb
+6wD4PrOL4VPp0SDCtpbtba;['indian indie', 'trip hop', 'jazz rap'];hip_hop_rnb
+27DeRe5LjIt9ZPXUjF90h6;['free jazz', 'jazz'];soul_jazz
+1H6X7yhnXZg73f9bssaj1Q;[];unknown
+089ASSwOW4Cih3frNuDtUv;['underground hip hop'];hip_hop_rnb
+5RTLRtXjbXI2lSXc6jxlAz;['alternative r&b'];hip_hop_rnb
+0WtTGUjbur1R1cNzBvbsMU;['dream pop', 'shoegaze'];rock
+4Gmrt82h2vjGjnp67SG5Nw;['post-punk'];rock
 6styCzc1Ej4NxISL0LiigM;['art rock'];rock
-68kEuyFKyqrdQQLLsmiatm;[];other
-5jKUY8217znjRxdDJWsGt8;[];other
-2tL8CDdDLV5vIidrprEqsu;['stoner rock', 'sludge metal', 'space rock', 'doom metal'];metal
-5MGxwE9JG5IA6uqswrgNL6;['krautrock', 'space rock'];rock
-54piSANQOPhhndGWqqc1DV;[];other
-2cWZOOzeOm4WmBJRnD5R7I;[];other
-6DpWtzfwV8fcwP6fXckDVu;[];other
-7g7N6cRr5izWiIWvffgwWO;[];other
-04mTej6RpWzBxGwhfThpIi;['hyperpop'];pop
-7kXZ3iTr0blml9QgUdfwGM;[];other
 04vEYZm6KQQCtUWs2hM8Dj;['shoegaze'];rock
-5J65ukR6WWDkuRrqYa4Knl;['hyperpop'];pop
-5PyU5aVBI66v0pkCIvEJfu;['french pop', 'french house'];electro
-67FB4n52MgexGQIG8s0yUH;[];other
-3utxjLheHaVEd9bPjQRsy8;['progressive rock'];rock
-5IUWWsFiEtQr3nLJhqg7A3;[];other
-7oLhWWqX188fvNQ6aqxLz3;[];other
-4SQdUpG4f7UbkJG3cJ2Iyj;['neoperreo', 'experimental', 'art pop', 'hyperpop'];pop
-2p4aN0Uxkk3iT3HK0cJ2cJ;['dembow', 'neoperreo'];other
-0MoaBi6dSquXp6rrlqlF8R;['latin indie'];rock
-5WunDwdY4e0nWZXHOeFLF1;[];other
-0Y6dVaC9DZtPNH4591M42W;[];other
+1m2AHwvNSDIm5mf8vPGH39;[];unknown
+5IUWWsFiEtQr3nLJhqg7A3;[];unknown
+0Y6dVaC9DZtPNH4591M42W;[];unknown
 1G5v3lpMz7TeoW0yGpRQHr;['vaporwave', 'chillwave'];other
-0RsNTNwQqjREcl3VG81prp;[];other
-0nugNBwdWaptgIAsEtx1It;[];other
-2FXC3k01G6Gw61bmprjgqS;[];other
-43R8Umt7qVmJCcOZGWJy24;[];other
-6wFu8qYepLnl61GixCI5cu;[];other
-3dz0NnIZhtKKeXZxLOxCam;['edm', 'electronic'];electro
-2Peqh4pXySabABIVbVbKZf;['taiwanese indie'];rock
-5DZqDIAqRSN8mBM0DoQwoi;['breakcore', 'shibuya-kei', 'japanese indie'];electro
-3KH7WsR2JZQ94Ik8SyabU6;['afropop'];hip_hop_rnb_soul_afro
-5b5bt4mZQpJMoCRbiQ7diH;['indie'];rock
-7z3XgqpRYdNJ7RvEUlYaUe;[];other
-2VhTBaV2Io9AJe661MUTEj;['shoegaze', 'slowcore', 'noise rock'];rock
-2rhFzFmezpnW82MNqEKVry;[];other
-1isATZk8trk0NGopQvVvc7;[];other
-0jIWKlfmD4Ew7HeVVrq03g;[];other
-0IJZjR1tj2EudGR8jvxZtM;[];other
-2TRNyrjoKJnqSc9G8jCZfb;[];other
-20wkVLutqVOYrc0kxFs7rA;[];other
-0NB5HROxc8dDBXpkIi1v3d;[];other
-7eZbNxarrTW4VkRI8u9aDX;['shoegaze', 'dream pop', 'slowcore', 'noise rock', 'math rock'];rock
-3IoGpeLyopeqGwiD4Nnt1f;[];other
-55Dacc2jL4tgb6Af23NlF6;[];other
+5FxD8fkQZ6KcsSYupDVoSO;['bedroom pop'];pop
+1zkKkDDra0jlsiJYz57P3P;[];unknown
 4UHzJP2iKVf0RhKIv7ZE2l;['psychedelic pop', 'space rock'];rock
-4Pu14kX4BlhnDHP7DRmmGS;[];other
-54QMjE4toDfiCryzYWCpXX;['indietronica', 'new rave', 'alternative dance'];rock
-5Ph4BCHTBnS7CJctvtUDkp;[];other
-0UF7XLthtbSF2Eur7559oV;['synthwave', 'french house'];electro
-3QVolfxko2UyCOtexhVTli;['french pop', 'variété française', 'chanson'];pop
-4PooHx6BstbetDtBMrLyV7;[];other
-6EyzBjjCPBP7s5W8d3wMOe;['hyperpop', 'electroclash'];electro
+4PooHx6BstbetDtBMrLyV7;[];unknown
+6wH6iStAh4KIaWfuhf0NYM;['latin alternative'];other
 6TMBV8J3Jq1Gr5A5bFmVqf;['pop urbaine'];pop
-0Cp8WN4V8Tu4QJQwCN5Md4;[];other
-2sY4BbYrbvNVgsNzo6HddD;[];other
-5GlFG0lCadjEBnY1w1FwwW;[];other
-7GblQfA1PogV6RMgys9a7X;[];other
-0oK5D6uPhGu4Jk2dbZfodU;['retro soul'];hip_hop_rnb_soul_afro
-0qc4BFxcwRFZfevTck4fOi;['cloud rap'];hip_hop_rnb_soul_afro
-0sgr78pWLPJ012BnBaGm11;[];other
-0Y0U54wBpoCl8KvkYc9Ej6;[];other
-7pbDxGE6nQSZVfiFdq9lOL;['bedroom pop'];pop
-1DwRZpAKiTkUXcprfnxEFr;['drum and bass'];electro
-2vnB6tuQMaQpORiRdvXF9H;[];other
-38GSybQjdc6sxptciOkxMq;['french pop', 'chanson', 'variété française', 'french house'];electro
-1odn2oz1bEsGWugQ8W3zhn;['stutter house', 'spoken word'];electro
-5qhDQveADDnjIZQ85AtgDM;[];other
-0B3kMiB21aPQlKumGDr4c7;[];other
-3lWweK5IAJrNMXazhS5oV3;[];other
-0LlWS1VC17Bpd2RUd6enaQ;['french jazz', 'french pop', 'chanson'];jazz
-7zrkALJ9ayRjzysp4QYoEg;[];other
-5vssQp6TyMHsx4mihKVAsC;[];other
-021A20H2EVS9igRiNhozcx;['experimental hip hop'];hip_hop_rnb_soul_afro
-1fmXn9ezSrVGjHSVc6ItcL;[];other
-71ISXR7gtIq5E2AdI3jGf0;['art rock', 'post-rock', 'noise rock', 'post-punk'];rock
-4jE1yavE4c5IR1hhM4wHhY;[];other
-5KV0DvKYHe4WwjaJghyIzV;[];other
-2kRhgCgYazkIoYDFgGtXoq;[];other
-7cNNNhdJDrt3vgQjwSavNf;['metalcore', 'post-hardcore', 'screamo', 'metal'];metal
-52qKfVcIV4GS8A8Vay2xtt;['metalcore', 'metal', 'post-hardcore'];metal
-3db7IWyJRHjZEViTutNdUR;[];other
-0FZcPgWI3BsFQl4rOAGSHT;['deathcore', 'metalcore', 'djent', 'metal'];metal
-2qoQgPAilErOKCwE2Y8wOG;[];other
-3DbwFQlvLxRSi2uX8mf81A;[];other
-26j38hvhD7PjC0a4EqdaSn;[];other
-5YaWzI756w0pw1DkJkun5u;[];other
-0qJpY7K8p7g6sacvaGNt6i;['deathcore', 'death metal', 'metalcore', 'metal', 'djent'];metal
-1nj9nHPkz1IbxXEpkW1WTz;['idm', 'glitch'];other
-6aDX1jzNVAI9enlQzW0Pgw;['gqom'];other
-2nE9x2JhbyjBVCaSnUGX3G;[];other
-30ZFCxaQeisDgihIZyjOlj;['doom metal', 'sludge metal', 'stoner rock'];metal
-49aaHxvAJ0tCh0F15OnwIl;['europop'];pop
-7K48RaFMB6BhTLc0KspbTh;[];other
-6y7T3BaNMGAYgRbATEq4cM;[];other
-4EnymklUyqZwvmHQGlRssl;[];other
-2zmjYl582zO64LcLQtOEuv;[];other
-3lN70MoiO9u6b95CsTeB1J;['breakbeat', 'uk funky', 'idm'];electro
-4bEKeZm7yf8aOqam6RI4cJ;['death metal'];metal
-3XFQRe2FsSOjrODygK4caW;['black metal', 'avant-garde', 'sludge metal'];metal
-7BrCCntRO3TbPncTE0DJys;['shoegaze', 'slowcore'];rock
-2pM2N6yzrf4201puxjeIKY;['experimental', 'idm'];other
-3SozjO3Lat463tQICI9LcE;['afrobeats'];hip_hop_rnb_soul_afro
-0dn62y7ayEAxcIcMcBWXIE;[];other
-2kO6mP0olFJGGh6kvUdNC8;[];other
-6I1HySHVBxauGTpv00Gohc;['ambient'];other
-5Zsmx4eGounUJ1Hqq6tIQs;['metalcore', 'post-hardcore'];metal
-3BGUNVzuoQ79pOjLxJsZZg;['shoegaze', 'slowcore'];rock
-4Ge8xMJNwt6EEXOzVXju9a;['art pop'];pop
-4ngzSYix3OAL3ph7OjDXzn;['black metal'];metal
-4NZvixzsSefsNiIqXn0NDe;[];other
-52tIYMYQgBbgOFIJHaOPxY;['metalcore', 'deathcore'];metal
-0suhJuu3BRMRFZRzEzPpnw;[];other
-2aaLAng2L2aWD2FClzwiep;['progressive metal', 'progressive rock', 'metal'];metal
-4XDi67ZENZcbfKnvMnTYsI;['k-rap', 'k-pop'];hip_hop_rnb_soul_afro
-2PSJ6YriU7JsFucxACpU7Y;['k-pop'];pop
-66CXWjxzNUsdJxJ2JdwvnR;['pop'];pop
-5J7rXWjtn5HzUkJ4Jet8Fr;[];other
-3NbMf2TTL0tcjISP5AFgzf;[];other
-6cK3NBO6uP7hh0oyuVELFl;[];other
-08PvCOlef4xdOr20jFSTPd;[];other
-4OVbrPbhvK46A1uXTU1u5F;['jersey club'];other
-6d5nBcIHQltdskVV1X67jQ;['avant-garde'];other
-4fN9hDXZATEuglEsw2wpyK;['avant-garde'];other
-6rt6TNXmorxAN1K2CZA5Az;['spoken word', 'trip hop'];other
-0AlnGjlLLXglk9hnwErYDU;['nu metal', 'metalcore'];metal
-1vSN1fsvrzpbttOYGsliDr;[];other
-0WKHQ3a24pKDB991wqLjMU;[];other
-6l7R1jntPahGxwJt7Tky8h;['alté'];other
-7aFTOGFDEqDtJUCziLVsVC;['alternative r&b'];hip_hop_rnb_soul_afro
-6YIFRunPWr8XLiAAwQxJaA;[];other
-0dWX1Aai3cMYIqOcJLC6cV;[];other
-785WIfCKrAIVM2FxiRCr4L;[];other
-79wCmFlJs2qglR5n4UHMoq;[];other
-1JspXUvEv3D9ddMeLNqYWj;[];other
-5C2iFRY2UldL2hv9THw4aB;[];other
-6gj3sMEZYP6IESIptoXnrP;['alternative r&b'];hip_hop_rnb_soul_afro
-38vNZvHEjUU9XlzlV43H9T;['shoegaze'];rock
-29fUSOyH1ufr9HZbErHpc4;[];other
-5jcH3zjAdfg5RZWu8dXjGd;[];other
+7GblQfA1PogV6RMgys9a7X;[];unknown
+59oA5WbbQvomJz2BuRG071;[];unknown
+2vnB6tuQMaQpORiRdvXF9H;[];unknown
+38GSybQjdc6sxptciOkxMq;['french pop', 'chanson', 'variété française', 'french house'];electro_dance
+7zrkALJ9ayRjzysp4QYoEg;[];unknown
+5vssQp6TyMHsx4mihKVAsC;[];unknown
+3lN70MoiO9u6b95CsTeB1J;['breakbeat', 'uk funky', 'idm'];electro_dance
+6hW33nVHPElaXuG2hQ0QOp;['hardcore punk', 'hardcore'];rock
 2pe1uLYghU4lj6Fe6qq8k6;['power pop'];rock
 5sn6aQFrJvjsSIuaomA4to;['noise rock'];rock
-24b0qNYNgeOfpP5rbljIB3;[];other
-7b6l5JehVDc5Wb7L8iPvJN;[];other
-7B76SsfzG0wWk1WEvGzCmY;['pop punk'];rock
-72iCiKwu6nu6Qq9emIwzYv;['dubstep', 'deathstep', 'riddim', 'edm'];hip_hop_rnb_soul_afro
-59PupD35uDhgTCVfuV3GtN;['dark trap', 'phonk', 'drift phonk'];hip_hop_rnb_soul_afro
-3DHtfeD4PsmR9YGhCP4VF7;['uk drill', 'drill'];hip_hop_rnb_soul_afro
-5arKwJZEvT5uKq4o0JfqR4;[];other
-33XLkSK6TXcBg4RmHg2vqt;[];other
-1Tsag5J854qxeOo2apszug;['post-hardcore', 'screamo', 'emo', 'emocore', 'metalcore', 'pop punk'];metal
-6aiCF0pornq0j11wvKG4dy;['j-pop'];pop
 6sNcyjEVdNlZ0dpgr7EcT9;['slowcore'];other
-738wLrAtLtCtFOLvQBXOXp;['moombahton'];other
-2NUz5P42WqkxilbI8ocN76;['dancehall', 'soca', 'ragga', 'riddim', 'reggae'];hip_hop_rnb_soul_afro
-3pGNoAJX3UVctU6X8eG55h;[];other
-3GzWhE2xadJiW8MqRKIVSK;['post-hardcore', 'screamo', 'metalcore', 'emo', 'emocore'];metal
-0DCw6lHkzh9t7f8Hb4Z0Sx;['melodic death metal', 'metal', 'death metal', 'melodic metal', 'heavy metal'];metal
-26VEPCGAYB9OClQodb0OR1;[];other
-3wCxtQe4q4QsNnYD2BG7ag;[];other
-5eUda4BaWhUQWWJiP1ml5v;[];other
-2VOzWXZusZWvbSIMOoO9Ir;['doom metal', 'sludge metal'];metal
-3dHajUmnQ27McFMpZF6IcY;[];other
-5orqL82BjQspzZ72LaM2PR;[];other
-3Vl9fyKMIdLMswk8ai3mm9;['hyperpop'];pop
-0jPHHnU8GUWEF7rwPE9osY;[];other
-5f7VJjfbwm532GiveGC0ZK;[];other
-6oFs3qk4VepIVFdoD4jmsy;[];other
-2CBvbVxhd3ZJXRTCl88H7E;[];other
-2s6lxOYvvCvzpHtd3VyuMj;['electroclash', 'new rave', 'french house'];electro
-3FobDbMc9jNxkZ8GCc685W;[];other
-5MjcGshMggPgIHinIUDaX0;[];other
-6ZK2nrW8aCTg8Bid7I7N10;['neofolk', 'doom metal'];metal
-27dAjO4MZcVWFaKBPNpv5c;[];other
-0TZExq5Dma8hecEIAKwQYA;[];other
-3eVa5w3URK5duf6eyVDbu9;['k-pop'];pop
-0du5cEVh5yTK9QJze8zA0C;[];other
-4TEK9tIkcoxib4GxT3O4ky;['k-pop'];pop
-3uqAKGSytLJJuLy4BPlY38;[];other
-5xkAtLTf309LAGZTbvULBn;[];other
-0agqtoeQB2zKMFX1kgt5Hg;[];other
-0ndpuECxVStTsHhzq4Euxz;[];other
-1NRudBLaT84LXxfsYdFMhB;[];other
-7xJVICbAWizNBKBD3mRWjF;['electroclash'];electro
-12Zk1DFhCbHY6v3xep2ZjI;[];other
-3IWxZuMgQKWrNn1S20D1qa;['rap metal', 'nu metal', 'rap rock'];hip_hop_rnb_soul_afro
-2VmQEEtb2GkgipLhnNhFxO;[];other
-1Xxg6sCMl7PmZCdolPyxh0;['underground hip hop'];hip_hop_rnb_soul_afro
-6fFcUOFcbjeIuEomuUthkw;['hyperpop', 'art pop', 'alternative r&b'];hip_hop_rnb_soul_afro
-7HfUJxeVTgrvhk0eWHFzV7;['hyperpop'];pop
-3IWdvItNhmdo282Wwp0CwH;[];other
-1vaQ6v3pOFxAIrFoPrAcom;['alternative r&b', 'neo soul'];hip_hop_rnb_soul_afro
-7tr9pbgNEKtG0GQTKe08Tz;[];other
-5mlbvTfWUOfDrUIK6dkNzv;[];other
-5Gk5gDihqk8UoJ3tvsk6J2;[];other
-7CddNoU6nKEW7UpcIlJF9n;['shoegaze', 'slowcore'];rock
-14zhvja4OxwrmivOB3LHOn;[];other
-2uRjuSX3CCVJO0KBA518XG;['post-hardcore'];rock
-5nwxAowdUQSK1tuyVHD5lJ;[];other
-0BdYblPVnK3wnWREfBQ712;[];other
-5J0ehnVK9YOBGWOwE022ar;['shoegaze'];rock
-1jyynbj6tIl5gwyqIjAp1j;[];other
-3lDpdwM8KILepMHqBWUhIA;['glam rock'];rock
+27dAjO4MZcVWFaKBPNpv5c;[];unknown
+7xJVICbAWizNBKBD3mRWjF;['electroclash'];electro_dance
+1Xxg6sCMl7PmZCdolPyxh0;['underground hip hop'];hip_hop_rnb
+5nwxAowdUQSK1tuyVHD5lJ;[];unknown
+0BdYblPVnK3wnWREfBQ712;[];unknown
 6kdAf6E0EouXKBpBZN1Sx9;['jangle pop', 'power pop', 'acoustic rock'];folk_acoustic
-6735msKWBms5KwdGFmqSsT;[];other
-55Aa2cqylxrFIXC767Z865;['rap', 'hip hop'];hip_hop_rnb_soul_afro
-3and7uje1nuMnKJczCKox9;[];other
-2IprcYDAYTYzCl4AJH3AuT;[];other
-6PXYvMeTixxDzYAYugMlbg;[];other
-4WfUbvICLrqPW9rzuNGS1f;[];other
-2mSYfudGtQzxNYHApMjZBm;[];other
-5ijO3JnnKpoAOTU4QaDgdW;[];other
-0avMDS4HyoCEP6RqZJWpY2;[];other
-5DslL3PUa3BcRlCCEP64A4;['electroclash', 'new rave'];electro
-6g3orasGcMPn0gwcE3JMAC;[];other
-53jnd1fhXV7lbXSfjgk1WR;[];other
-4VZEaqiJm8GOd1pSgjD62y;[];other
-71NBOcJ9lMeXqnbnya1z0x;[];other
+6735msKWBms5KwdGFmqSsT;[];unknown
+4V8LLVI7PbaPR0K2TGSxFF;[];unknown
+2qoQgPAilErOKCwE2Y8wOG;[];unknown
+3DbwFQlvLxRSi2uX8mf81A;[];unknown
+55Aa2cqylxrFIXC767Z865;['rap', 'hip hop'];hip_hop_rnb
+3and7uje1nuMnKJczCKox9;[];unknown
+2IprcYDAYTYzCl4AJH3AuT;[];unknown
+6PXYvMeTixxDzYAYugMlbg;[];unknown
+4WfUbvICLrqPW9rzuNGS1f;[];unknown
+3wvfYm6zG9B5o7eGY5zcLu;[];unknown
+7B2edU3Q7btJoNsoHCNohM;['singer-songwriter', 'chamber pop', 'folk', 'indie folk'];folk_acoustic
+2mSYfudGtQzxNYHApMjZBm;[];unknown
+5ijO3JnnKpoAOTU4QaDgdW;[];unknown
+0avMDS4HyoCEP6RqZJWpY2;[];unknown
+5DslL3PUa3BcRlCCEP64A4;['electroclash', 'new rave', 'witch house'];electro_dance
+6g3orasGcMPn0gwcE3JMAC;[];unknown
+53jnd1fhXV7lbXSfjgk1WR;[];unknown
+4VZEaqiJm8GOd1pSgjD62y;[];unknown
+71NBOcJ9lMeXqnbnya1z0x;[];unknown
 2YjxwZOy5LDPJcXSWXglSN;['k-rock'];rock
-7vsNIODrbNnQM4spNFhvXf;[];other
-7o6cOczXTB8ioTAAJTbESf;['metal', 'djent', 'groove metal', 'progressive metal', 'metalcore'];metal
-6jas9NK79dEF6hU1LvmfHB;[];other
-3A5tHz1SfngyOZM2gItYKu;['experimental hip hop', 'alternative hip hop'];hip_hop_rnb_soul_afro
+7vsNIODrbNnQM4spNFhvXf;[];unknown
+7o6cOczXTB8ioTAAJTbESf;['metal', 'djent', 'progressive metal', 'groove metal', 'metalcore'];metal
+6jas9NK79dEF6hU1LvmfHB;[];unknown
+3A5tHz1SfngyOZM2gItYKu;['experimental hip hop', 'alternative hip hop'];hip_hop_rnb
 5HvKzBgj4yphQfBJjBJrhL;['hyperpop'];pop
-26eBHxdouBH2KB7P6Oi9HN;[];other
-3eEAELTLLkQc0PD2S2xAhN;['kuduro'];other
+26eBHxdouBH2KB7P6Oi9HN;[];unknown
+3eEAELTLLkQc0PD2S2xAhN;[];unknown
 1VFYpTpgmp7ANXqok2dTg3;['sludge metal', 'drone', 'noise rock', 'doom metal', 'industrial metal', 'industrial'];metal
 1WZarnZpWEv7dDtjAETt4X;['art pop'];pop
-1Et8hq133uIvzPHLhi6tCL;[];other
-34BJjZdVWcznR0qlook0nY;[];other
-6vbKIm1WsvhMMDpthYONc1;['k-rap'];hip_hop_rnb_soul_afro
+1Et8hq133uIvzPHLhi6tCL;[];unknown
+34BJjZdVWcznR0qlook0nY;[];unknown
+6vbKIm1WsvhMMDpthYONc1;['k-rap'];hip_hop_rnb
 5Wj0an60VgRckYV9zlDe1e;['indie rock'];rock
-6qNHuzJVAGJ8h2D0qo6wAh;[];other
-7AaGbSgUxJFuZ49VvclNH6;[];other
-26hW7zYB4V3PGMPBKoBdgl;[];other
-6icQOAFXDZKsumw3YXyusw;[];other
-7hM17EMsGXmMzxfKJVPUwK;[];other
-6LhbOssuAbrXa5Wzcskhhw;[];other
-3CE6MgsLpKMDfYFtexgc8U;[];other
-6OjtkJDlAZzlzAydEn78cK;[];other
-0Y4inQK6OespitzD6ijMwb;[];other
-2dbSR7CwWSGsMkuKVITKRc;[];other
-294lNTPZfdqyzt8qnxmFiL;['alternative r&b'];hip_hop_rnb_soul_afro
-2osrICe2kgcit3D086z3Lo;[];other
+6qNHuzJVAGJ8h2D0qo6wAh;[];unknown
+7AaGbSgUxJFuZ49VvclNH6;[];unknown
+26hW7zYB4V3PGMPBKoBdgl;['post-punk'];rock
+67FB4n52MgexGQIG8s0yUH;[];unknown
+6icQOAFXDZKsumw3YXyusw;[];unknown
+7hM17EMsGXmMzxfKJVPUwK;[];unknown
+6LhbOssuAbrXa5Wzcskhhw;[];unknown
+6fxyWrfmjcbj5d12gXeiNV;['punk rap'];hip_hop_rnb
+3CE6MgsLpKMDfYFtexgc8U;[];unknown
+6OjtkJDlAZzlzAydEn78cK;['sexy drill'];hip_hop_rnb
+0Y4inQK6OespitzD6ijMwb;['alternative hip hop'];hip_hop_rnb
+2dbSR7CwWSGsMkuKVITKRc;[];unknown
+294lNTPZfdqyzt8qnxmFiL;['alternative r&b'];hip_hop_rnb
+2osrICe2kgcit3D086z3Lo;['gothic metal', 'doom metal'];metal
 34UhPkLbtFKRq3nmfFgejG;['post-rock', 'shoegaze'];rock
-6HCzzbQ8cHeZnqojIk7HgE;['noise rock'];rock
-2AWfnWrfFVhRPVX4JN9a6g;[];other
-4DWuml4Jf6K81b5rAPwMb6;[];other
-3vEL65ycUboLH76pgdtqlF;[];other
-1nrJKGxkiSY6FjJRXcc9CB;[];other
-2wJ4vsxWd7df7dRU4KcoDe;[];other
-3Sp7HTc7BNbSx0SPiHVeRI;[];other
-5w09r1HW3Dc8BMYIvqbnnF;[];other
+6HCzzbQ8cHeZnqojIk7HgE;['noise rock', 'post-punk'];rock
+4wXchxfTTggLtzkoUhO86Q;['indie'];rock
+2AWfnWrfFVhRPVX4JN9a6g;[];unknown
+4DWuml4Jf6K81b5rAPwMb6;[];unknown
+3vEL65ycUboLH76pgdtqlF;[];unknown
+1nrJKGxkiSY6FjJRXcc9CB;[];unknown
+5PAOxo6t7il1UN7HFurcph;[];unknown
+5HViQsHNdOovxKa420CPGR;[];unknown
+2wJ4vsxWd7df7dRU4KcoDe;[];unknown
+3Sp7HTc7BNbSx0SPiHVeRI;['indie punk'];rock
+5w09r1HW3Dc8BMYIvqbnnF;[];unknown
 1PvBXGOTvO3zrbDtL5mKEB;['gothic country'];rock
-30b9WulBM8sFuBo17nNq9c;['k-pop', 'k-rap'];hip_hop_rnb_soul_afro
-2CLclpIC43fLzsYq6LQvlL;[];other
-06NrwSBss5Imv1Se0Hlv5Y;['thrash metal', 'hardcore', 'hardcore punk'];metal
+30b9WulBM8sFuBo17nNq9c;['k-pop', 'k-rap'];hip_hop_rnb
+2CLclpIC43fLzsYq6LQvlL;[];unknown
+06NrwSBss5Imv1Se0Hlv5Y;['hardcore', 'thrash metal', 'hardcore punk'];metal
 7rZJ1D1ERxrHNKTWwpZFVU;['metalcore'];metal
-6lyMYewq2SuTFIXgiv7OxH;[];other
-1EuNDbf2DWqsa9cSgHT1Mm;[];other
-3bfSaJqEYosPcdoCN06G3P;[];other
-6AlUh97NNEBLo3OqYORyIi;[];other
+6lyMYewq2SuTFIXgiv7OxH;[];unknown
+1EuNDbf2DWqsa9cSgHT1Mm;[];unknown
+3bfSaJqEYosPcdoCN06G3P;[];unknown
+3weTDlYKpF9A55JH0XAKkD;[];unknown
+6AlUh97NNEBLo3OqYORyIi;[];unknown
 7owveHzN1hmQuw6Ojg4sI3;['k-rock', 'japanese indie'];rock
-6slrkfC61k7yWM5Hl5USES;['jazz'];jazz
-4YNvbaOaqp5pzC5US5t48k;['cool jazz', 'jazz', 'bebop', 'hard bop'];jazz
-3SONlwqLIP2GtaMh9pLYe5;['jazz', 'jazz fusion'];jazz
-7g3iwvP459BN53F7CDxemI;['jazz', 'free jazz'];jazz
-6txzCcsy6ZKKKQLHmE3Y9L;['jazz'];jazz
-47hexMV8ZbDWZ9MSwSWD50;['free jazz', 'avant-garde', 'jazz'];jazz
+6slrkfC61k7yWM5Hl5USES;['jazz'];soul_jazz
+4YNvbaOaqp5pzC5US5t48k;['cool jazz', 'jazz', 'bebop', 'hard bop'];soul_jazz
+3SONlwqLIP2GtaMh9pLYe5;['jazz', 'jazz fusion', 'free jazz'];soul_jazz
+7g3iwvP459BN53F7CDxemI;['jazz', 'free jazz'];soul_jazz
+6txzCcsy6ZKKKQLHmE3Y9L;['jazz'];soul_jazz
+47hexMV8ZbDWZ9MSwSWD50;['free jazz', 'avant-garde', 'jazz'];soul_jazz
+4E2rKHVDssGJm2SCDOMMJB;[];unknown
 4M5b70A8aORXdyJVjRJ8du;['alté'];other
 2siXaXrok89Fp1PZI7sn0s;['alté'];other
-5RJFJWYgtgWktosLrUDzff;[];other
-3luuQQRuSBuDNnrkYvatnk;['nu jazz', 'indie jazz'];jazz
-0whJ2FDPMvAL5DQaEox7RD;[];other
-5GUQyp5KqMspjfP1cuHtnc;['nu jazz'];jazz
-5LfO4rbJarBvHjB34mU9m2;[];other
-5YljAyfTzlQolEBfXewEq7;[];other
+5RJFJWYgtgWktosLrUDzff;[];unknown
+3luuQQRuSBuDNnrkYvatnk;['nu jazz', 'indie jazz'];soul_jazz
+0whJ2FDPMvAL5DQaEox7RD;['nu jazz'];soul_jazz
+5GUQyp5KqMspjfP1cuHtnc;['nu jazz'];soul_jazz
+5LfO4rbJarBvHjB34mU9m2;[];unknown
+5YljAyfTzlQolEBfXewEq7;[];unknown
 7DoCMYqpSbn3kgBSWDpnLP;['post-punk'];rock
 0LOK81e9H5lr61HlGGHqwA;['k-pop'];pop
 1HY2Jd0NmPuamShAr6KMms;['art pop', 'pop'];pop
 7Lq3yAtwi0Z7zpxEwbQQNZ;['k-pop'];pop
-2KnhnL8zuqLhIhGk601fsb;[];other
-6RuutbNl5ny8LAf1uSK3fS;[];other
-1grN0519h2zYqpRtYbDZAl;[];other
+2KnhnL8zuqLhIhGk601fsb;[];unknown
+6RuutbNl5ny8LAf1uSK3fS;[];unknown
+1grN0519h2zYqpRtYbDZAl;[];unknown
 5Pir3nnrulz7WMyC9bFhkL;['shoegaze', 'dream pop'];rock
-7HkdQ0gt53LP4zmHsL0nap;['r&b'];hip_hop_rnb_soul_afro
+7HkdQ0gt53LP4zmHsL0nap;['r&b'];hip_hop_rnb
 16Yf6ZfrDTWu4jt7GQrjdL;['bluegrass', 'newgrass'];other
-3FFfAZsrsx8ot1m6H5vzQc;[];other
-2lP34R0Q7edlojuJrUMPnj;['shoegaze', 'slowcore'];rock
-0TJB3EE2efClsYIDQ8V2Jk;[];other
+3FFfAZsrsx8ot1m6H5vzQc;[];unknown
+4Sw0SFu1fFdYXdAEVdrqnO;['slowcore', 'indie folk'];folk_acoustic
+2lP34R0Q7edlojuJrUMPnj;['shoegaze', 'slowcore', 'dream pop'];rock
+1TkiNxDsrc0PgIWBrATCbe;['shoegaze', 'dream pop'];rock
+5APEQlUaQ5K70LgPqAdTuU;['dream pop'];pop
+0TJB3EE2efClsYIDQ8V2Jk;[];unknown
 0LVrQUinPUBFvVD5pLqmWY;['britpop', 'madchester'];pop
-3pol9num4gn7ifeZrENp2E;[];other
-0IHlkUZPVWLz5yUbz8H5Bv;[];other
-0KheksMhWogVV4frHAihPJ;[];other
-3SBYl2unJoVzvNIUBC8ftm;[];other
-7zQ4NNGWgCVWU80Rg6dXOH;['experimental hip hop', 'hardcore hip hop'];hip_hop_rnb_soul_afro
+3pol9num4gn7ifeZrENp2E;[];unknown
+0IHlkUZPVWLz5yUbz8H5Bv;[];unknown
+0KheksMhWogVV4frHAihPJ;[];unknown
+3SBYl2unJoVzvNIUBC8ftm;[];unknown
+7zQ4NNGWgCVWU80Rg6dXOH;['experimental hip hop', 'hardcore hip hop', 'east coast hip hop'];hip_hop_rnb
+65dGLGjkw3UbddUg2GKQoZ;[];unknown
 5SVFuUaS3BKAdJs6I8rVa4;['nova mpb', 'mpb'];other
-238uE9s8BDKrIYbzpxIgOX;[];other
-09Lrr4vGyWxxsuo3lrZW7f;[];other
-6xFrZbce9KH5APjBe4QVNa;['underground hip hop'];hip_hop_rnb_soul_afro
+238uE9s8BDKrIYbzpxIgOX;[];unknown
+1CoZyIx7UvdxT5c8UkMzHd;[];unknown
+09Lrr4vGyWxxsuo3lrZW7f;[];unknown
+6xFrZbce9KH5APjBe4QVNa;['underground hip hop'];hip_hop_rnb
 3wury2nd8idV4GecUg5xze;['madchester', 'britpop', 'alternative dance'];pop
-6zlR5ttMfMNmwf2lecU9Cc;[];other
+6zlR5ttMfMNmwf2lecU9Cc;[];unknown
 0eNuNAhL4dW2nvKbSe2mS8;['power metal', 'heavy metal', 'metal'];metal
-7mrvU3OShTgthJV80o2day;['j-rap', 'boom bap'];hip_hop_rnb_soul_afro
-0Mz5XE0kb1GBnbLQm2VbcO;['east coast hip hop', 'hip hop'];hip_hop_rnb_soul_afro
+7mrvU3OShTgthJV80o2day;['j-rap', 'boom bap'];hip_hop_rnb
+0Mz5XE0kb1GBnbLQm2VbcO;['east coast hip hop', 'hip hop'];hip_hop_rnb
+12Zk1DFhCbHY6v3xep2ZjI;[];unknown
 0nZHjqvdLoBy50ZzUH5FNU;['hyperpop', 'art pop'];pop
-3lLHpTOJ11tWiUNGYN14gt;['jazz rap'];hip_hop_rnb_soul_afro
+2sY4BbYrbvNVgsNzo6HddD;[];unknown
+3lLHpTOJ11tWiUNGYN14gt;['jazz rap'];hip_hop_rnb
 5t5FqBwTcgKTaWmfEbwQY9;['k-pop'];pop
-48Kc3HRodbvm5ropMf9B6M;[];other
+48Kc3HRodbvm5ropMf9B6M;[];unknown
 3183eBpNb3nicV6VkhwCUL;['idm'];other
-7243txmysJ4KbRmH8UAMKO;[];other
-4w9QOKrn9Rzx8KiYgjIhZ6;[];other
-0fLFfyc0914STFxEyQHZhX;[];other
+7243txmysJ4KbRmH8UAMKO;[];unknown
+4w9QOKrn9Rzx8KiYgjIhZ6;[];unknown
+0fLFfyc0914STFxEyQHZhX;[];unknown
 1NXSMPrdftOB0I4LeSkwjz;['tamil indie'];rock
-5szMuuBbDzULkagWIfI5LG;['jazz'];jazz
-7EEluFWhabUJwqInW2J654;[];other
-3nU8TSIICYDbUqRpJISTRE;[];other
-6cHNULTFsXZsOirfddBk09;[];other
-5cHEMXrGvrs8I6iYWNwTkh;[];other
-3msewJ0hXf2THwcdYjGeOA;[];other
-2uE66NiUti6Wpz90SD4eam;['acid jazz', 'jazz funk'];jazz
-6DPYiyq5kWVQS4RGwxzPC7;['g-funk', 'gangster rap', 'west coast hip hop', 'hip hop', 'rap'];hip_hop_rnb_soul_afro
-5ZS223C6JyBfXasXxrRqOk;['r&b'];hip_hop_rnb_soul_afro
-1F7QDWyZTLGzkyGLgFjEhU;['stoner rock', 'sludge metal'];metal
+5szMuuBbDzULkagWIfI5LG;['jazz'];soul_jazz
+5mlbvTfWUOfDrUIK6dkNzv;[];unknown
+0YMVzWF9HWGbV4DZHfCyKo;[];unknown
+7EEluFWhabUJwqInW2J654;[];unknown
+30ZFCxaQeisDgihIZyjOlj;['doom metal', 'sludge metal', 'stoner rock'];metal
+3nU8TSIICYDbUqRpJISTRE;[];unknown
+6cHNULTFsXZsOirfddBk09;[];unknown
+5cHEMXrGvrs8I6iYWNwTkh;[];unknown
+3msewJ0hXf2THwcdYjGeOA;[];unknown
+2uE66NiUti6Wpz90SD4eam;['acid jazz', 'jazz funk'];soul_jazz
+7hJcb9fa4alzcOq3EaNPoG;['g-funk', 'west coast hip hop', 'gangster rap', 'hip hop', 'rap'];hip_hop_rnb
+6DPYiyq5kWVQS4RGwxzPC7;['g-funk', 'gangster rap', 'west coast hip hop', 'hip hop', 'rap'];hip_hop_rnb
+5ZS223C6JyBfXasXxrRqOk;['r&b'];hip_hop_rnb
+7aFTOGFDEqDtJUCziLVsVC;['alternative r&b'];hip_hop_rnb
+1F7QDWyZTLGzkyGLgFjEhU;['stoner rock', 'sludge metal', 'doom metal'];metal
+3l0CmX0FuQjFxr8SK7Vqag;['bedroom pop'];pop
 0YhYfoCTZKEw5VwaC7dasF;['industrial rock'];rock
 3uHCTHxtg3IVAvhyrYsZvI;['math rock', 'progressive metal', 'post-hardcore'];metal
 4xkFkSduLRpzxrVpZMpvVv;['industrial rock'];rock
 7KFv5Cni7kseXWHJnnejXk;['metalcore', 'deathcore', 'hardcore', 'groove metal'];metal
-57w65jYxX2Oyq1kMqSNPOL;[];other
-508Hx1Z1U3Y5v7wNUZ7lWe;[];other
-4ueTPIC5hiz2ZENZXVy8Nz;[];other
-4FaBmP30QiO2lXc3yyuqrV;[];other
+57w65jYxX2Oyq1kMqSNPOL;[];unknown
+508Hx1Z1U3Y5v7wNUZ7lWe;[];unknown
+4ueTPIC5hiz2ZENZXVy8Nz;[];unknown
+4FaBmP30QiO2lXc3yyuqrV;[];unknown
 6sd3qv6kReAdo6WsLBtXX4;['ambient', 'drone', 'new age'];other
-6O5GOlHxncbRRAntqtIYMP;[];other
-3OFGFjAzm030YXGPDQ4Sio;['post-disco'];other
-263EFLwSXgDl3y1vdZiDKk;[];other
+6O5GOlHxncbRRAntqtIYMP;[];unknown
+3OFGFjAzm030YXGPDQ4Sio;['post-disco'];electro_dance
+263EFLwSXgDl3y1vdZiDKk;[];unknown
 4Cx5LnF4WNJIn9SSqyeq9C;['shoegaze', 'dream pop', 'post-punk'];rock
-3oKRxpszQKUjjaHz388fVA;[];other
-78fRJkihgP2NudYwkRUrHB;['spoken word', 'breakbeat'];electro
-4KValadymb1TlvrjeHYLXF;[];other
+3oKRxpszQKUjjaHz388fVA;[];unknown
+78fRJkihgP2NudYwkRUrHB;['spoken word', 'breakbeat'];electro_dance
+4KValadymb1TlvrjeHYLXF;[];unknown
 7EfK0VXLHjPEysgWDnAyYH;['pop punk'];rock
-1qqdO7xMptucPDMopsOdkr;['pop punk', 'acoustic pop', 'punk'];folk_acoustic
-6UbmqUEgjLA6jAcXwbM1Z9;['k-pop', 'k-rap'];hip_hop_rnb_soul_afro
-3eCd0TZrBPm2n9cDG6yWfF;['k-rap', 'k-pop'];hip_hop_rnb_soul_afro
+4bEKeZm7yf8aOqam6RI4cJ;['death metal'];metal
+1qqdO7xMptucPDMopsOdkr;['pop punk', 'emo pop', 'acoustic pop', 'punk'];folk_acoustic
+6UbmqUEgjLA6jAcXwbM1Z9;['k-pop', 'k-rap'];hip_hop_rnb
+3eCd0TZrBPm2n9cDG6yWfF;['k-rap', 'k-pop'];hip_hop_rnb
 467M2s2YxXdlL2ZpDUNL3A;['deathcore', 'metalcore', 'metal'];metal
-1p6HheoJqfYMiMC62yQIWn;[];other
-5wk7sY8GIg5ihSI09EbWeS;['dream pop', 'bedroom pop'];pop
-6m30rs1IQqnWqV5nKMpU7U;['soul'];hip_hop_rnb_soul_afro
-5gznATMVO85ZcLTkE9ULU7;[];other
-62tqJaaK7ys8tATtp4334R;['hardcore', 'funkot'];rock
+1p6HheoJqfYMiMC62yQIWn;[];unknown
+5wk7sY8GIg5ihSI09EbWeS;['bedroom pop', 'dream pop'];pop
+6m30rs1IQqnWqV5nKMpU7U;['soul', 'funk'];soul_jazz
+5gznATMVO85ZcLTkE9ULU7;[];unknown
+4DJHbK2NrlVn7hCkTrUs69;['experimental hip hop'];hip_hop_rnb
+3wkT6THiKqbXC0jJpfKL7t;['experimental hip hop'];hip_hop_rnb
+62tqJaaK7ys8tATtp4334R;['hardcore'];rock
 7Atp614yT56v9XrlqZryzX;['pop punk'];rock
-6R1kfr0GIWnwxY4zW11Vag;['hyperpop', 'electroclash'];electro
-0t04WLkoyjSuvhzsXIJH7E;[];other
-1np8xozf7ATJZDi9JX8Dx5;['uk garage', 'stutter house'];electro
-5Mq7iqCWBzofK39FBqblNc;[];other
+6EyzBjjCPBP7s5W8d3wMOe;['electroclash', 'hyperpop'];electro_dance
+6R1kfr0GIWnwxY4zW11Vag;['hyperpop', 'electroclash'];electro_dance
+0t04WLkoyjSuvhzsXIJH7E;['french indie pop'];rock
+1np8xozf7ATJZDi9JX8Dx5;['uk garage', 'stutter house'];electro_dance
+5Mq7iqCWBzofK39FBqblNc;[];unknown
+6nB0iY1cjSY1KyhYyuIIKH;['art pop', 'alternative r&b'];hip_hop_rnb
 3TsEEdpuuCN1G0dPxV4uOA;['idm'];other
-04U5nHCnl5ykOPWVrfHHZq;[];other
-0fGcIStdT1OpFFhOC7Wp36;[];other
-5F9t2eiVfkS6nfRwyH2WjS;[];other
-1IMENE2OCzsrXuu62aW1mD;['afrobeats', 'afroswing', 'alté', 'afrobeat'];hip_hop_rnb_soul_afro
-2BPwxhCvvcb8xDl8GWIjbh;['afroswing', 'alté', 'afrobeats', 'afrobeat', 'afro soul'];hip_hop_rnb_soul_afro
+04U5nHCnl5ykOPWVrfHHZq;[];unknown
+0fGcIStdT1OpFFhOC7Wp36;[];unknown
+5F9t2eiVfkS6nfRwyH2WjS;[];unknown
+7AZm56bjPk0tYl6LTyJu9N;[];unknown
+1IMENE2OCzsrXuu62aW1mD;['afrobeats', 'afroswing', 'alté', 'afrobeat'];reggae_afro
+2BPwxhCvvcb8xDl8GWIjbh;['afroswing', 'alté', 'afrobeats', 'afrobeat', 'afro soul'];reggae_afro
 0GziaiWv5ifydV7CMykbKk;['industrial rock'];rock
 4HFpzehKjow2WqU4EJ6Wy9;['folk metal', 'metal'];metal
 15LsRgSmN0t8VLcsUFYW5J;['black metal'];metal
-685XjGzGztyivfR3fAjoxo;['post-punk', 'noise rock', 'art rock'];rock
+685XjGzGztyivfR3fAjoxo;['post-punk', 'art rock', 'noise rock'];rock
 6pIRdCtSE5hLFfIfcTAicI;['symphonic metal', 'gothic metal', 'symphonic rock', 'melodic metal', 'power metal', 'metal'];metal
-50MUpOKyCZMtBcYlBQP260;[];other
-45yEuthJ9yq1rNXAOpBnqM;['french house'];electro
-65LFWKj4j7xul6eSIN4IOI;[];other
+50MUpOKyCZMtBcYlBQP260;[];unknown
+45yEuthJ9yq1rNXAOpBnqM;['french indie pop', 'french house'];electro_dance
+2gyrcmT4DLH5zqWBW4bKRn;[];unknown
+65LFWKj4j7xul6eSIN4IOI;[];unknown
+151BUVKmiB9rHDjIkgbeVE;['underground hip hop', 'boom bap', 'hip hop'];hip_hop_rnb
+0giUOGLTAaVVbdr7aSwM0N;['boom bap', 'underground hip hop', 'hardcore hip hop'];hip_hop_rnb
 5LyRnL0rysObxDRxzSfV1z;['melodic hardcore', 'metalcore', 'hardcore', 'post-hardcore', 'hardcore punk', 'deathcore'];metal
-5YYrWH3w4JYijU4JZrOXWA;[];other
-4wAqlYtTaaHELEgyCh9KjG;['afrobeats', 'afrobeat', 'afropop', 'alté', 'afro soul'];hip_hop_rnb_soul_afro
-290nCNEce1y6rfoJiO2rK7;['afroswing', 'grime', 'uk drill'];hip_hop_rnb_soul_afro
-3LOm0AZjpwVQebvkyanjDy;['afrobeats', 'alté', 'afrobeat', 'afropop', 'afro adura', 'afroswing'];hip_hop_rnb_soul_afro
-405LgUfDn2WLYkBJaLSaDe;[];other
+5YYrWH3w4JYijU4JZrOXWA;[];unknown
+4wAqlYtTaaHELEgyCh9KjG;['afrobeats', 'afrobeat', 'afropop', 'alté', 'afro soul', 'afropiano'];reggae_afro
+290nCNEce1y6rfoJiO2rK7;['afroswing', 'grime', 'uk drill'];hip_hop_rnb
+3LOm0AZjpwVQebvkyanjDy;['afrobeats', 'afrobeat', 'alté', 'afropiano', 'afropop', 'afro adura', 'afroswing'];reggae_afro
+405LgUfDn2WLYkBJaLSaDe;[];unknown
 7FkwgNGMt64MpnIYoXnhK1;['hardcore punk'];rock
-2knguAkuatcKmqXZkBxaLs;[];other
+2knguAkuatcKmqXZkBxaLs;[];unknown
 2h0hfblKFcjOdz52vre1OV;['noise rock', 'post-punk'];rock
-0F9wD0Nf2Hm0iiFJUqsHLy;[];other
+0F9wD0Nf2Hm0iiFJUqsHLy;[];unknown
 10yLOgKTy2iAtvIqkow5l4;['alté'];other
-2YEOMpI5fq8pz4BeJjoAsQ;['uk garage'];other
+2YEOMpI5fq8pz4BeJjoAsQ;['uk garage', 'alté'];other
 3KwukNCo4MbjbgbvrVqLP0;['alté'];other
 6ignRjbPmLvKdtMLj9a5Xs;['japanese indie', 'shibuya-kei'];rock
 1IHjrY7ygKbmLVoUV1VcXc;['shoegaze', 'post-grunge'];rock
-1N2FgBLehaq77UEdJhCt7f;['madchester', 'britpop', 'alternative dance'];pop
-5HJ2kX5UTwN4Ns8fB5Rn1I;['experimental hip hop', 'horrorcore', 'experimental', 'alternative hip hop'];hip_hop_rnb_soul_afro
+1N2FgBLehaq77UEdJhCt7f;['britpop', 'madchester', 'alternative dance'];pop
+0RsNTNwQqjREcl3VG81prp;[];unknown
+5HJ2kX5UTwN4Ns8fB5Rn1I;['experimental hip hop', 'horrorcore', 'experimental', 'alternative hip hop'];hip_hop_rnb
 3twuAojvYNrlWZpMkxLm3P;['musicals'];other
-5v69lcKunkvGk1SimYwL0M;['experimental hip hop'];hip_hop_rnb_soul_afro
-709RUroHgigfxfOrPwVDAm;['experimental hip hop'];hip_hop_rnb_soul_afro
-4WjyuUryzJgs8GukH5BZjs;['lo-fi house'];electro
-2vGRgVlsY6BB9PyESPm6IH;['latin house', 'tribal house'];electro
-1V2a5Mkw4VP93kP1vrB4T4;['post-punk'];rock
-6ywMpa6AmGJpV5Sbyy58Js;['nu jazz'];jazz
-39vtb2iiz3079nqfL5nfFc;['experimental hip hop', 'alternative hip hop', 'east coast hip hop'];hip_hop_rnb_soul_afro
-2YeKLbyQXeNPNNXmp9Irol;[];other
+5v69lcKunkvGk1SimYwL0M;['experimental hip hop'];hip_hop_rnb
+709RUroHgigfxfOrPwVDAm;['experimental hip hop'];hip_hop_rnb
+4WjyuUryzJgs8GukH5BZjs;['lo-fi house'];electro_dance
+2vGRgVlsY6BB9PyESPm6IH;['latin house', 'tribal house'];electro_dance
+1V2a5Mkw4VP93kP1vrB4T4;['post-punk', 'noise rock'];rock
+4jE1yavE4c5IR1hhM4wHhY;[];unknown
+6ywMpa6AmGJpV5Sbyy58Js;['nu jazz'];soul_jazz
+39vtb2iiz3079nqfL5nfFc;['experimental hip hop', 'alternative hip hop', 'east coast hip hop', 'underground hip hop'];hip_hop_rnb
+2YeKLbyQXeNPNNXmp9Irol;[];unknown
 6p355yiyJc67iSNeWLM8WH;['slowcore'];other
-2rpkPoe2Qc5unwCOmWpN5y;[];other
-2EQ3ptCOffN09sfwUz3vzy;[];other
-1bPYCoigTRLOQwNfjpwmff;[];other
-52fhNGn51RhUvjlapHT5T2;[];other
-1WNmfSqydnt1FDJKg3l6lw;[];other
-0lPGXQv9ckW0tLxVQTxJn1;[];other
-2qAwMsiIjTzlmfAkXKvhVA;[];other
-4M1DlOtwciPLmjRWBWOpFG;[];other
+2rpkPoe2Qc5unwCOmWpN5y;[];unknown
+2EQ3ptCOffN09sfwUz3vzy;['indie punk'];rock
+1bPYCoigTRLOQwNfjpwmff;[];unknown
+52fhNGn51RhUvjlapHT5T2;[];unknown
+1WNmfSqydnt1FDJKg3l6lw;[];unknown
+0lPGXQv9ckW0tLxVQTxJn1;[];unknown
+2qAwMsiIjTzlmfAkXKvhVA;[];unknown
+4qxFzMJxrNzlv11J7pCY5q;[];unknown
+4M1DlOtwciPLmjRWBWOpFG;['art rock'];rock
 2StXQyMrlYk1wWVX72InuJ;['noise rock'];rock
-0auP293abZeTWwMUi3fZw2;[];other
-2LakckgvXEtJlKOYP6BO11;['rage rap'];hip_hop_rnb_soul_afro
-0FNfiTQCR5o3ounOlWzm1d;['experimental hip hop'];hip_hop_rnb_soul_afro
-3u65Tx20y4WqxO7W7khEhj;[];other
+0auP293abZeTWwMUi3fZw2;[];unknown
+2LakckgvXEtJlKOYP6BO11;['rage rap'];hip_hop_rnb
+0FNfiTQCR5o3ounOlWzm1d;['experimental hip hop'];hip_hop_rnb
+2uRjuSX3CCVJO0KBA518XG;['post-hardcore'];rock
+3u65Tx20y4WqxO7W7khEhj;[];unknown
 4MzJMcHQBl9SIYSjwWn8QW;['metalcore', 'djent', 'metal'];metal
-4UWWa5dKgTLAx8mv6Ju6X1;['drum and bass', 'liquid funk'];electro
-7xBGi7Eign0fX7jGQj5KlJ;[];other
-2yOJnAGg41NV4aech301xj;[];other
+4JzQKxgdLmyqbplHxVL8xY;[];unknown
+4UWWa5dKgTLAx8mv6Ju6X1;['drum and bass', 'liquid funk'];electro_dance
+7xBGi7Eign0fX7jGQj5KlJ;[];unknown
+2yOJnAGg41NV4aech301xj;[];unknown
 3LJJl2ijoYLexGyX6jU9gl;['alternative metal', 'nu metal'];metal
-59O57msePcyTge2k7MzmlT;['retro soul'];hip_hop_rnb_soul_afro
+59O57msePcyTge2k7MzmlT;['retro soul'];soul_jazz
 2kGBy2WHvF0VdZyqiVCkDT;['chamber pop'];pop
-3YQKmKGau1PzlVlkL1iodx;[];other
-57nPqD7z62gDdq37US9XJR;[];other
-47mIJdHORyRerp4os813jD;[];other
-0loUVauivVQPRdqkbd250b;[];other
+3YQKmKGau1PzlVlkL1iodx;[];unknown
+57nPqD7z62gDdq37US9XJR;[];unknown
+47mIJdHORyRerp4os813jD;[];unknown
+0CREEnqrPXZUTyHKATsUWE;['french pop'];pop
+0loUVauivVQPRdqkbd250b;[];unknown
 3oLTaC5QBOH96VbxMAafpZ;['post-punk'];rock
 6cadOIa5DTh6a5mGo5r4bh;['soundtrack'];other
-2Ggj5XNlIb4Lnbqe307FyB;[];other
+0qc4BFxcwRFZfevTck4fOi;['cloud rap'];hip_hop_rnb
+6fFcUOFcbjeIuEomuUthkw;['art pop', 'hyperpop', 'alternative r&b'];hip_hop_rnb
+2Ggj5XNlIb4Lnbqe307FyB;[];unknown
 18M7pJRsgFVjEBZ5ufmJAp;['post-punk'];rock
-3PpJbrAbphauEun8Xf9tD2;[];other
-7b5FD1wsy3KBIrMjTqTNBi;[];other
+3PpJbrAbphauEun8Xf9tD2;['shatta'];other
+1mVk9jJNL0m9WIs0a1BQdS;[];unknown
+7b5FD1wsy3KBIrMjTqTNBi;[];unknown
 7w7sMRp0FSQRRZM5SZG0Dm;['metalcore', 'djent'];metal
-1abxqY1kQi7bmsiRDJR7vj;[];other
+1abxqY1kQi7bmsiRDJR7vj;[];unknown
 3ZztVuWxHzNpl0THurTFCv;['metalcore', 'djent', 'metal', 'post-hardcore', 'deathcore'];metal
-78YRbJhMi5kXKruiQGCJo7;['french house', 'electroclash', 'electro'];electro
-4TBDzXf9NfvFpqLOAodNYQ;[];other
-5CSb8UNFfwDv80vbAIPEtu;[];other
+78YRbJhMi5kXKruiQGCJo7;['french house', 'electroclash', 'electro'];electro_dance
+4TBDzXf9NfvFpqLOAodNYQ;[];unknown
+2KlDlqEMf0YyYW8rBKUx6W;['french indie pop', 'french pop', 'french house'];electro_dance
+5CSb8UNFfwDv80vbAIPEtu;[];unknown
 4D1gckOVE54GdYpS7J4noB;['jersey club'];other
-3lGO6uBIzoFyU6OoGMER1B;[];other
-3VdnwWd3i9OOT0CzbzRZj7;[];other
+3lGO6uBIzoFyU6OoGMER1B;[];unknown
+3VdnwWd3i9OOT0CzbzRZj7;[];unknown
 37394IP6uhnjIpsawpMu4l;['metalcore', 'metal'];metal
-6BBkWyAZhcINj7GecYg3Wd;['boom bap', 'underground hip hop', 'east coast hip hop'];hip_hop_rnb_soul_afro
-1EXhFWMkZ775rxYoHSSbkH;['boom bap', 'underground hip hop', 'hardcore hip hop'];hip_hop_rnb_soul_afro
+6BBkWyAZhcINj7GecYg3Wd;['boom bap', 'underground hip hop'];hip_hop_rnb
+1EXhFWMkZ775rxYoHSSbkH;['boom bap', 'underground hip hop', 'hardcore hip hop'];hip_hop_rnb
 7AHs1k8PtT8HRhFvNhOJRU;['medieval metal'];metal
-4fG5iQ1bDCtgOmhbVNWilq;[];other
-4aOGVF2gQb9TY4raTPjLWf;[];other
-4DLjEphXbW7qIhX4iwmNEe;['new rave'];other
-6MDME20pz9RveH9rEXvrOM;[];other
+4fG5iQ1bDCtgOmhbVNWilq;[];unknown
+4aOGVF2gQb9TY4raTPjLWf;[];unknown
+4DLjEphXbW7qIhX4iwmNEe;[];unknown
+3Ut1IKlpXHBQwxklMxBsPX;['uk drill'];hip_hop_rnb
+6MDME20pz9RveH9rEXvrOM;[];unknown
 1F4zB8anWEIF1ktyvkaXO3;['black metal'];metal
-7zAAwgV5Wqmvpb4GzvlRkP;[];other
-20rKUmFZsfv9GBXiv6R9d6;[];other
-0Dkj3iE06TJGxGIrGCmwVf;[];other
+7zAAwgV5Wqmvpb4GzvlRkP;[];unknown
+20rKUmFZsfv9GBXiv6R9d6;[];unknown
+0Dkj3iE06TJGxGIrGCmwVf;[];unknown
 0XNa1vTidXlvJ2gHSsRi4A;['indie rock'];rock
-5LppQKXZeKZWAp7g4z93ME;[];other
-2dE5audbkV3o5cKxvM7lBD;['djent', 'metalcore'];metal
-3tVQdUvClmAT7URs9V3rsp;['afrobeats', 'afrobeat', 'afropop', 'azonto', 'afroswing', 'dancehall', 'alté'];hip_hop_rnb_soul_afro
-3a1tBryiczPAZpgoZN9Rzg;['afrobeats', 'afrobeat', 'afro adura', 'afropop', 'amapiano', 'afroswing'];hip_hop_rnb_soul_afro
+4EnymklUyqZwvmHQGlRssl;[];unknown
+5LppQKXZeKZWAp7g4z93ME;[];unknown
+2dE5audbkV3o5cKxvM7lBD;['metalcore', 'djent'];metal
+3tVQdUvClmAT7URs9V3rsp;['afrobeats', 'afrobeat', 'afropop', 'azonto', 'afroswing', 'afropiano', 'dancehall'];reggae_afro
+3a1tBryiczPAZpgoZN9Rzg;['afrobeats', 'afrobeat', 'afropiano', 'afro adura', 'afropop', 'amapiano', 'afroswing'];reggae_afro
+6VR4TJ20WGiho2xZWMuuWb;[];unknown
 6BD4lgmnh4vy6kkCaZRDWt;['metalcore', 'metal', 'deathcore', 'post-hardcore'];metal
-1Xyo4u8uXC1ZmMpatF05PJ;[];other
-699OTQXzgjhIYAHMy9RyPD;['rage rap'];hip_hop_rnb_soul_afro
+1Xyo4u8uXC1ZmMpatF05PJ;[];unknown
+699OTQXzgjhIYAHMy9RyPD;['rage rap'];hip_hop_rnb
 2eIUyCr530XyFHd358dxYZ;['hardcore', 'hardcore punk'];rock
 3qNVuliS40BLgXGxhdBdqu;['k-pop', 'k-ballad'];pop
 7h0muodpQ1q5o3RajwownN;['thrash metal', 'speed metal', 'groove metal', 'metal'];metal
-0bzfPKdbXL5ezYW2z3UGQj;['soul'];hip_hop_rnb_soul_afro
-2QYdqWGgRorVkA8cJMMdrn;[];other
-1GmsPCcpKgF9OhlNXjOsbS;[];other
-7jVv8c5Fj3E9VhNjxT4snq;[];other
-7A9q57PZ1UYY61rQVQKNUz;[];other
-0l5zmyAZvL7Z8JWFzXzMWz;[];other
-2FDvUb4YgyUPpmnm1ILPra;[];other
-5KKpBU5eC2tJDzf0wmlRp2;[];other
+0bzfPKdbXL5ezYW2z3UGQj;['soul'];soul_jazz
+2QYdqWGgRorVkA8cJMMdrn;[];unknown
+1GmsPCcpKgF9OhlNXjOsbS;[];unknown
+7jVv8c5Fj3E9VhNjxT4snq;[];unknown
+7d1ctWXfrUvAe804Zld3Gy;['french pop', 'french indie pop'];rock
+3eVa5w3URK5duf6eyVDbu9;['k-pop'];pop
+5rgdw8NVhnxWL8Poo6HsiX;['dub', 'reggae', 'ragga'];reggae_afro
+7A9q57PZ1UYY61rQVQKNUz;[];unknown
+0l5zmyAZvL7Z8JWFzXzMWz;[];unknown
+2FDvUb4YgyUPpmnm1ILPra;[];unknown
+3utxjLheHaVEd9bPjQRsy8;['progressive rock'];rock
+2YZyLoL8N0Wb9xBt1NhZWg;['hip hop', 'west coast hip hop'];hip_hop_rnb
+5KKpBU5eC2tJDzf0wmlRp2;[];unknown
 38vt0CiehYk43Nu6xcfKXk;['deathcore'];other
-6BOFplMWu1WytZSucgGHVf;[];other
-2vhrwzjf9H3icunkVFi9tq;[];other
+6BOFplMWu1WytZSucgGHVf;[];unknown
+2vhrwzjf9H3icunkVFi9tq;[];unknown
 2Y7fY3aflbCTxp6h5hw0CV;['k-pop'];pop
 3vUMXQ9kPnZAQkMkZZ7Hfh;['pop urbaine'];pop
 4B27SA6MuuYfEbzz1BObjY;['progressive metal'];metal
 2p1fiYHYiXz9qi0JJyxBzN;['grime'];other
-03ojdQidPtScdEq8KU2V9K;['memphis rap'];hip_hop_rnb_soul_afro
-18YRYVKCQ6myVzKnTZIjXE;[];other
-1kR99O4MgSTasyeJh8UFCg;[];other
-0O98jlCaPzvsoei6U5jfEL;[];other
-0p4ViyfJUTW0IT4SCBLexf;['west coast hip hop'];hip_hop_rnb_soul_afro
-15oLsNy8mZYaIukh4eDhXy;[];other
-6LuN9FCkKOj5PcnpouEgny;[];other
-1FtBEIWAwvw5ymBen5GICR;[];other
-7f8ydynRRnrJBqWxevKLcM;['electroclash', 'witch house'];electro
+03ojdQidPtScdEq8KU2V9K;['memphis rap'];hip_hop_rnb
+18YRYVKCQ6myVzKnTZIjXE;[];unknown
+4ngzSYix3OAL3ph7OjDXzn;['black metal'];metal
+38vNZvHEjUU9XlzlV43H9T;['shoegaze'];rock
+1kR99O4MgSTasyeJh8UFCg;[];unknown
+0O98jlCaPzvsoei6U5jfEL;[];unknown
+0p4ViyfJUTW0IT4SCBLexf;['west coast hip hop'];hip_hop_rnb
+15oLsNy8mZYaIukh4eDhXy;[];unknown
+6LuN9FCkKOj5PcnpouEgny;[];unknown
+1FtBEIWAwvw5ymBen5GICR;[];unknown
+7f8ydynRRnrJBqWxevKLcM;['electroclash', 'witch house'];electro_dance
 3jLCHiuXBTGEEku37TsobP;['krautrock'];rock
 6bYFkBNvayh3nGqxcPp7Sv;['black metal', 'neofolk', 'avant-garde', 'dark ambient', 'folk metal'];metal
-0kGweFvHWUfh6oLnookVeO;[];other
-5fi7lIgJGH3RgUpJYcffQ7;[];other
-6N7zzgXz4PvcAf5NMPpQjL;[];other
-2Q1toCgEYnoH8DGOAg0BhI;[];other
-5BXgJD35uOzh79FlVO8DQ2;[];other
-27yQQxDQHLFT23OCbsxi4t;['doom metal', 'stoner rock', 'sludge metal'];metal
+0kGweFvHWUfh6oLnookVeO;[];unknown
+5fi7lIgJGH3RgUpJYcffQ7;[];unknown
+6N7zzgXz4PvcAf5NMPpQjL;[];unknown
+2Q1toCgEYnoH8DGOAg0BhI;[];unknown
+5BXgJD35uOzh79FlVO8DQ2;[];unknown
+7axZFTseO96HmG1u4ABDAI;[];unknown
+27yQQxDQHLFT23OCbsxi4t;['sludge metal', 'doom metal', 'stoner rock'];metal
 4Op2pnzbOze0T6HSejf6dL;['nu metal', 'shoegaze'];metal
-0wuuYZFptujAsRthrdea2B;['french pop', 'french house'];electro
+0wuuYZFptujAsRthrdea2B;['french indie pop', 'french pop', 'french house'];electro_dance
 1HCdPZB0ypEcpDo4T55sMi;['garage rock', 'blues rock', 'roots rock'];rock
 6xiHXeTXBiPw7J9w85oye3;['metalcore'];metal
 1tbhwOH5UBAJoqTx9Oak00;['symphonic metal', 'finnish rock'];metal
-3hDanYurg3xQJSx7WBYEDx;[];other
-0NCZoJwqMYvBpYFRnKnAMh;[];other
-35GpJabAKuETXnWsWQbTjr;[];other
-0KyFKunOclAI5jah1T55lh;['chicago house', 'miami bass'];electro
-7pyhre5oEEFMqcgMEvJY7q;[];other
-0z6XSqpMBqmhaRVWduV9HJ;[];other
-5KjrHPtIS2XCqs5zZwnydX;[];other
-4RUXc1qaB7CPx8z3cRLD3O;[];other
-6tatWnZ4nH8Cpivd2uXKJn;[];other
-4uOeSBqJoBz5OrxrsrTboH;['midwest emo', 'melodic hardcore', 'pop punk'];rock
+3hDanYurg3xQJSx7WBYEDx;[];unknown
+0NCZoJwqMYvBpYFRnKnAMh;[];unknown
+35GpJabAKuETXnWsWQbTjr;[];unknown
+0KyFKunOclAI5jah1T55lh;['footwork', 'chicago house', 'miami bass', 'singeli', 'baltimore club'];electro_dance
+7pyhre5oEEFMqcgMEvJY7q;[];unknown
+0z6XSqpMBqmhaRVWduV9HJ;[];unknown
+5KjrHPtIS2XCqs5zZwnydX;[];unknown
+4RUXc1qaB7CPx8z3cRLD3O;[];unknown
+6tatWnZ4nH8Cpivd2uXKJn;[];unknown
+43R8Umt7qVmJCcOZGWJy24;[];unknown
+4uOeSBqJoBz5OrxrsrTboH;['midwest emo', 'melodic hardcore', 'emo pop', 'pop punk'];rock
 7n2Ycct7Beij7Dj7meI4X0;['k-pop'];pop
-181bsRPaVXVlUKXrxwZfHK;[];other
+181bsRPaVXVlUKXrxwZfHK;[];unknown
+3Vl9fyKMIdLMswk8ai3mm9;['hyperpop'];pop
 4GgBKgxhc649frZDHcXIEz;['k-pop'];pop
-59XQUEHhy5830QsAsmhe2M;[];other
-3ZKUFIrYS6aAgIxu5AfTX5;[];other
+59XQUEHhy5830QsAsmhe2M;[];unknown
+3ZKUFIrYS6aAgIxu5AfTX5;[];unknown
 1Ia5iTYHMBsMQfi7Fbcbuw;['metal'];metal
-5kajE7ahejLpQRKTLo7RGZ;[];other
-1DeTbdvBWontCdCJThnYV8;[];other
-30XB6UJMhn7v7ZDX2GlIsM;['noise rock', 'garage rock'];rock
-1TUHJZ0mNtVimkplNEki48;[];other
-3DTAfcWpBw0deOabOAtNVC;[];other
+5kajE7ahejLpQRKTLo7RGZ;[];unknown
+1DeTbdvBWontCdCJThnYV8;[];unknown
+30XB6UJMhn7v7ZDX2GlIsM;['noise rock', 'garage rock', 'indie punk'];rock
+3FobDbMc9jNxkZ8GCc685W;[];unknown
+1TUHJZ0mNtVimkplNEki48;[];unknown
+3DTAfcWpBw0deOabOAtNVC;[];unknown
 2UzhploNTDxWtJkr5BE3cm;['hardcore'];rock
-0K71lFgGGmekeFSUrWaRhg;[];other
-1YiJh4CyYHF215ak2CmoaE;['chinese r&b', 'chinese indie', 'chinese hip hop'];hip_hop_rnb_soul_afro
+7EFB09NxZrMi9pGlOnuBpd;['shoegaze', 'post-punk'];rock
+0K71lFgGGmekeFSUrWaRhg;[];unknown
+1YiJh4CyYHF215ak2CmoaE;['chinese r&b', 'chinese indie', 'chinese hip hop'];hip_hop_rnb
 1JTyFHtzmZHTOUW74ChuRj;['hyperpop'];pop
-4LjPxqUg7n76B4CeXVgN08;[];other
-23xFbA9rYgRX8mreqysWPc;[];other
+4LjPxqUg7n76B4CeXVgN08;['malay rap'];hip_hop_rnb
+23xFbA9rYgRX8mreqysWPc;[];unknown
 13xKCVJaX32BL7EN9IOiCM;['shoegaze'];rock
-2Ffds2i0bCHVuLiJq6GqCC;[];other
-0BJeP79i5wKgCqsEEiQ7G0;[];other
+2Ffds2i0bCHVuLiJq6GqCC;[];unknown
+0BJeP79i5wKgCqsEEiQ7G0;[];unknown
+41gxyJbzbAaChEyrZ9j3rv;['lo-fi house'];electro_dance
 72unU2j2vnNWFiITlvx2nv;['black metal'];metal
-6Qhgat07PNOdnJSnCXJigu;['j-rap'];hip_hop_rnb_soul_afro
-17UzuyF3fbCwsDfQIajIak;[];other
+6Qhgat07PNOdnJSnCXJigu;['j-rap'];hip_hop_rnb
+17UzuyF3fbCwsDfQIajIak;[];unknown
 7sZ5ipSoboWdqXkdj6AXHo;['k-ballad', 'k-pop'];pop
-5j93hwFBNo29RJMsWvtzj8;['experimental hip hop', 'alternative hip hop'];hip_hop_rnb_soul_afro
-59motq6sL51Qqx9KE29oJg;[];other
-0VaS2TEWjwgRLHoaobLm2M;[];other
+2p4aN0Uxkk3iT3HK0cJ2cJ;['dembow', 'neoperreo'];other
+3VHAySZQPlfGlNLslzXYpN;['latin hip hop'];hip_hop_rnb
+5j93hwFBNo29RJMsWvtzj8;['experimental hip hop', 'alternative hip hop'];hip_hop_rnb
+4mcHKwboFDmpDBQ4fiOrf3;[];unknown
+59motq6sL51Qqx9KE29oJg;[];unknown
+0VaS2TEWjwgRLHoaobLm2M;[];unknown
 6wOhrwpLn8mjwUs14xh9nD;['thrash metal', 'speed metal'];metal
-5JUFYlgwsbqpLcU9TMlsve;[];other
-1lsXuaLnHnfL7GoJXKkUtH;['garage rock'];rock
-0jpSfOVe0Lec1vz5VjQH7S;[];other
-3ZXXJ9nO1Dn9B0AJ25eAQY;[];other
+5JUFYlgwsbqpLcU9TMlsve;[];unknown
+1lsXuaLnHnfL7GoJXKkUtH;['garage rock', 'punk'];rock
+0jpSfOVe0Lec1vz5VjQH7S;[];unknown
+3ZXXJ9nO1Dn9B0AJ25eAQY;[];unknown
 41hQlpi3r8ljXeRYbHbUBD;['hardcore', 'groove metal', 'hardcore punk'];metal
-12zbUHbPHL5DGuJtiUfsip;[];other
+2RiGIRDi4GoJpDbjDnPVJl;['melodic death metal', 'metal', 'metalcore', 'thrash metal', 'groove metal', 'death metal', 'melodic metal', 'deathcore'];metal
+12zbUHbPHL5DGuJtiUfsip;[];unknown
 3lrDYjsghBMfUTiLziD9q9;['art pop'];pop
-0MGJHTThvyAyqKuEAgPqDr;[];other
+0MGJHTThvyAyqKuEAgPqDr;[];unknown
 0u3d5PM2FuEuG5QuUdt8mT;['post-hardcore', 'metalcore'];metal
-2W2NUrosOnwAI1hZIVbwit;[];other
+75JMPNQ1B2A6WZydvs06Ok;['uk garage', 'hard house'];electro_dance
+2W2NUrosOnwAI1hZIVbwit;['moroccan rap'];hip_hop_rnb
 5r1bdqzhgRoHC3YcCV6N5a;['glam metal'];metal
-2LIk90788K0zvyj2JJVwkJ;[];other
+2LIk90788K0zvyj2JJVwkJ;[];unknown
 1HaiS1sFo8qkc6tF5Mw1M0;['metalcore', 'metal', 'melodic death metal', 'groove metal'];metal
+5Zsmx4eGounUJ1Hqq6tIQs;['metalcore', 'post-hardcore'];metal
 0giVCDcrvEldaPK8aCF1vp;['black metal'];metal
 6G43CiunIxMwb2tQ12vNP6;['metalcore', 'deathcore', 'metal', 'djent', 'post-hardcore'];metal
-3QftMsfPLxeFvFuIqglcIF;[];other
-59RfTIZiLYFmPWUDeQQkC3;[];other
-1a4lUV1KZJoCAkTUMu7zlr;[];other
-438fi8qqvXNEPoUrYLIO7J;['uk drill', 'drill'];hip_hop_rnb_soul_afro
+3QftMsfPLxeFvFuIqglcIF;[];unknown
+59RfTIZiLYFmPWUDeQQkC3;[];unknown
+1a4lUV1KZJoCAkTUMu7zlr;[];unknown
+438fi8qqvXNEPoUrYLIO7J;['uk drill', 'drill'];hip_hop_rnb
 3oKgJ6083BjtllXxDN3TD5;['sludge metal', 'post-rock', 'stoner rock'];metal
+1844Ua6R4gOuH6GLdlR4dt;[];unknown
 14SgKNlOCKAI0PfRD1HnWh;['metal'];metal
 1oeo6cC9Fqa2bxxv67qBQL;['metalcore', 'deathcore', 'metal'];metal
 2iE1NqruxoSxTvOpTCLkE9;['deathcore', 'death metal'];metal
-5Iy1erNAuG9Fefscf6miAR;[];other
-71pGlJcUivyYxJdyCVEhc7;[];other
-6e9pYVS5wPMajyuREbBX1f;[];other
-6qyqSsQOJmW6GDx8djH0dv;['reggae', 'lovers rock', 'roots reggae'];hip_hop_rnb_soul_afro
+5Iy1erNAuG9Fefscf6miAR;[];unknown
+71pGlJcUivyYxJdyCVEhc7;[];unknown
+6e9pYVS5wPMajyuREbBX1f;[];unknown
+6qyqSsQOJmW6GDx8djH0dv;['reggae', 'lovers rock', 'roots reggae'];reggae_afro
 5clV5I50OxxG9JGGxeW0C9;['city pop'];pop
-2jl4qd6UbzeCmImT4nWbtA;['underground hip hop'];hip_hop_rnb_soul_afro
-5kIOwxQ4DBNm9ZQbbGgkIE;[];other
+2jl4qd6UbzeCmImT4nWbtA;['underground hip hop', 'rage rap'];hip_hop_rnb
+5kIOwxQ4DBNm9ZQbbGgkIE;[];unknown
+4FNR2qdCVKGAep4alfgt25;[];unknown
 3M3wTTCDwicRubwMyHyEDy;['hyperpop'];pop
-4qUk32dcxFNOv89M0iUItq;[];other
-1QsdzIKkTT5gDFj8GB1cIX;[];other
-40ZElxHldNyvn7x8WRC6fh;['experimental hip hop'];hip_hop_rnb_soul_afro
-2TYRz7cFNZNPLUWRijsJNL;[];other
-6ucHomyCWjxmvbyqAAbSci;[];other
-6HCkJzbswOIc7Qc5TJ1n5l;['alternative r&b'];hip_hop_rnb_soul_afro
-2JSwnwAT1BupAQkhqcRCUw;[];other
+4qUk32dcxFNOv89M0iUItq;[];unknown
+1QsdzIKkTT5gDFj8GB1cIX;[];unknown
+40ZElxHldNyvn7x8WRC6fh;['experimental hip hop'];hip_hop_rnb
+2TYRz7cFNZNPLUWRijsJNL;[];unknown
+6ucHomyCWjxmvbyqAAbSci;[];unknown
+4GoD5FJCgC0lbzde7ly44M;[];unknown
+6HCkJzbswOIc7Qc5TJ1n5l;['alternative r&b'];hip_hop_rnb
+2JSwnwAT1BupAQkhqcRCUw;[];unknown
 2Hgj50QKDLwDTRjb42hRIT;['alté'];other
-5X0V59ipZnbvnubW0rQVri;['boom bap', 'underground hip hop', 'east coast hip hop'];hip_hop_rnb_soul_afro
+5X0V59ipZnbvnubW0rQVri;['boom bap', 'underground hip hop'];hip_hop_rnb
+0eVyjRhzZKke2KFYTcDkeu;['alternative hip hop', 'jazz rap', 'experimental hip hop', 'boom bap'];hip_hop_rnb
 4wf6GGNBqaU79839E6yjfn;['hardcore', 'hardcore punk'];rock
-0yknvLWQZxwsMjhUhwWZQ8;['new york drill', 'drill', 'jersey club'];hip_hop_rnb_soul_afro
-0hF6lbAjRsq4svrQUr5sgU;['new york drill', 'drill', 'jersey club', 'brooklyn drill'];hip_hop_rnb_soul_afro
-3BcgTyEdL81zMljmXcilZM;['new york drill', 'drill', 'jersey club', 'brooklyn drill'];hip_hop_rnb_soul_afro
-7tYKF4w9nC0nq9CsPZTHyP;['r&b'];hip_hop_rnb_soul_afro
-5y8tKLUfMvliMe8IKamR32;[];other
-61shKG2hWuRTW2PEAPk7fo;[];other
-4DHLoiIqFYYFjH09WduvFd;[];other
-4ellgkPyhbJetngXmHX5Zh;[];other
-4nqQTosM2Mbg7iRjvJU0N0;[];other
-3ME5MgDqwM6G3UDLmwjftA;[];other
-3wcj11K77LjEY1PkEazffa;['afrobeats', 'afrobeat', 'afropop', 'afroswing', 'dancehall'];hip_hop_rnb_soul_afro
-3yDDYheQFqfhKZXdjFQuuP;['drum and bass', 'liquid funk'];electro
-7HvAimFUDbhD9XRv1dbJ9t;['drum and bass', 'liquid funk'];electro
-6O1vRHWVGKJTnWuJmItnsx;[];other
-3QBGARmgMgRi08atqAWAV2;['c-pop'];pop
-33X2jfLSVyDevoksJjRZoS;[];other
-6RcgNRwyY9YNTXd9luk8JW;[];other
-6eXZu6O7nAUA5z6vLV8NKI;[];other
-6QXtidyXX0uGggafrYdktx;[];other
-1jFVu6Z7wmwywivOeBTSIV;[];other
-4NXLuWrShwLG44Had3qhw5;[];other
-2dV0D4uKMB4c8VhYHzt360;[];other
-49HlOY4gkHqsYG9GCuhkcc;[];other
-4KEHIUSoWCcqrk8AddTE1O;['shoegaze', 'slowcore'];rock
+0yknvLWQZxwsMjhUhwWZQ8;['new york drill', 'drill', 'sexy drill', 'jersey club'];hip_hop_rnb
+0hF6lbAjRsq4svrQUr5sgU;['new york drill', 'drill', 'jersey club', 'sexy drill', 'brooklyn drill'];hip_hop_rnb
+3BcgTyEdL81zMljmXcilZM;['new york drill', 'drill', 'jersey club', 'brooklyn drill', 'sexy drill'];hip_hop_rnb
+7tYKF4w9nC0nq9CsPZTHyP;['r&b'];hip_hop_rnb
+5y8tKLUfMvliMe8IKamR32;[];unknown
+61shKG2hWuRTW2PEAPk7fo;[];unknown
+4DHLoiIqFYYFjH09WduvFd;[];unknown
+4ellgkPyhbJetngXmHX5Zh;[];unknown
+4nqQTosM2Mbg7iRjvJU0N0;[];unknown
+3ME5MgDqwM6G3UDLmwjftA;[];unknown
+3wcj11K77LjEY1PkEazffa;['afrobeats', 'afrobeat', 'afropop', 'afroswing', 'dancehall', 'afropiano'];reggae_afro
+3yDDYheQFqfhKZXdjFQuuP;['drum and bass', 'liquid funk'];electro_dance
+7HvAimFUDbhD9XRv1dbJ9t;['drum and bass', 'liquid funk'];electro_dance
+6O1vRHWVGKJTnWuJmItnsx;[];unknown
+3QBGARmgMgRi08atqAWAV2;['c-pop', 'taiwanese pop'];pop
+5STTEE3TlZg9gb3xNC4RHF;['french indie pop', 'french pop', 'french house'];electro_dance
+39ZEMGRv3pIYTYKEhr4Abu;['indie folk', 'chamber pop'];folk_acoustic
+33X2jfLSVyDevoksJjRZoS;[];unknown
+6RcgNRwyY9YNTXd9luk8JW;[];unknown
+6eXZu6O7nAUA5z6vLV8NKI;[];unknown
+6QXtidyXX0uGggafrYdktx;[];unknown
+1jFVu6Z7wmwywivOeBTSIV;[];unknown
+4NXLuWrShwLG44Had3qhw5;[];unknown
+2dV0D4uKMB4c8VhYHzt360;[];unknown
+49HlOY4gkHqsYG9GCuhkcc;[];unknown
+4KEHIUSoWCcqrk8AddTE1O;['shoegaze'];rock
 61awhbNK16ku1uQyXRsQj5;['post-hardcore', 'screamo', 'emo', 'emocore', 'emo pop'];rock
-7yjhuWL2bXEWGI0IplF6i4;[];other
+7yjhuWL2bXEWGI0IplF6i4;[];unknown
 5piONaqFh85tIjxSQgZuWA;['screamo', 'emocore', 'post-hardcore', 'midwest emo', 'emo'];rock
-0WK3H9OErSn5zKOkOV5egm;[];other
-79NDEw5QWlDC9KaIbogNhS;[];other
-50co4Is1HCEo8bhOyUWKpn;['rap', 'melodic rap', 'trap'];hip_hop_rnb_soul_afro
-1RyvyyTE3xzB2ZywiAwp0i;['rap'];hip_hop_rnb_soul_afro
-4IMrFd3S6UGSpX6BJEYgQ3;['indie jazz'];jazz
-0JSVEdbr6CyleJDjoBffS0;[];other
-2xvtxDNInKDV4AvGmjw6d1;['cloud rap', 'hyperpop'];hip_hop_rnb_soul_afro
-4fHej5iOHCpTYsujBTm1Kb;[];other
+0WK3H9OErSn5zKOkOV5egm;[];unknown
+79NDEw5QWlDC9KaIbogNhS;[];unknown
+5f7VJjfbwm532GiveGC0ZK;[];unknown
+50co4Is1HCEo8bhOyUWKpn;['rap', 'melodic rap', 'trap'];hip_hop_rnb
+1RyvyyTE3xzB2ZywiAwp0i;['rap'];hip_hop_rnb
+4IMrFd3S6UGSpX6BJEYgQ3;['indie jazz'];soul_jazz
+0JSVEdbr6CyleJDjoBffS0;[];unknown
+20dRvQDfCTLJU0pgq13ZYp;['underground hip hop', 'boom bap', 'experimental hip hop'];hip_hop_rnb
+2xvtxDNInKDV4AvGmjw6d1;['cloud rap', 'hyperpop'];hip_hop_rnb
+4fHej5iOHCpTYsujBTm1Kb;['metalcore'];metal
 3qa9pv6B0dmiBVETLQOCpi;['post-punk', 'noise rock'];rock
 1kfSVYNmjmYsdWjEQ6fnQF;['grindcore', 'hardcore punk', 'hardcore'];rock
 59YfPxuxGghrdPumu6aFKI;['black metal', 'death metal', 'thrash metal', 'sludge metal', 'speed metal', 'metal'];metal
-2vov4zolAP7zbIhB5CsIPm;['groove metal', 'metal', 'thrash metal', 'folk metal'];metal
-3bAdh9KH0kxlwrfz7Uh5Aa;[];other
+2vov4zolAP7zbIhB5CsIPm;['groove metal', 'metal', 'folk metal', 'thrash metal'];metal
+3bAdh9KH0kxlwrfz7Uh5Aa;[];unknown
 1slmc4uUMOsz7J3pQqeWPP;['post-punk'];rock
 1Uk1GyijF6fSfX4mWq5bfR;['indie pop'];rock
-44qDh9SR4FYA9V1yb7Amig;[];other
-4osJY6pXMgA3LezSpLSbkN;[];other
-5H4yInM5zmHqpKIoMNAx4r;['uk drill', 'drill', 'grime'];hip_hop_rnb_soul_afro
-1URnnhqYAYcrqrcwql10ft;[];other
+44qDh9SR4FYA9V1yb7Amig;[];unknown
+4osJY6pXMgA3LezSpLSbkN;[];unknown
+2nE9x2JhbyjBVCaSnUGX3G;[];unknown
+5H4yInM5zmHqpKIoMNAx4r;['uk drill', 'drill', 'grime'];hip_hop_rnb
+1URnnhqYAYcrqrcwql10ft;[];unknown
+4uG8VYp1GLQpZVokfG2Ui7;[];unknown
 5e96t65iOLrmqH2gzEXhIt;['drone', 'ambient'];other
 4juvzVAyR0hOSQ7YfVMijK;['metalcore'];metal
-5HlXA01kcjssYDT7EoqUJF;[];other
+5HlXA01kcjssYDT7EoqUJF;[];unknown
 5qtupxXggsBwX1JEojKdhw;['sludge metal', 'doom metal'];metal
-11HaxoLRv5rUJfNmabD6Zh;[];other
-0VIiIxTNLeJOPoMLabwNtr;[];other
-0E2zPwLuNlSFdSI5wmqox7;[];other
-0uO4YPHgWPCKClAGUFoSWP;[];other
-7mhv3pjuY4JRkMKuUK9mPh;['lo-fi house'];electro
-3IXtskFMls8KXRipcIJT9y;['pop punk'];rock
+6Gl4Q3ePw6HKMfIOix5QpG;[];unknown
+11HaxoLRv5rUJfNmabD6Zh;[];unknown
+0VIiIxTNLeJOPoMLabwNtr;[];unknown
+0E2zPwLuNlSFdSI5wmqox7;[];unknown
+0uO4YPHgWPCKClAGUFoSWP;[];unknown
+7mhv3pjuY4JRkMKuUK9mPh;['lo-fi house'];electro_dance
+3IXtskFMls8KXRipcIJT9y;['pop punk', 'emo pop'];rock
 2tl280wIokrLjabzrSKTgU;['metalcore', 'post-hardcore', 'melodic hardcore'];metal
-76iTTQpdw0ECsYeXVnKA2t;[];other
-0Sd7X8SxWV0AyDLbvd4uEu;['shoegaze', 'dream pop', 'slowcore', 'noise rock'];rock
-6mT5D1CUrWTMXngtqazglr;[];other
-237mvWGlQNJJhc9b8pSawZ;[];other
+76iTTQpdw0ECsYeXVnKA2t;[];unknown
+0Sd7X8SxWV0AyDLbvd4uEu;['shoegaze', 'dream pop', 'slowcore', 'noise rock', 'space rock'];rock
+6mT5D1CUrWTMXngtqazglr;[];unknown
+237mvWGlQNJJhc9b8pSawZ;[];unknown
 7rlAAAiWScpsT1hmgURAmh;['art pop', 'baroque pop', 'chamber pop'];pop
-2PKfkrNktahdkVFB47NjGv;[];other
+4fpwOzxFRMVGfd197dKIdY;['boom bap', 'alternative hip hop', 'jazz rap', 'experimental hip hop'];hip_hop_rnb
+2PKfkrNktahdkVFB47NjGv;[];unknown
 22ojy4H4ZVpowC4lRRC8In;['chamber pop', 'art pop'];pop
-1nvq3vakg2j1A0wTpV0AkO;[];other
-07D1Bjaof0NFlU32KXiqUP;[];other
+1nvq3vakg2j1A0wTpV0AkO;[];unknown
+07D1Bjaof0NFlU32KXiqUP;[];unknown
 3qqkHeEhezlIaNj1vFYH2r;['bedroom pop'];pop
 1nivFfWu6oXBFDNyVfFU5x;['country rock', 'southern rock', 'country', 'red dirt'];rock
-5beYbzBVaQfcY8XL2DCcTs;[];other
-7LjXznzJeKuvjRbNcBWd6Z;['jersey club'];other
-6tvDi9cbr2tjAjBtLsgu8I;['cold wave'];other
+5beYbzBVaQfcY8XL2DCcTs;[];unknown
+7LjXznzJeKuvjRbNcBWd6Z;['sexy drill', 'jersey club'];hip_hop_rnb
+6tvDi9cbr2tjAjBtLsgu8I;[];unknown
+0jPHHnU8GUWEF7rwPE9osY;['sexy drill'];hip_hop_rnb
 74om4qLxb9MIsubhtvxQQJ;['shoegaze', 'noise rock', 'slowcore', 'math rock'];rock
-7qrEXiLLnWkkYHhadZ1Oij;[];other
+7qrEXiLLnWkkYHhadZ1Oij;[];unknown
 2ueoLVCXQ948OfhVvAy3Nn;['art pop', 'chamber pop'];pop
 5y0k3g7BB1ylNsnj2NarGx;['sludge metal'];metal
-5BwsX8bXOFC1YnqSlyfOKM;['alternative hip hop', 'experimental hip hop', 'underground hip hop'];hip_hop_rnb_soul_afro
-3TOqt5oJwL9BE2NG9MEwDa;['metal', 'nu metal', 'alternative metal', 'rap metal', 'hard rock', 'heavy metal', 'rock'];hip_hop_rnb_soul_afro
-1Dy2JqZmbXPTvJdDOyytcP;[];other
-4mbDr0mZy5UdZj9j3Ylf6F;[];other
-7yXtdZLKdtwH5FrxduK7ti;[];other
+5BwsX8bXOFC1YnqSlyfOKM;['alternative hip hop', 'experimental hip hop', 'underground hip hop'];hip_hop_rnb
+3TOqt5oJwL9BE2NG9MEwDa;['metal', 'nu metal', 'alternative metal', 'rap metal', 'hard rock', 'rock', 'heavy metal'];hip_hop_rnb
+1Dy2JqZmbXPTvJdDOyytcP;[];unknown
+4mbDr0mZy5UdZj9j3Ylf6F;[];unknown
+7yXtdZLKdtwH5FrxduK7ti;[];unknown
 6RHTUrRF63xao58xh9FXYJ;['k-pop'];pop
-73BLwSX6gsNeVzS7DgI4xe;[];other
-7I95CM75shzCjHuTzrepjM;[];other
+5J0ehnVK9YOBGWOwE022ar;['shoegaze'];rock
+73BLwSX6gsNeVzS7DgI4xe;[];unknown
+5xkAtLTf309LAGZTbvULBn;[];unknown
+7I95CM75shzCjHuTzrepjM;[];unknown
 6F4yXjmhQBqo6HVr6K234k;['k-pop'];pop
 7mZgBMpvaBziYQfc9TbJH5;['modern blues', 'roots rock', 'blues rock'];rock
-45dkTj5sMRSjrmBSBeiHym;[];other
+45dkTj5sMRSjrmBSBeiHym;[];unknown
 2pHkxVNynHBwQHhGaoBIXX;['k-pop'];pop
 19tUwWHnSVp9UdgKveCtzJ;['jangle pop', 'power pop'];rock
-4TNu2ZIE566yKwEhOT8eTv;['electroclash', 'hyperpop'];electro
-6n0kOGtOYnKCIG2BgksHaE;[];other
-5ZAazx2uLTDCHQjsg3dw96;['underground hip hop', 'boom bap'];hip_hop_rnb_soul_afro
-2WoVwexZuODvclzULjPQtm;[];other
-4GyAROzBnWHCBr638r5TVP;['midwest emo', 'math rock'];rock
+4TNu2ZIE566yKwEhOT8eTv;['electroclash', 'hyperpop'];electro_dance
+6n0kOGtOYnKCIG2BgksHaE;[];unknown
+5ZAazx2uLTDCHQjsg3dw96;['underground hip hop', 'boom bap'];hip_hop_rnb
+4wMQTWavQZgr8ySlo5s2Tt;['neoperreo'];other
+2WoVwexZuODvclzULjPQtm;[];unknown
+4GyAROzBnWHCBr638r5TVP;['midwest emo', 'math rock', 'indie punk', 'emo'];rock
 33L1klom7IXmoAP8fjrGm9;['hyperpop'];pop
-1ONhS8pN5UbzqoZlLF69kI;['future bass'];electro
-4LLpKhyESsyAXpc4laK94U;[];other
-1qpR5mURxk3d8f6mww6uKT;[];other
-0gs6n0OYGwA7j4L4HHqKV2;[];other
-7CvTknweLr9feJtRGrpDBy;['reggaeton chileno', 'chilean trap'];hip_hop_rnb_soul_afro
-3wlIk7QokyE4U8ysTLgdy5;['reggaeton chileno'];hip_hop_rnb_soul_afro
-06a7x2F8Yi3TARax1iFKIp;[];other
-3WaAMZL6ZWyDkvxYro8kbw;[];other
+1ONhS8pN5UbzqoZlLF69kI;['future bass'];electro_dance
+4LLpKhyESsyAXpc4laK94U;[];unknown
+1qpR5mURxk3d8f6mww6uKT;[];unknown
+0gs6n0OYGwA7j4L4HHqKV2;[];unknown
+7CvTknweLr9feJtRGrpDBy;['reggaeton chileno'];reggae_afro
+3wlIk7QokyE4U8ysTLgdy5;[];unknown
+06a7x2F8Yi3TARax1iFKIp;[];unknown
+3WaAMZL6ZWyDkvxYro8kbw;[];unknown
 6PsuUa5ijopH2T8rVzHSZc;['spoken word', 'experimental'];other
-0nCnrZSTvBk1PZCtGioMRq;[];other
-57LYzLEk2LcFghVwuWbcuS;['r&b'];hip_hop_rnb_soul_afro
+0nCnrZSTvBk1PZCtGioMRq;['experimental'];other
+57LYzLEk2LcFghVwuWbcuS;['r&b'];hip_hop_rnb
 5VAErlnVRxRQk8ZvZt6i7e;['alt country', 'americana'];folk_acoustic
-1siDtHIKhnkrABgaicXLr5;['jersey club'];other
+1siDtHIKhnkrABgaicXLr5;['footwork', 'jersey club', 'baltimore club'];other
+02gSuSAWEdWa5UOvqzjX6v;[];unknown
+4N2I7VsF86h59tbsvVoB1h;['j-rock', 'visual kei'];rock
+0Vv0Cc8LAnIhUsYI4d5wBg;[];unknown
+1jucBaHU995Lf7ViACscFu;[];unknown
+3IWdvItNhmdo282Wwp0CwH;[];unknown
+2uYWxilOVlUdk4oV9DvwqK;[];unknown
+7FKTg75ADVMZgY3P9ZMRtH;[];unknown
+17lzZA2AlOHwCwFALHttmp;['southern hip hop', 'rap'];hip_hop_rnb
+5pHfUNtb7HavOPkzrhmVnh;[];unknown
+72NhFAGG5Pt91VbheJeEPG;['hyperpop', 'electroclash'];electro_dance
+1odn2oz1bEsGWugQ8W3zhn;['stutter house', 'spoken word'];electro_dance
+3HXLY1sNXIxHfulrjPiRf5;[];unknown
+5vvsVz8bgdx1y9YaguZkxF;[];unknown
+1SRVawVdGv7lue3kE6Ajl9;['french pop'];pop
+6bz0ztmnpeofmoFksV3DqL;[];unknown
+4RLh1owxLqSCGyVgm875AG;[];unknown
+6eforqOxk5mRrgprF7XtYu;['french indie pop', 'french pop', 'french house'];electro_dance
+0XFSKdTpzCOOfTPwIdByqf;['death metal', 'grindcore'];metal
+3NTbOmzlj2cL86XFuDVFvZ;['anime', 'j-rock', 'j-pop'];rock
+1MK0sGeyTNkbefYGj673e9;['black metal', 'death metal', 'metal'];metal
+4pdoRs7yHNXakMobf8M9Oz;[];unknown
+3S0tlB4fE7ChxI2pWz8Xip;['grime'];other
+5YgOA27qcu8nSl1lp5ektj;[];unknown
+2tykhoGTmI8NsNKKyAq8Ga;[];unknown
+250b0Wlc5Vk0CoUsaCY84M;['k-pop'];pop
+6USv9qhCn6zfxlBQIYJ9qs;[];unknown
+698NcCj3gdla5i3RrYYgFh;['metalcore', 'hardcore'];metal
+3k1tPUpSlWppOSbIV1ivQy;['hardcore', 'hardcore punk'];rock
+1Czqbs3tZ9A71hT3SytLvw;[];unknown
+71t8oi0TjZ9Op6JRrVqaBx;['metalcore', 'post-hardcore', 'screamo', 'hardcore', 'melodic hardcore'];metal
+6pmR08TKSTs8rll6W99VnK;['shoegaze', 'noise rock', 'math rock', 'slowcore', 'midwest emo'];rock
+3KedxarmBCyFBevnqQHy3P;[];unknown
+2TLYSzGyVYkxAgYSCqUnQj;[];unknown
+0nSqvdQSOrHHliAxtRrz7N;['indie r&b'];hip_hop_rnb
+3D3G4JAVp6JQVEKjUaaSxA;['nu metal', 'sludge metal', 'groove metal'];metal
+4XpPveeg7RuYS3CgLo75t9;['black metal', 'shoegaze', 'post-rock'];metal
+1SncSgYiDk2kCBBaXIYcwd;[];unknown
+0H20KZnm0XPqNYQ6EsIAyo;[];unknown
+0SclPISF5pHutoTooqCfFJ;['power pop'];rock
+4er5NZNuc83Cev96LA28ID;[];unknown
+3eimPofmo9TuKJTgpM9Bcj;['shoegaze', 'slowcore'];rock
+1xVcjJ5YsYOClO2Unt3Rm8;[];unknown
+1URVdcNYXigvk6Dj0fHYOM;['jersey club', 'hyperpop'];pop
+4w6VhlUuzrUoJ5NbCpefXx;['lo-fi house'];electro_dance
+5DegVfL32IL9s3kokWEtft;['metalcore'];metal
+6C3q8wGXgz5KKWv5GqWkvV;['hardcore punk', 'hardcore'];rock
+1BFVh82YuUOyM8XKZIRaBL;['indie punk', 'noise rock', 'garage rock'];rock
+40ZNYROS4zLfyyBSs2PGe2;['country', 'red dirt'];rock
+6yJ6QQ3Y5l0s0tn7b0arrO;['experimental hip hop', 'alternative hip hop', 'experimental'];hip_hop_rnb
+1jiZvw42D4oquLl24x2VWV;['mexican hip hop'];hip_hop_rnb
+0399oiMcmbOzzsYQDNYqxn;['hyphy', 'west coast hip hop'];hip_hop_rnb
+59pWgeY26Q6yJy37QvJflh;[];unknown
+1Ffb6ejR6Fe5IamqA5oRUF;['metalcore', 'emo', 'screamo', 'rock', 'post-hardcore', 'metal'];metal
+1n4aMOez02eUeD0ybEul2y;[];unknown
+3nOrhUtscermNwmfBQRZZv;['shoegaze', 'slowcore', 'dream pop'];rock
+3oemV3hCZ3kl5u7AM1nV4K;['thrash metal', 'speed metal'];metal
+51CANyDEIfgYt0mwLKCpZ6;['dub techno', 'minimal techno', 'techno'];reggae_afro
+6eu3TBnYM3SrkUU59SFhgp;['dub techno', 'minimal techno', 'techno'];reggae_afro
+4erwZm1JybuSPTUg5Bu7nT;['minimal techno', 'techno', 'dub techno', 'industrial', 'acid techno'];reggae_afro
+5IMeZZeaEOC5mFNB4Xl2ar;[];unknown
+0ZQHqRljz8Llvy5ah5Zdwi;[];unknown
+35CNODI0rTcPk946a2fXP0;[];unknown
+6Jaz8RyF3F9ktK4aVFgbTL;[];unknown
+6v6OE9MQreCmwuAqF0NfzQ;[];unknown
+40Aif8AfzbNGA2s52ESEE2;[];unknown
+10GT4yz8c6xjjnPGtGPI1l;['nu disco'];electro_dance
+6WFDpw4u23uSpon4BHvFRn;[];unknown
+78DZaDfOK3i88eRVPkzZu2;[];unknown
+2kIs76sEGiulKeqetZq6ua;[];unknown
+0uj6QiPsPfK8ywLC7uwBE1;['underground hip hop', 'rage rap'];hip_hop_rnb
+3PP6ghmOlDl2jaKaH0avUN;['art rock', 'chamber pop', 'post-punk', 'post-rock'];rock
+7fkVKWnSaQNFwqrR62vsSo;[];unknown
+6F5n3bvrBgoyicdFT6L8IB;['experimental hip hop', 'alternative hip hop'];hip_hop_rnb
+12b5toJQSORmgmCwYrQgLr;['trip hop'];electro_dance
+4Gso3d4CscCijv0lmajZWs;[];unknown
+4hTb6DnLgjnsz9SgibDYS4;[];unknown
+0b1sIQumIAsNbqAoIClSpy;['k-pop', 'k-rap'];hip_hop_rnb
+2RdwBSPQiwcmiDo9kixcl8;[];unknown
+08PvCOlef4xdOr20jFSTPd;[];unknown
+0DCw6lHkzh9t7f8Hb4Z0Sx;['melodic death metal', 'metal', 'death metal', 'melodic metal', 'heavy metal'];metal
+6wNPY2m52IiyyVZXR339D9;['sexy drill'];hip_hop_rnb
+3J3ngZn7GjzjwCPBkqtz65;['underground hip hop'];hip_hop_rnb
+1AmknJ29fbA6ahZXxFCNLE;['boom bap'];other
+5e9SnnT1mabuWwjwu6FrZD;['pop punk', 'emo pop'];rock
+6wF1Cz760dpdbX9RJIDpQW;[];unknown
+29rvPhemBdOLYdLr2xI8dr;['neoperreo'];other
+3fbtJn9IE7xORZcvASoIba;['neoperreo'];other
+1GuqTQbuixFHD6eBkFwVcb;['uk garage', 'bassline', 'bass house', 'house'];electro_dance
+1r3tpVQ08jFAA2P4xzV5o4;[];unknown
+0Kpf7PvEotzvndPhYwwZzb;['baroque pop'];pop
+3UJmyt9ApeZTmOlMvBNGLN;['death metal', 'progressive metal', 'deathcore', 'djent', 'metal', 'melodic death metal'];metal
+1vTFaCiaR50b2IXELHW52U;['bedroom pop'];pop
+2xQ0QRK08xh3WWBf2RKpsm;['surf rock'];rock
+21SbAgLQ2SteuYiKXTBDns;[];unknown
+4UzwKcLphNBwmK52Y5MC1c;[];unknown
+76NpRNEWMaNdOudixwOPRo;['pop punk', 'emo pop'];rock
+6KT0sJVVBD6P3k12CyiNWe;[];unknown
+7tNO3vJC9zlHy2IJOx34ga;['p-pop', 'opm'];pop
+75ItOLlAwbDFJFx3PhyzTc;['metalcore'];metal
+4DJ2QHcDJiDC0Kx1xZ9oNm;[];unknown
+4TrfxRxjCvOFprX1W2V8k1;['progressive metal', 'djent', 'progressive rock'];metal
+6TMJgSdBIPPtQJbAB8yPpO;['shoegaze'];rock
+7t7hXBcoQ0dywVEXB0TOYZ;[];unknown
+3klZnJvYGIbWritVwQD434;[];unknown
+0uaJXiIMrpbOV91Z9JxOL1;['bounce'];other
+7xEYYE03vzoSMyC2AVRnD0;[];unknown
+5ABfpj7Z00wfPiv2uW4MFm;['pop punk', 'emo pop', 'midwest emo', 'punk'];rock
+4387HtOiXHEbS4Q5Pik4JN;[];unknown
+11H2kC5a9Jk0IJ0gPUrZl9;[];unknown
+0d0XAaRW0dxgAtvZ1clgLX;[];unknown
+4gvjmrtzydbMpyJaXUtwvP;[];unknown
+1W4itxt3vwhmrgLEBuVHJ6;[];unknown
+0Kt443UQm5aqR2WCwqSMe0;[];unknown
+6CwfuxIqcltXDGjfZsMd9A;[];unknown
+6chuFWw4BmHxOc3X0cC8Ct;['experimental'];other
+26DvqLYszG0oIOeelTF5kE;['folk pop'];folk_acoustic
+33U9I7yBy34UXqKYObItne;['bossa nova'];other
+46pWGuE3dSwY3bMMXGBvVS;['afrobeats', 'afrobeat', 'afropop', 'afropiano'];reggae_afro
+2D3csYLILmlZH3SUbkz11L;['post-punk', 'noise rock'];rock
+2W8yFh0Ga6Yf3jiayVxwkE;[];unknown
+2R0CFyeMDiRbfkhkIMbyl1;['sexy drill', 'jersey club'];hip_hop_rnb
+0ShmUyGC785pMDaRdP5Sap;['sexy drill'];hip_hop_rnb
+1jBoSSrbz9n4ehQWA4cZgB;[];unknown
+3JU5NOb3kKE7xffuEn7udg;['j-dance'];other
+0vmZnQdyuSYbU9F61oApmi;['avant-garde', 'experimental'];other
+7zfGuFhq0tipa6G6aHuMe0;['latin r&b'];hip_hop_rnb
+5WId4o5jdGVhptNU0uqKxu;[];unknown
+0fWvSXbvztkeHEnEuYvU2A;['power pop'];rock
+6GEykX11lQqp92UVOQQCC7;['east coast hip hop'];hip_hop_rnb
+336Q7pyfl5Ht2eaqhfQ6T6;[];unknown
+2bs3QE2ZMBjmb0QTqAjCj3;['post-punk', 'noise rock', 'cold wave'];rock
+4PqSBgXKxQuqclKpwB6iuc;[];unknown
+6CZN3MHeeEXh5PxKZivIa8;[];unknown
+1B8ycQsEGw3fUTkzWs5kFD;['electroclash', 'neoperreo'];electro_dance
+4bmyQalHgw8xZFJ116P3ir;['electroclash', 'neoperreo'];electro_dance
+4I9SixgrOaKltrQkY8o43u;['electroclash', 'neoperreo'];electro_dance
+1wlzPS1hSNrkriIIwLFTmU;['experimental hip hop', 'alternative hip hop', 'jazz rap'];hip_hop_rnb
+02nZLQtQ4vL5iHyp6atBrh;[];unknown
+0nnBZ8FXWjG9wZgM2cpfeb;[];unknown
+4lpKeKXJYkglSWyEmnOF7O;[];unknown
+2PJEagPIxaBugeMjIyKVXF;['grime', 'uk drill', 'drill'];hip_hop_rnb
+35dxfY1wywqVRUEaVuMm13;['drum and bass', 'bassline', 'jungle'];electro_dance
+7GDrXlpRrdG29o4n0pNR5D;['drum and bass', 'bassline'];electro_dance
+1iW3b73XWPQSknLyH5kDrd;['drum and bass'];electro_dance
+4SX1RwkM82CQll2eoV9HaP;['punk', 'garage rock'];rock
+6zh25V1pQ8IQpxDYVmFSrT;['idm', 'chicago house'];electro_dance
+1JspXUvEv3D9ddMeLNqYWj;[];unknown
+3LEGPWdr7sarYtf2u0ETWN;['dub techno', 'idm', 'ambient'];reggae_afro
+0XGJ3GUPwslwFJ66yNbHeh;['pop punk', 'emo pop', 'emo'];rock
+0JhKW7fMSxF2RXZDx5NuJD;[];unknown
+5BRAUN0yN8557PLRZIr02W;['jazz rap', 'nu jazz'];hip_hop_rnb
+7MxGWmiAbqjNOGmj23wbWf;[];unknown
+3BORonJcAjc2wbSv1DXbTZ;['shoegaze', 'dream pop'];rock
+4j7DrazfBZLLD0OrVoAtEe;['shoegaze', 'alt country'];rock
+0NKaRcyqHnynkv7UMsOhEH;['experimental'];other
+4eDyyrcE0ztmLfCdwCiC2o;[];unknown
+2OaHYHb2XcFPvqL3VsyPzU;[];unknown
+7qKJMpPZfyGHHwPgsjgFCP;['jazz rap'];hip_hop_rnb
+2MQN1o9W3ULxdT38vj8g4Q;['hyperpop', 'jersey club'];pop
+7ITMCzIU9uII8gwRg8JAhc;['hyperpop', 'nightcore', 'jersey club'];pop
+1R84VlXnFFULOsWWV8IrCQ;['psychedelic pop'];rock
+3OGgjzkamLnNDmUi9RZDG9;[];unknown
+0oGtixfxP0ukNPM6KVuwC1;['ambient', 'experimental'];other
+3uqAKGSytLJJuLy4BPlY38;[];unknown
+6fimwBQkUgYS2HweErgxN5;[];unknown
+12trz2INGglrKMzLmg0y2C;['indie r&b'];hip_hop_rnb
+4obzFoKoKRHIphyHzJ35G3;['reggaeton', 'latin'];reggae_afro
+5tGG1slV9pkcydU5eQSIvm;['metalcore', 'hardcore', 'melodic hardcore', 'hardcore punk', 'deathcore'];metal
+4pSMnAlD8JVEW3eZDuaQH8;['disco house'];electro_dance
+14hI6ZlrKB6X81Y046P2MW;[];unknown
+0Z5pcmXDCKTrFWLnDChC37;['nu disco', 'indie dance', 'electroclash'];electro_dance
+5UlJRJmlRLhQJX8lJuerVq;[];unknown
+5VDGmyrNW59RoTjReLedew;[];unknown
+2xLEV2jDreAOcpJXFNoXyt;['americana', 'alt country'];folk_acoustic
+7gdb1IQFHFQqCc5KoLTYNC;['noise rock', 'industrial rock', 'post-punk'];rock
+4nIgCJvBTi7M3pFn2ELhxm;['experimental'];other
+2CtpjGWvsq4QnUIx9PHDAN;['lo-fi house', 'breakbeat'];electro_dance
+6H3XsRIiUv0xVicrxWIHIJ;['noise rock'];rock
+0zfT626RwO6zN3RDYeRit5;['groove metal', 'metal', 'heavy metal'];metal
+1f8PlfSHEW6fHnILSzm8dI;[];unknown
+5JjgffJf4s4KF29xdEaAQd;[];unknown
+3MrcMcqcIqymHOmn3hhpIu;[];unknown
+6wFu8qYepLnl61GixCI5cu;[];unknown
+3lmR0qMiGuoIF9UC54egcG;['chamber pop'];pop
+0dltTUV2N49r1UjUTsqe3h;[];unknown
+74CcYmmNeHKe5PrZaISk8e;['alternative r&b'];hip_hop_rnb
+0NhKCHTPG7Sz62S3zxV1Cf;[];unknown
+5eerVxtb9lY9p6D7m89Bs7;['art pop'];pop
+6NMF1g2abQPPoLHfOEub0f;[];unknown
+6KClkGIGey0eKdCwmuBPga;[];unknown
+6U1hXHFTV27cbQVXZvnX27;['uk drill', 'drill'];hip_hop_rnb
+3l1C23aRp4lfkBK3lLAp2m;['uk funky', 'uk garage'];other
+5QbhVJedf1XUbmQummp2CN;['hyperpop', 'jersey club'];pop
+5gBHLwml90ZbOelVqI9mS5;['sludge metal', 'doom metal'];metal
+6l7R1jntPahGxwJt7Tky8h;['alté'];other
+6aDX1jzNVAI9enlQzW0Pgw;['gqom'];other
+71ISXR7gtIq5E2AdI3jGf0;['post-rock', 'art rock', 'noise rock', 'post-punk'];rock
+5esKrGWvWmBAmjnao5jInN;['midwest emo', 'pop punk', 'emo pop'];rock
+45W0uOq0sDCediEA9i8VJt;[];unknown
+0eHAMIAxiBEpQdv8UVwSxb;['hardcore', 'hardcore punk'];rock
+4qn6hSO1qLlaAW8jiyOw18;['surf rock'];rock
+6sF0AHO4UoupDhYP2MOqh4;[];unknown
+4ImH1DLZWsYnUgxNeV8hys;[];unknown
+5ojcEAg9JjIhUdIjC8y5GF;[];unknown
+4yrO1N273PlTaixa4BNwBz;[];unknown
+3bTrwZAKTLYI9zozCH6zxw;['footwork', 'chicago house', 'baltimore club'];electro_dance
+7AZwAitWq1KcFoIJhRWb6V;['noise rock', 'art rock'];rock
+05pLxSVIyZiQTqQnR4QQ9H;[];unknown
+0kkFzERMQHK5WcWnACLby3;[];unknown
+2nAKP6etu8wXNnezKXgqgg;['post-punk'];rock
+4NiJW4q9ichVqL1aUsgGAN;['metalcore', 'post-hardcore', 'pop punk', 'screamo', 'emo', 'emo pop'];metal
+4qxuTPf9imHW4uQgDJbzXs;[];unknown
+4Nc9OZQfWhkashN6dDDgXl;[];unknown
+1ZLU77nRzQIaP23mVSYpCQ;['k-pop'];pop
+71OjnKr2bU3Yo52jJzV9n3;[];unknown
+4GdgXfdII3qkUcLZqBGSk6;['drone', 'avant-garde', 'post-rock'];rock
+1daJkdlSgLE2kmnNUjmRpU;['sludge metal'];metal
+4ucByWLQejwVe2x4XFfoqI;[];unknown
+2g4lvjVSHVht7kc9nKgH11;[];unknown
+5L1lO4eRHmJ7a0Q6csE5cT;['k-pop'];pop
+3SozjO3Lat463tQICI9LcE;['afrobeats'];reggae_afro
+2SaIA1enj83vEmJikZdjQ3;['bedroom pop'];pop
+5p9HO3XC5P3BLxJs5Mtrhm;['psychedelic pop'];rock
+7vtSUU3zpHeYJfX6BPNrJd;[];unknown
+5t5C8BHZ8ch5p0wvbcWh6P;['chamber pop'];pop
+00hxNB9gMEeMFLLaW06F4J;['breakcore', 'electroclash'];electro_dance
+26VFTg2z8YR0cCuwLzESi2;[];unknown
+7lsnwlX6puQ7lcpSEpJbZE;['alternative r&b', 'art pop'];hip_hop_rnb
+3jK9MiCrA42lLAdMGUZpwa;[];unknown
+6fb3I3Q54izgnOMtiZbOBA;['metalcore'];metal
+7nScMbyBG94XsSpe7yrImS;[];unknown
+2Lr6UcfZWL1Ur5spOaduOb;['grime'];other
+6ODDFLh0OwrY4RA32kEZbM;[];unknown
+3ZqRIzadY4WYQEg4Hj2vGC;['ambient', 'drone', 'space music', 'dream pop', 'shoegaze'];rock
+5np2XqLanbxQzpEVFG0big;['dancehall'];other
+3P4vW5tzQvmuoNaFQqzy9q;['bedroom pop', 'indie pop'];rock
+0FnDCrmcQT8qz5TEsZIYw5;['j-rap', 'j-r&b'];hip_hop_rnb
+4XDi67ZENZcbfKnvMnTYsI;['k-rap', 'k-pop'];hip_hop_rnb
+5C1S9XwxMuuCciutwMhp5t;['desi hip hop', 'hindi hip hop', 'hardcore hip hop', 'punjabi hip hop'];hip_hop_rnb
+0fyaEHmSmZs2YWMgbruITA;['chinese hip hop', 'chinese r&b', 'c-pop'];hip_hop_rnb
+6XYPDozxzEi0iu380aAYnL;['thai hip hop'];hip_hop_rnb
+0lVlNsuGaOr9vMHCZIAKMt;['groove metal', 'metal', 'nu metal', 'thrash metal', 'hard rock', 'heavy metal'];metal
+6D9BQI3d6y8lOkC6EB7lkU;['shoegaze'];rock
+6mVjSRQYzm0OvHu0JAqWIc;[];unknown
+5a31ExnSl60WxPf1unLhen;[];unknown
+1H44pbKMHDVSQcYW4joyLK;['melodic house', 'melodic techno'];electro_dance
+7IrBqZo6diq3hV3GpUhrs2;[];unknown
+7kpAW7boBJFRFCMydZpjUd;['sexy drill', 'uk garage'];hip_hop_rnb
+5c8ZR64evQ00Spl73s76fo;['corrido', 'corridos tumbados', 'corridos bélicos'];other
+2rmkQLzj0k4nZdQehOUByO;['corridos tumbados', 'corrido', 'corridos bélicos', 'música mexicana', 'electro corridos'];electro_dance
+1Qp56T7n950O3EGMsSl81D;['metal', 'hard rock'];metal
+2nmWcAqQtfgNp8Kpixa2CG;[];unknown
+0xl41ilVNOin4ycHsggk7u;[];unknown
+2dXj6aC3DsxoTDyhk3u4gl;['shoegaze', 'slowcore'];rock
+3hD5jCWM1Kzj6BqhnwICTa;[];unknown
+44nZLmNMt53tfcfHFCuh0d;['underground hip hop'];hip_hop_rnb
+2iGwIqfIXRskkGakunO9sf;['french indie pop', 'french pop', 'french house'];electro_dance
+3TQvQT0PqlTLLENO4L3Tik;['deathcore', 'metalcore'];metal
+7a29ko2je7GUMrbmwn4t3I;['metalcore', 'deathcore', 'hardcore'];metal
+3Cp20KSVlMlFuOdqiqHFGR;['indie jazz', 'japanese indie'];soul_jazz
+0QJaBD8Piha8IEwKtNpBOB;[];unknown
+46ufOtURSipSKdxoz8KZzu;[];unknown
+0EJdA6JT738oZGopzk8Usg;['french indie pop', 'french pop', 'french house'];electro_dance
+52ZhJRTVz14RYXJY9CTmkt;['nu jazz'];soul_jazz
+3mZYlwYjFmhMOxUIcbncHF;[];unknown
+4wrzxtBZw20ufDstKyTnnP;[];unknown
+6aiCF0pornq0j11wvKG4dy;['j-pop'];pop
+4QGD0m9AGZixhuPAzaBeD7;['afro house'];reggae_afro
+1kAX4yFdmR0hJe2tPu1785;['deathcore', 'metalcore', 'death metal', 'djent'];metal
+6bU6vdMpAqDEoWsj8iUNEf;[];unknown
+5U4QUWaCwxvtUz2hTu0Bkq;[];unknown
+2AOTmilsEJDBEM6SIHFFy6;['shoegaze'];rock
+34THm21WWzzr69EetTmnVG;[];unknown
+0tE6ZxkqBBVVhtRZbENTQp;[];unknown
+1PJjW9Z03G2R0q6GM6QgFc;[];unknown
+6I8TDGeUmmLom8auKPzMdX;[];unknown
+348pk4o3EhKmsSahzuClSf;['argentine trap'];hip_hop_rnb
+3E7NGbzUGlOjgYY8nvtijR;[];unknown
+687cZJR45JO7jhk1LHIbgq;['afrobeats', 'alté', 'afrobeat'];reggae_afro
+6l3HvQ5sa6mXTsMTB19rO5;['rap'];hip_hop_rnb
+73sIBHcqh3Z3NyqHKZ7FOL;[];unknown
+1U1el3k54VvEUzo3ybLPlM;[];unknown
+1xcMOgFUM1IYZE22YjCvsL;['art pop'];pop
+3TnlUNMMrwW2IYrlBDTygL;['neoperreo'];other
+69UVGTxhvI9zrl4tVafMgC;['miami bass'];electro_dance
+4cJD9t5QBFTUQcd3xfbOb2;['argentine trap'];hip_hop_rnb
+7pa3Z1aOpCNnUconMqGHBR;[];unknown
+34TRRbxNJYpDV7VJ7kBzQd;[];unknown
+1pdiVBF8SDDpleSjlNhP8C;['breakcore'];electro_dance
+6zGzRIBkAMQ2uQn3z8OEyf;['metalcore'];metal
+3qdQnBjEBHrk5nZYxXdV1U;[];unknown
+3tIDgNCk7FQmTHl7hEj1rF;[];unknown
+3Tn3Ay9Y3qhUvpAVESo6H9;[];unknown
+3SGLeWc7J5Ve0CinAOrb3a;['surf rock', 'garage rock'];rock
+65vqyT3OjG2zvb3cO1s44j;['shoegaze'];rock
+7CDhwMbKFGCA4USl0kJ6vC;[];unknown
+3ZmtxfuEtTsKgKEiM42jQ9;[];unknown
+4nVa6XlBFlIkF6msW57PHp;['malayalam hip hop', 'desi hip hop'];hip_hop_rnb
+7uVynPDWBSuIkL6uTAQSxt;['free jazz', 'experimental'];soul_jazz
+57ZB0kMmW6JLQAIaCzMG7I;['space rock', 'krautrock', 'drone', 'ambient'];rock
+2RqrWplViWHSGLzlhmDcbt;[];unknown
+2me33xonIRaOkg980kntBy;[];unknown
+0oL26Dn9y761yfJgNb3vfu;[];unknown
+26j38hvhD7PjC0a4EqdaSn;[];unknown
+6rVRU7I6r1lt6bhXGYTRQL;['sludge metal', 'doom metal', 'black metal'];metal
+6LbnbvP0S13LSl8JsBJ9EP;['sludge metal', 'doom metal'];metal
+4mkGptXsTzOKv0pLhYvx4W;['shoegaze', 'post-rock'];rock
+40s4gmRbRxJFQ2w4mVCub3;['hardcore', 'hardcore punk'];rock
+7MoipbqoshfYNfckhzRtYC;['sludge metal', 'black metal'];metal
+6k2utcmoLc5FPYTWtpuHSQ;[];unknown
+5274obTQJjzjyycRyJlfml;['deathcore', 'death metal', 'metal', 'metalcore', 'djent'];metal
+6vzYdcLnvCyXQbFj4FURxM;['hardcore', 'hardcore punk'];rock
+4HV1eOc9hPPUqgVuIWiX4Y;[];unknown
+0fEyv0n8MBgXZQLOMcHbZO;['doom metal', 'stoner rock', 'sludge metal'];metal
+41btkKEfOGIHsd7WNahMCi;['metalcore', 'deathcore', 'metal'];metal
+67f7GZXNMGRn98lqrtIdrN;['hardcore', 'melodic hardcore', 'hardcore punk', 'metalcore'];metal
+4iscKytAx2iFQH7l6p1MnP;['hardcore'];rock
+7KSPZyeCKkfkhMkX8rYIhD;['black metal'];metal
+1MTlhWSyxv11aeqREGEeb3;[];unknown
+3oSKgWx1dqjhidhnhpGbfJ;['noise rock', 'post-punk'];rock
+6snN2rjeQQ7pG8SMJ5w2Gm;['noise rock', 'deathrock', 'industrial rock', 'proto-punk', 'industrial', 'post-punk'];rock
+7K7KTllj7E7Le3jGZTbgJ9;['post-rock'];rock
+1k3zNkpgeygyoc27mNoAsp;['hardcore punk', 'hardcore'];rock
+00oVA7aWQ4Sd1ZT3W6UpHU;[];unknown
+6xPOeIDWmM9ooOw7SBknMl;['album rock', 'arena rock'];rock
+34mL0MvM7ktm8va4wGQk5v;['thrash metal'];metal
+4DX0ctdZRMWec9KCiigIXy;['symphonic metal', 'melodic metal', 'gothic metal', 'symphonic rock'];metal
+0fBVXSuBO4MlVPMmugfW7L;['death metal'];metal
+32kCEAvtuFzIZA15zrhQDW;[];unknown
+18jTFcgHRRYHdwdof1MDZw;['hard rock'];rock
+0e4MEbLG2AR15m2RekxlV8;[];unknown
+3M9XAM57a4qFz3v6Lq27t2;['pop punk'];rock
+5xKw7nNLyZ7UVvhaLC5kYd;['medieval metal', 'folk metal', 'medieval', 'melodic metal', 'industrial metal'];metal
+62cbRT8HTVpFfiA7e2jJO0;['sludge metal', 'stoner rock'];metal
+0NJ6wlOAsAJ1PN4VRdTPKA;['neofolk', 'celtic', 'medieval', 'folk metal', 'folk'];metal
+6syYSX0eLH4srCtXhUEMXD;['screamo', 'melodic hardcore', 'math rock', 'post-hardcore'];rock
+0hxmHf6CqXsOLWgGXjmr7I;[];unknown
+7vCI1d19vrokQuRkiAhwMC;['hardcore punk', 'hardcore'];rock
+0qnFuGvRmnVs96UbsYmg4x;['midwest emo'];rock
+5qjpZpwuGtOkwajRLirQpK;['hardcore punk'];rock
+5fft5SyNYhNar3PdYtKQSF;[];unknown
+1Tsag5J854qxeOo2apszug;['post-hardcore', 'screamo', 'emo', 'emocore', 'metalcore', 'emo pop', 'pop punk'];metal
+6Aakz04B1cWFdcMNFch4QS;['death metal', 'grindcore'];metal
+65Rkh0uXIGAgGw1mxJOFNr;['melodic hardcore'];rock
+2sqrupqcoipb7UzVKApEnJ;['melodic hardcore', 'hardcore', 'metalcore', 'hardcore punk', 'post-hardcore'];metal
+6Xq9CIMYWK4RCrMVtfEOM0;['pop punk', 'emo pop'];rock
+3UAKHD6HtIntfmQB0eSVYm;['midwest emo', 'math rock'];rock
+4GFSsEAhmyfGlTlXqyoCiW;['chamber pop', 'progressive rock'];rock
+1OW9EXz8lzkvtX2tfnUI9r;['thrash metal', 'synthwave'];metal
+58KBq6qkQnfWYRqCjffQQq;['black metal', 'melodic death metal'];metal
+5PC1B9qDXhyin3ZgyRcio7;['black metal'];metal
+1U9J6D5J0m5B8R48KzUyOs;['thrash metal', 'speed metal', 'groove metal'];metal
+0GoS6UScVybSBzDw4WxxoR;['noise rock'];rock
+1Ih0fEQQsy9EeAJbYEeQRa;['power metal', 'symphonic metal', 'melodic metal', 'metal'];metal
+7DHEVu8mFuQP14XdDIFhss;['hardcore', 'hardcore punk', 'grindcore'];rock
+5oMuG72RtrItw98ywAQ7ff;['skate punk'];rock
+35m8xtAGmqjnArbq8Xnndp;['sludge metal', 'doom metal', 'noise rock', 'stoner rock'];metal
+61C4Qk425GpZsfaObkibnN;['skate punk', 'melodic hardcore'];rock
+45MvWoWLKlKglPHeKiVlJY;['symphonic metal', 'industrial metal', 'melodic metal'];metal
+4Ui2kfOqGujY81UcPrb5KE;[];unknown
+5CiQ9m8dPZ3eEV8c2DdHuq;['post-punk'];rock
+2n2RSaZqBuUUukhbLlpnE6;['progressive metal', 'metalcore'];metal
+2q5B1lSu5ruqehmdJ1uLIo;['noise rock'];rock
+7rZNSLWMjTbwdLNskFbzFf;[];unknown
+6B03CBbFJ9aw9CjlxYP0UX;[];unknown
+0QSFCeiUCvkjxzwj7uvSHQ;[];unknown
+6Xv8h8ntefqlic5d3DqzhZ;['black metal', 'progressive metal'];metal
+7GlBOeep6PqTfFi59PTUUN;[];unknown
+7w0e6inAfRWIEb9tWVgB7a;['post-rock', 'new rave', 'art rock'];rock
+4Ge8xMJNwt6EEXOzVXju9a;['art pop'];pop
+7ovXNdlB2DNSC16TbKgros;[];unknown
+1zWilUDcnvjEAmIZpciTvj;['ambient'];other
+0maicLMFF0aeHwJlQgZrNa;[];unknown
+3jx7iW2fFkDEDIt8XjXxjb;[];unknown
+0vqVZAiY4XJe400rsQSzPo;[];unknown
+5Q81rlcTFh3k6DQJXPdsot;[];unknown
+7JUWlvLs6PzPMLryj6sdCh;['ambient'];other
+24b0qNYNgeOfpP5rbljIB3;[];unknown
+1C9U2fqP6cYCEwb73uv2LS;[];unknown
+6Lll1MPPak4m4vZKuJB264;[];unknown
+6wef18QJfuh9f0C4v3TEVH;[];unknown
+7LlAk7lyxBJYpXXT0n7mtc;['doom metal', 'shoegaze', 'sludge metal'];metal
+32icquocNrZlt5lWF7tkBr;['black metal', 'neofolk'];metal
+1Zdd7fqk5jtuMUwE7agpS1;[];unknown
+0zzKEeF2bAVKrWeKc9CyJV;[];unknown
+4ZWRLOs7c4drt9mKGc0Ds0;['metalcore'];metal
+0HZEVuXgc6907vDolZ5RLm;[];unknown
+77VAjT6HJ466IwngeUIIB4;[];unknown
+6zP1GJXIdZtRcV9SKEKZgM;[];unknown
+3Gm5F95VdRxW3mqCn8RPBJ;[];unknown
+2GJa7lPCjAB1rKXptXrfy8;['shoegaze'];rock
+2JIXE3g9E0kfeFWhpKPIja;[];unknown
+13vr2QqzoWOWDyaAZDuEGO;['experimental hip hop', 'jazz rap', 'alternative hip hop'];hip_hop_rnb
+2QM5S4yO6xHgnNvF0nbZZq;['k-pop'];pop
+3skli1w2n0nOZ4qkDbvV2m;['k-pop'];pop
+4MQsNhP9u10g1xuxaJBF0S;[];unknown
+1B1zkWmkstkl82GuWpqPZB;['sludge metal'];metal
+0NTSMFFapnyZfvmCwzcYPd;['black metal', 'gothic metal', 'metal', 'symphonic metal', 'death metal'];metal
+0vTVU0KH0CVzijsoKGsTPl;['jazz house'];soul_jazz
+402XZzUu3B8SejOeEGFYqi;['proto-punk'];rock
+0Up93b7Ut6uacH5Zv8sBkx;[];unknown
+7ljTofQBh5fR5SYfGHRYs8;[];unknown
+3GjVVVcFmUgEJEAAsbGkf4;['bluegrass', 'newgrass', 'americana', 'folk', 'alt country'];folk_acoustic
+1RzJqzN0nvf0wqGQ8wevHu;[];unknown
+7pBR5RoBlOm3oehKuFCxeb;['darkwave', 'cold wave'];other
+3zmfs9cQwzJl575W1ZYXeT;['bedroom pop', 'indie pop'];rock
+5z9wLR0RGBcWMXr4fCZW0K;['alternative r&b', 'neo soul'];hip_hop_rnb
+1BEUkE2CSUgHTLSBMZdnFB;[];unknown
+3y43zXffnLmhyQD1K4QCmD;['melodic hardcore', 'metalcore', 'post-hardcore'];metal
+4dYQmk5ma04mZ1KJ9KkAQK;[];unknown
+7MoIc5s9KXolCBH1fy9kkw;[];unknown
+1vPK0KqkfnZzdpKDC2l3rd;['indie jazz'];soul_jazz
+7EEefVBNBS3ckwouEl62oB;[];unknown
+7ATw5ZiG6dfYFUUVpCsyFe;['punk'];rock
+6AxlwzQp9748SDpdoSjqQa;[];unknown
+7GBU1lsy6kB6lLGDUUEbTg;['norwegian pop'];pop
+1KXSj6uiC8Wtl2wCckVmAD;['midwest emo', 'emo pop', 'pop punk', 'emo'];rock
+2oM7LMPFu882oC6jSwEqjd;['cloud rap', 'underground hip hop'];hip_hop_rnb
+5A7T1LAGJg5NXySBoIKUmF;['rage rap', 'underground hip hop'];hip_hop_rnb
+6vXndytZhDoSVuUIo3rOYc;['midwest emo', 'math rock', 'emo', 'emo pop'];rock
+5nrO8X72nFeyu3sqYIkskQ;['spoken word'];other
+4U9UJQA8TdPGjCaYCsorkB;['grindcore', 'hardcore punk'];rock
+2CvcDx74WxJ2iqmAKc1rpf;[];unknown
+7coXApDvpixZcFjdfqzOXg;['neofolk'];folk_acoustic
+6Ad91Jof8Niiw0lGLLi3NW;[];unknown
+0nwTtqff9SoWoTnTFeZ7YA;['slowcore', 'post-rock'];rock
+3rLgIB7dHh2MGYpiOMajJI;['neofolk'];folk_acoustic
+77yuxx0zDXOjRffgQ1ooXm;[];unknown
+5LhTec3c7dcqBvpLRWbMcf;['experimental hip hop', 'alternative hip hop', 'jazz rap'];hip_hop_rnb
+4EdUmknefakeMJSEbCb85Y;['surf rock'];rock
+5zvMklMSTgoGUS9Un5domO;['black metal', 'avant-garde', 'death metal'];metal
+7HwuG5omnxx1PZ9cLIOecH;['avant-garde', 'black metal'];metal
+5XMyhVhi5ZN2pi0Qwi1zXS;['alternative r&b'];hip_hop_rnb
+6FFTQRf8CS9YJf9T8dcAnG;['sludge metal', 'doom metal'];metal
+5ErUNpyxSBAdjZaKlefsUr;['post-punk'];rock
+6ToGjPfiUS10Zds9xirvm0;['ambient'];other
+5bIttAFRf7URUmuuI9w7XA;[];unknown
+7dB5TtNG9BHNj4QCfS0SQg;[];unknown
+1hElmDU1PFIf4JbkdOcMRE;[];unknown
+7J6YlxY8MiF5ZwfVBzMpPc;['post-punk'];rock
+4UKKKGkjNWx8KTUvea66k1;['thrash metal', 'speed metal', 'groove metal', 'metal'];metal
+1R2vMNz6qxQFMLynRurh3t;['underground hip hop'];hip_hop_rnb
+4WwnDi7kswmiG3YBZZckuy;[];unknown
+3xByNj8XW17oW0wsJhgzYL;[];unknown
+5vBKu1igxFo6g1sHADkIdg;[];unknown
+5vHShL6Y7oe3QoEuTGSABf;['djent', 'art rock', 'progressive metal'];metal
+27jRNjIvlUcGN7FBRDnqhp;[];unknown
+12j6dJrPXanCBwY599pZxf;[];unknown
+5XTn5Az9AcSKu0oaauC5ES;['lo-fi', 'lo-fi beats'];other
+6MjCnAA9RF0vy3j6QYyLG0;['black metal'];metal
+6fs2or0cKLEM2xohWq8SoX;['c-pop', 'chinese hip hop', 'chinese r&b', 'mandopop'];hip_hop_rnb
+6QRtWhtHjPpt16bB7mUJSM;[];unknown
+5CuU6SRJjbbZL926nSGGxX;['experimental hip hop', 'alternative hip hop', 'underground hip hop'];hip_hop_rnb
+3S8c2jzWW8n1JgryQzRfD2;[];unknown
+3boWloc2DdH8TVDWv9t9IR;[];unknown
+7t8XjIoFLQTyd0tVVxk2tU;['melodic hardcore', 'post-rock'];rock
+15VmPRQCJEZWaZWgHEroj0;['industrial', 'ebm', 'industrial rock', 'industrial metal', 'darkwave', 'witch house'];metal
+7Hjbimq43OgxaBRpFXic4x;[];unknown
+4TNLCgKNImRbj2bb7g52wH;[];unknown
+14hFXWA8giW96HpYkTxywX;[];unknown
+0VyhASolc25dvjLJgv67OL;[];unknown
+1DmeNQWfU70wyD5wXP2UgR;['noise rock', 'sludge metal', 'post-hardcore'];metal
+4AVgAZo5MgdaXUSCZEzWjZ;[];unknown
+2ka8z2lwkcp13fG8Wyv3xU;['bluegrass', 'newgrass', 'americana'];folk_acoustic
+6VxDAcLZ7MRxztuhhFfy90;['latin jazz', 'jazz'];soul_jazz
+19KpCg8O15A2eZ416EyFdw;['jazz'];soul_jazz
+28ot3wh4oNmoFOdVajibBl;['k-pop'];pop
+2GUw9Wzha61PkZoRVv1PDD;['hyperpop', 'glitch'];pop
+7HPKaP3bGg43zIj4DxYpuc;[];unknown
+0NnC3YeMSgqiGQtfe5KEkF;['melodic death metal', 'death metal'];metal
+5bcg41eahXhsa30vaMvv0r;[];unknown
+69zOtixHikb7pSLZGKYYRN;['power pop', 'proto-punk', 'punk'];rock
+6VTvaLJ9arNmKi8e1ekOwW;[];unknown
+3LHTXIlBaP5EBhqKMpcr7L;[];unknown
+7Amw4gNz7nLq7140PFhtuk;[];unknown
+2Ktr0i8RmKTMlBFuqhMkAi;[];unknown
+62LgTiq1iNnwvxvlmgnp78;[];unknown
+3nKWlekyskH6bAM2Vat1hE;['thrash metal'];metal
+3DHtfeD4PsmR9YGhCP4VF7;['uk drill', 'drill'];hip_hop_rnb
+1GI7k8gduzXUlQrnH3Aizp;[];unknown
+0qJpY7K8p7g6sacvaGNt6i;['deathcore', 'death metal', 'metalcore', 'metal', 'djent'];metal
+5tMARXM4XOsODrCmJ0zI2M;[];unknown
+0TTADMS1RLOmf7qACoMewD;[];unknown
+6Cvzf33JDzCIw2eJU8npQo;['psychobilly'];other
+7cNNNhdJDrt3vgQjwSavNf;['metalcore', 'post-hardcore', 'screamo', 'metal'];metal
+3aQ1lOFcoAMOzOADcdcYdg;[];unknown
+66CXWjxzNUsdJxJ2JdwvnR;['pop'];pop
+6tpaMMCs8X6o8j9H5OmWmT;[];unknown
+4VF0sdPSFLYdVWF6FRK6OK;['soca', 'dancehall'];other
+2ob8EK4ELmdRklbm87PKFV;['death metal'];metal
+6IfirsQubd1wvYMUdNQ6hj;[];unknown
+7bHTSvk96ULRLZPZr1SoCZ;[];unknown
+0q74f5UdR3j14Lis4AKKxq;['pop punk', 'emo pop', 'acoustic pop'];folk_acoustic
+785WIfCKrAIVM2FxiRCr4L;[];unknown
+5nGIFgo0shDenQYSE0Sn7c;['alternative metal'];metal
+5VPCIIfZPK8KPsgz4jmOEC;['blues rock'];rock
+69vfchlzopPm72nD2elXCH;[];unknown
+7eiTMbuHYUPjrAMjIhAVDB;[];unknown
+3VBNIRx1LxVdRqOiPgkLwv;[];unknown
+6U1lmwvy3I9dIYu9RalJi6;['slowcore', 'shoegaze'];rock
+4yfPiAauSgUfyc4k4WtwM9;['folk punk'];folk_acoustic
+3DL0niCT8vzd0DQ0AXaLly;[];unknown
+3Q5Qep7ytrjVleNnMnntgQ;['k-pop'];pop
+0GmYGGZZIU8vHbI0bAXZun;[];unknown
+6Z4kwq0LOaYQW2CqudoOIk;['shoegaze'];rock
+1LoZxxInSyuVFKSMAB4BPl;['dub techno', 'idm'];reggae_afro
+0nnECIkl6LBEbZdov3nTEj;[];unknown
+2dSa2lW4FLaQcPlzAcZOTS;[];unknown
+2kUrBcfh7PVIivyYGAVjrQ;['dub techno', 'ambient', 'idm', 'downtempo'];reggae_afro
+536qHynzDH1QviwhWY9dE3;['idm', 'experimental'];other
+6USZzPyoOOFd3eusDLYt9X;[];unknown
+3WggbHDpj4rPKbL97zG5MQ;['post-rock', 'math rock', 'krautrock', 'slowcore'];rock
+0TY3Wab2Z1kmp5jZoxdPjZ;[];unknown
+7ikaWAiot7KxyQQx8LICbt;[];unknown
+3CUXLf0CXv5cUONz2Ep22p;[];unknown
+1FbNRjYXMW1sZGjlxaOO9u;[];unknown
+6WY7D3jk8zTrHtmkqqo5GI;['country'];rock
+2YoHhPouaTT96k3dUQ8WZK;['noise rock'];rock
+20bB5IFRjHw1EIAHvZ3tgd;['dub techno', 'lo-fi house', 'idm'];reggae_afro
+2Q4WmCXIG2ogJ0ZYC3K4LQ;[];unknown
+6XyY86QOPPrYVGvF9ch6wz;['nu metal', 'rap metal', 'rock', 'alternative metal'];hip_hop_rnb
+5xKVALj2MSqOHmQhburCM8;[];unknown
+3GzWhE2xadJiW8MqRKIVSK;['post-hardcore', 'screamo', 'metalcore', 'emo', 'emocore'];metal
+4aAD0IqgpuOUyFGFZKEgNB;[];unknown
+2sflbTtCirog5VxD6jPAfb;[];unknown
+2mkYfrT58YGRBySZQ7EDnw;[];unknown
+6A7uqgC2N1nUhrCLAytHxN;['midwest emo', 'indie punk', 'emo', 'punk'];rock
+0wNZvrIMNUCs24G0wFg2D6;['folk punk', 'indie punk', 'power pop', 'midwest emo'];folk_acoustic
+2Hkg1gn2Hpar1sVP8adtNp;[];unknown
+63sat2XSMKdwKfqspmYQKP;['k-pop'];pop
+5YFIVhzlaYH9Yadjw9gSUx;[];unknown
+2hq1yEIcPd7KMLmU6h77Cg;[];unknown
+58d50jBQXhOetEGuSBgu64;['metalcore'];metal
+0ynzbXwyCzxicMKHBoOkSH;[];unknown
+7lAi1Cv19DsukgGjbZQxFg;['metalcore', 'post-hardcore', 'metal'];metal
+0YsYhESxyHC1kuMm9Mbm3C;[];unknown
+5eUda4BaWhUQWWJiP1ml5v;[];unknown
+6EPsHGTJDk8dcqLdawsJyh;['noise rock', 'melodic hardcore'];rock
+4Fc4GqcYwYnTePiW3nggrd;[];unknown
+5SLDjfXs6t5qMI7WS1mwE0;['melodic metal'];metal
+1UrMdRfi5y19p3ZkWSmKxk;[];unknown
+7hzn6FoCsEaUNPnPn7TJWd;[];unknown
+17HkDJlzsK1YoBja2XmY5O;['noise rock'];rock
+3gBZUcNeVumkeeJ19CY2sX;['rage rap'];hip_hop_rnb
+55Dacc2jL4tgb6Af23NlF6;['french pop', 'french indie pop'];rock
+4xP1ALrFSYLVCUiRA0xzMy;['progressive metal', 'death metal', 'melodic death metal'];metal
+1mcTU81TzQhprhouKaTkpq;['reggaeton', 'urbano latino', 'trap latino', 'latin'];hip_hop_rnb
+36E7oYfz3LLRto6l2WmDcD;['britpop', 'madchester'];pop
+2wJkFKzUxt9JR4wKXmwbmH;[];unknown
+4zuxi4GccvQAjTpYd70aQa;['afroswing', 'alté'];reggae_afro
+16ODiemwC9iXaQQ7AQBVnt;[];unknown
+7oPftvlwr6VrsViSDV7fJY;['punk', 'pop punk'];rock
+3ZyjpHbSpzsLV3ZEyJZBAW;[];unknown
+2Smxj6r9emhZRIMsesLCZy;['ska', 'ska punk', 'celtic rock'];rock
+6iBUnX7b9ozofjl2oemzKT;['ska', 'ska punk'];rock
+4rDdobFjpRCbO7THpL5i29;['ska punk', 'ska', 'celtic rock'];rock
+2TwOrUcYnAlIiKmVQkkoSZ;['indie rock', 'indie'];rock
+1mvDY7p2cEG9e7LpymS2Di;['hardcore punk', 'hardcore'];rock
+4T0Chh3DGxJrEs3gM0biqg;['k-pop'];pop
+4bGpqwO0AyHLatPN4DRDoy;[];unknown
+524oC8NzSWvqPbwiRkYSLH;[];unknown
+5uL8BYKyfiVy6s3Q3cNYHG;[];unknown
+57UnSUpae3SbRekxNa5Kgl;['experimental hip hop'];hip_hop_rnb
+1Lx9Dy5gi2OLlJBBs7GYO7;['death metal', 'grindcore', 'metal'];metal
+5he5w2lnU9x7JFhnwcekXX;['dubstep', 'edm', 'electro', 'electronic'];reggae_afro
+62k5LKMhymqlDNo2DWOvvv;['electro house'];electro_dance
+2Cm6C9PNHioyjRKBfO7n9N;['hyperpop', 'glitch'];pop
+4du3q8TIzsZxZZKdRT23Jg;['experimental hip hop', 'horrorcore'];hip_hop_rnb
+4kikA750A0g0FapsKphdUi;['experimental hip hop'];hip_hop_rnb
+1ah87EalVGzB4AEfY7zm2u;['idm'];other
+2fSaE6BXtQy0x7R7v9IOmZ;['underground hip hop', 'experimental hip hop', 'alternative hip hop'];hip_hop_rnb
+5sSdK5Wg4TGU7HTeDcHdSS;[];unknown
+70DFixYAFPv4Pf9kgSfR9O;['k-pop'];pop
+00FQb4jTyendYWaN8pK0wa;[];unknown
+2bvUCoFViWtg9pSkOX9du9;['indie r&b', 'ballroom vogue'];hip_hop_rnb
+1zbrr8GKUOCfIXCntXDCiX;['finnish hip hop'];hip_hop_rnb
+4tvbo17gXpYgSr8sTlkaby;['dream pop', 'jangle pop'];pop
+2TFDQkQ7LahhuwL9p7R6MO;['jungle', 'breakcore', 'breakbeat', 'footwork'];electro_dance
+76rh78p0cww0l4OqgKabLQ;['indie r&b'];hip_hop_rnb
+2nUCb4O54MGkGUcGDEUF1h;[];unknown
+4dPHAp5JXnj8HkY71hWVj5;['shoegaze'];rock
+4kQgsrHUSc9IjuwWP30gf0;[];unknown
+4PKAg3S6JyEG8N9wgjD0fu;['power pop'];rock
+0gCYUYF1zfqZk5pG0e2ojy;[];unknown
+2qnpHrOzdmOo1S4ox3j17x;['hardcore punk', 'hardcore'];rock
+2o7L9DNcmzocYll1o0GGTU;['lo-fi house', 'deep house'];electro_dance
+1qC3BErhNjJ0AP7Ddg4YfD;[];unknown
+5NIvyOvy39ljx9w71rnCS1;['melodic death metal', 'death metal', 'progressive metal', 'metal', 'deathcore'];metal
+3vfL7qtWVnyObFrObnBkmM;['math rock', 'post-hardcore'];rock
+7dJCdUO0l0K2WXzrzjYpmC;[];unknown
+404E4fT1VvILYSsro18vYF;['melodic death metal', 'death metal', 'deathcore'];metal
+5B16IGkS6KOKTJvEsKSriw;[];unknown
+6LEttL8kbm67tcEy84Qh5O;['power metal'];metal
+2kEDso93O2hDgCbnuiSkkZ;['retro soul'];soul_jazz
+6tzRZ39aZlNqlUzQlkuhDV;['brazilian pop', 'funk pop', 'tecnobrega'];pop
+3Jb5mSCM0lBdaACWt4XM3y;['deathrock', 'darkwave'];rock
+7FBcuc1gsnv6Y1nwFtNRCb;['emo', 'pop punk', 'emo pop'];rock
+6Ff2omMMZOd8FWNqb980Ol;['country'];rock
+6EEkobfnenJF603WO8nUrR;[];unknown
+2YRpsoIsb4KGe66E7hfEx5;['deathcore'];other
+3y2cIKLjiOlp1Np37WiUdH;[];unknown
+3bO19AOone0ubCsfDXDtYt;[];unknown
+2qVi7G7OjgVXyl9zxabzTQ;[];unknown
+4U5QErgn94wZGw1rJz01BO;['drum and bass'];electro_dance
+3cdxdVJIA1FE4oMT85haWb;['power pop'];rock
+76Hqz0xVLDA9UwwqKR1JVl;[];unknown
+5DDuwU1X2Aqdp3CxfXstRe;['shoegaze', 'slowcore'];rock
+0CHi92LvwVayTacWx3nsfa;['black metal'];metal
+41uVhPR2KcljefuEaJpv08;['footwork', 'baltimore club'];other
+2dOR9lU7jlZPQ4UBtxdiiv;[];unknown
+6fBU0nP4mKjSZOdpXPHK0e;[];unknown
+6QHP8St0MzfNDqjKpwtMht;['k-pop', 'k-rock'];rock
+3Rj0tDHoX7C5NFq5DKIpHt;['art pop', 'krautrock', 'post-rock', 'chamber pop'];rock
+5fGirWEnQUUTkrMpzTW8FJ;['skate punk', 'melodic hardcore', 'punk'];rock
+6qhit5AoGrbso5Pw6JuNiC;[];unknown
+3qwabfaWewpfli7hMNM3O8;['art pop', 'electropop'];electro_dance
+2eVTKG3Z5bbKk2OWMIe3iL;['hyperpop'];pop
+60PoZFLlifxfCpcSodgDjo;['grindcore', 'death metal'];metal
+6vx9lIm6zSpsNbDOTh5VXz;[];unknown
+1Zoaf3n6LhFuN5Ir3Ab4yM;[];unknown
+6XBGmjpy9vfSmarlFHppRU;[];unknown
+5QS9NAK4AgJPTcRe472pZA;['electro corridos'];electro_dance
+2HGAZDmVV3GAH4XFAZdvSG;['french indie pop'];rock
+4frXpPxQQZwbCu3eTGnZEw;[];unknown
+5INjqkS1o8h1imAzPqGZBb;['indie', 'psychedelic pop'];rock
+6Tyzp9KzpiZ04DABQoedps;['trip hop'];electro_dance
+7B76SsfzG0wWk1WEvGzCmY;['pop punk'];rock
+4V2pR2iSd1g0RZCglrP3jn;[];unknown
+6o2D1YBpFJDDaMwZYGyW3T;[];unknown
+3u9rbdcmA6CxjxOAkjaeFr;[];unknown
+0MoDfakkeeD4FwftxAXwEd;[];unknown
+1cdFsfULlsBxTYbAhWlKNQ;[];unknown
+1UrlnUAdz5YSFir0L0xL5b;[];unknown
+1xU878Z1QtBldR7ru9owdU;['indie'];rock
+0LWbBMbzVxCHLe3tebI4Yo;['alté'];other
+5PJ3v1rMpMsDS4UogImlis;[];unknown
+3HzHfusJQBmpNKkTzqqC2N;['sexy drill'];hip_hop_rnb
+1HvH97rzvCH6lfnLlgyfke;[];unknown
+6vFinMN4E9leUfcEyIIO0D;['doom metal', 'sludge metal', 'stoner rock'];metal
+5kJvtFkFAXSgbz05ZZ4mVL;['shoegaze', 'japanese indie', 'j-rock', 'math rock'];rock
+7c89eE08XBPm3dnFUGi00U;[];unknown
+7oM0bObDNv5Uv1TNyDoqEG;[];unknown
+5txKJQwlX202UqnBPII2PK;['dub', 'roots reggae', 'reggae', 'rocksteady'];reggae_afro
+1ybAN3utgdoUL1MUCtH4QM;[];unknown
+4Ijbgdusp7syatYSHIIulR;['underground hip hop'];hip_hop_rnb
+3XoDjY6V07YGHB3bw8ux1k;['death metal'];metal
+63vMehdxxRWq9HBZHskapk;['dub', 'ragga', 'reggae'];reggae_afro
+21C9Dbg9CD3Dv8NaD7iW8e;[];unknown
+33qOK5uJ8AR2xuQQAhHump;[];unknown
+59QLiM8EVDaCyuHV6ifMpv;['post-hardcore', 'midwest emo', 'screamo', 'emo'];rock
+2TDMep1IfMAASZxbC5FAo5;[];unknown
+5ObBtv5VunwwhQaXXnUrsM;['pop punk'];rock
+360IAlyVv4PCEVjgyMZrxK;['r&b'];hip_hop_rnb
+3zZ88AwlTwfCJkowsFCvLA;[];unknown
+3C1bStPNVIPmGIrORT5OlF;[];unknown
+4SjND9kT6Ja5TSPZTyUUab;['memphis rap', 'southern hip hop'];hip_hop_rnb
+3WfJ1OtrWI7RViX9DMyEGy;['pop punk', 'emo', 'emo pop'];rock
+26zgIfFyTCImkHAp5gwKW8;['zouk', 'pop urbaine', 'kizomba', 'shatta'];pop
+3SAdHKW3ICNgtyFgaWdC6c;[];unknown
+4YmPo9Zke9OYNmV5WW7CMS;['sludge metal', 'drone', 'doom metal'];metal
+4us4NMG5wuqdUZvthZrj0Q;[];unknown
+1OXVBNjmvsGTwyaUzuvYNJ;['death metal'];metal
+4jwROPSUkTkohLCRiyjiZZ;['alternative r&b'];hip_hop_rnb
+7LTSTQkL7iK7zndjFQgHQo;['disco house'];electro_dance
+4HiLipaDjOwRkhJlk5s1uT;[];unknown
+7CddNoU6nKEW7UpcIlJF9n;['shoegaze', 'slowcore'];rock
+2fqEhs5dZBrDLUqHvWRtBc;['stoner rock', 'doom metal', 'sludge metal'];metal
+4GMpU7w4sOGXEyvQGpL1pX;[];unknown
+61NKNrhSMTYg2q0f3vS46e;['french pop', 'chanson', 'variété française', 'french indie pop', 'french house'];electro_dance
+6ASGmWCYupa0CXGtsDdYSI;['pop soul'];soul_jazz
+6CWTBjOJK75cTE8Xv8u1kj;['chamber pop'];pop
+4gHcu2JoaXJ0mV4aNPCd7N;[];unknown
+1uRxRKC7d9zwYGSRflTKDR;[];unknown
+0tJCNteqwm7LmRZ6KWr8GT;['grime', 'afroswing'];reggae_afro
+44JW18XzNr86kKNWJq8eg1;['sexy drill'];hip_hop_rnb
+3ebS2RuCq8QeLyndUDmgB5;[];unknown
+2OFij1ppCwYFCOTq7vzafi;[];unknown
+5nX0BjrpG9Dley2E90qLzO;[];unknown
+3QFiymmbJlVBPpnrOatEAk;['french indie pop', 'french house'];electro_dance
+0wsE3L0l083t6bxC8jJefC;['j-pop'];pop
+7CKkZZW3XtnPmqlwaElmoV;['latin indie'];rock
+5GlFG0lCadjEBnY1w1FwwW;[];unknown
+0ffRuel3oov8h1yxqyZLVY;[];unknown
+6todtULM7YRvjmFxWLbnv9;[];unknown
+1rXjfC9HsVIIHggTMuxvSL;['grindcore', 'hardcore punk', 'sludge metal', 'hardcore'];metal
+1MAUqH0haKBYbjpknTfreY;['k-rap'];hip_hop_rnb
+4Ga1P7PMIsmqEZqhYZQgDo;['melodic rap', 'rap'];hip_hop_rnb
+0GFUO56kQQG2kF4jQqw5De;['alté'];other
+5arKwJZEvT5uKq4o0JfqR4;[];unknown
+35v2YILQxee0yatdWj6Kg7;[];unknown
+7D8LuVnlyu91ndcPe70j7S;['folk pop'];folk_acoustic
+6lY6kOVMG0mR07JTzU33o5;['french pop', 'french house'];electro_dance
+26jdbJyBkpr6LivDYvKp2r;[];unknown
+3eqjTLE0HfPfh78zjh6TqT;[];unknown
+4tPyCwWrsvZ8OKYl7QRavL;['dream pop'];pop
+5FrdcC0audM19v7r1GQx4P;['dancehall', 'soca'];other

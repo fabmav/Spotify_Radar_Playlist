@@ -48,7 +48,16 @@ FIRST_LINE = ["track_id,danceability,energy,key,loudness,mode,valence,tempo,dura
               "artist_id,artist_genres",
               "artist_id,artist_genres,artist_genre_main"]
 
-liste_id = get_playlist_tracks_id(ACCESS_TOKEN,URI)
+dico_id = get_playlist_tracks_id(ACCESS_TOKEN,URI)
+
+with open("stats/weekly_tracks_added_at.txt","w") as f : 
+    f.write(f'track_id,added_at\n')
+    for key in dico_id : 
+        f.write(f'{dico_id[key][0]},{dico_id[key][1]}\n')
+
+liste_id = list(dico_id.keys())
+
+
 
 # write_to_file(liste=liste_id,file_name="stats/stat_audio_features.txt",first_line=FIRST_LINE[0],
 #               string_length=99,base_url=URL_AUDIO_FEATURES,parse_func=get_music_data,
@@ -63,7 +72,7 @@ write_to_file(liste=liste_id,file_name="stats/weekly_tracks_artists.txt",first_l
               request_headers=HEADERS,request_params=PARAMS,sep=";")
 
 
-liste_artists = []
+liste_artists = []  
 with open ("stats/weekly_tracks_artists.txt","r",encoding="UTF-8") as f : 
     for line in f : 
         liste_line = line.split(sep=";")

@@ -1,6 +1,10 @@
 #brouillon streamlit
 from config import *
 
+#TODO ajouter le feature date added aux extract
+    # gérer la taille des colonne pour que ça fit avec un dataframe pandas
+
+
 df = get_weekly_data_local()
 
 st.title("Best New Track Radar Dashboard")
