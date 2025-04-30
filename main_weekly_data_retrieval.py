@@ -46,7 +46,7 @@ FIRST_LINE = ["track_id,danceability,energy,key,loudness,mode,valence,tempo,dura
               "artist_id;artist_name;track_id",
               "artist_id,total_follower,artist_popularity",
               "artist_id,artist_genres",
-              "artist_id,artist_genres,artist_genre_main"]
+              "artist_id;artist_genres;artist_genre_main"]
 
 dico_id = get_playlist_tracks_id(ACCESS_TOKEN,URI)
 

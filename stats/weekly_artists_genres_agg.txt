@@ -1,4 +1,4 @@
-artist_id,artist_genres,artist_genre_main
+artist_id;artist_genres;artist_genre_main
 5tDjiBYUsTqzd0RkTZxK7u;['melodic house', 'melodic techno', 'progressive house', 'deep house'];electro_dance
 6oBm8HB0yfrIc9IHbxs6in;[];unknown
 4OTD2AbOu5iBqSWk3NfwG5;[];unknown
@@ -136,10 +136,10 @@ artist_id,artist_genres,artist_genre_main
 6fxyWrfmjcbj5d12gXeiNV;['punk rap'];hip_hop_rnb
 3CE6MgsLpKMDfYFtexgc8U;[];unknown
 6OjtkJDlAZzlzAydEn78cK;['sexy drill'];hip_hop_rnb
-0Y4inQK6OespitzD6ijMwb;['alternative hip hop'];hip_hop_rnb
+0Y4inQK6OespitzD6ijMwb;[];unknown
 2dbSR7CwWSGsMkuKVITKRc;[];unknown
 294lNTPZfdqyzt8qnxmFiL;['alternative r&b'];hip_hop_rnb
-2osrICe2kgcit3D086z3Lo;['gothic metal', 'doom metal'];metal
+2osrICe2kgcit3D086z3Lo;['doom metal', 'gothic metal'];metal
 34UhPkLbtFKRq3nmfFgejG;['post-rock', 'shoegaze'];rock
 6HCzzbQ8cHeZnqojIk7HgE;['noise rock', 'post-punk'];rock
 4wXchxfTTggLtzkoUhO86Q;['indie'];rock
@@ -318,7 +318,7 @@ artist_id,artist_genres,artist_genre_main
 1V2a5Mkw4VP93kP1vrB4T4;['post-punk', 'noise rock'];rock
 4jE1yavE4c5IR1hhM4wHhY;[];unknown
 6ywMpa6AmGJpV5Sbyy58Js;['nu jazz'];soul_jazz
-39vtb2iiz3079nqfL5nfFc;['experimental hip hop', 'alternative hip hop', 'east coast hip hop', 'underground hip hop'];hip_hop_rnb
+39vtb2iiz3079nqfL5nfFc;['experimental hip hop', 'alternative hip hop', 'east coast hip hop'];hip_hop_rnb
 2YeKLbyQXeNPNNXmp9Irol;[];unknown
 6p355yiyJc67iSNeWLM8WH;['slowcore'];other
 2rpkPoe2Qc5unwCOmWpN5y;[];unknown
@@ -352,7 +352,7 @@ artist_id,artist_genres,artist_genre_main
 3oLTaC5QBOH96VbxMAafpZ;['post-punk'];rock
 6cadOIa5DTh6a5mGo5r4bh;['soundtrack'];other
 0qc4BFxcwRFZfevTck4fOi;['cloud rap'];hip_hop_rnb
-6fFcUOFcbjeIuEomuUthkw;['art pop', 'hyperpop', 'alternative r&b'];hip_hop_rnb
+6fFcUOFcbjeIuEomuUthkw;['art pop', 'hyperpop'];pop
 2Ggj5XNlIb4Lnbqe307FyB;[];unknown
 18M7pJRsgFVjEBZ5ufmJAp;['post-punk'];rock
 3PpJbrAbphauEun8Xf9tD2;['shatta'];other
@@ -369,7 +369,7 @@ artist_id,artist_genres,artist_genre_main
 3lGO6uBIzoFyU6OoGMER1B;[];unknown
 3VdnwWd3i9OOT0CzbzRZj7;[];unknown
 37394IP6uhnjIpsawpMu4l;['metalcore', 'metal'];metal
-6BBkWyAZhcINj7GecYg3Wd;['boom bap', 'underground hip hop'];hip_hop_rnb
+6BBkWyAZhcINj7GecYg3Wd;['boom bap', 'east coast hip hop', 'underground hip hop'];hip_hop_rnb
 1EXhFWMkZ775rxYoHSSbkH;['boom bap', 'underground hip hop', 'hardcore hip hop'];hip_hop_rnb
 7AHs1k8PtT8HRhFvNhOJRU;['medieval metal'];metal
 4fG5iQ1bDCtgOmhbVNWilq;[];unknown
@@ -385,7 +385,7 @@ artist_id,artist_genres,artist_genre_main
 4EnymklUyqZwvmHQGlRssl;[];unknown
 5LppQKXZeKZWAp7g4z93ME;[];unknown
 2dE5audbkV3o5cKxvM7lBD;['metalcore', 'djent'];metal
-3tVQdUvClmAT7URs9V3rsp;['afrobeats', 'afrobeat', 'afropop', 'azonto', 'afroswing', 'afropiano', 'dancehall'];reggae_afro
+3tVQdUvClmAT7URs9V3rsp;['afrobeats', 'afrobeat', 'afropop', 'azonto', 'afroswing', 'afropiano'];reggae_afro
 3a1tBryiczPAZpgoZN9Rzg;['afrobeats', 'afrobeat', 'afropiano', 'afro adura', 'afropop', 'amapiano', 'afroswing'];reggae_afro
 6VR4TJ20WGiho2xZWMuuWb;[];unknown
 6BD4lgmnh4vy6kkCaZRDWt;['metalcore', 'metal', 'deathcore', 'post-hardcore'];metal
@@ -433,7 +433,7 @@ artist_id,artist_genres,artist_genre_main
 2Q1toCgEYnoH8DGOAg0BhI;[];unknown
 5BXgJD35uOzh79FlVO8DQ2;[];unknown
 7axZFTseO96HmG1u4ABDAI;[];unknown
-27yQQxDQHLFT23OCbsxi4t;['sludge metal', 'doom metal', 'stoner rock'];metal
+27yQQxDQHLFT23OCbsxi4t;['doom metal', 'sludge metal', 'stoner rock'];metal
 4Op2pnzbOze0T6HSejf6dL;['nu metal', 'shoegaze'];metal
 0wuuYZFptujAsRthrdea2B;['french indie pop', 'french pop', 'french house'];electro_dance
 1HCdPZB0ypEcpDo4T55sMi;['garage rock', 'blues rock', 'roots rock'];rock
@@ -449,7 +449,7 @@ artist_id,artist_genres,artist_genre_main
 4RUXc1qaB7CPx8z3cRLD3O;[];unknown
 6tatWnZ4nH8Cpivd2uXKJn;[];unknown
 43R8Umt7qVmJCcOZGWJy24;[];unknown
-4uOeSBqJoBz5OrxrsrTboH;['midwest emo', 'melodic hardcore', 'emo pop', 'pop punk'];rock
+4uOeSBqJoBz5OrxrsrTboH;['midwest emo', 'emo pop', 'melodic hardcore', 'pop punk'];rock
 7n2Ycct7Beij7Dj7meI4X0;['k-pop'];pop
 181bsRPaVXVlUKXrxwZfHK;[];unknown
 3Vl9fyKMIdLMswk8ai3mm9;['hyperpop'];pop
@@ -530,11 +530,11 @@ artist_id,artist_genres,artist_genre_main
 6HCkJzbswOIc7Qc5TJ1n5l;['alternative r&b'];hip_hop_rnb
 2JSwnwAT1BupAQkhqcRCUw;[];unknown
 2Hgj50QKDLwDTRjb42hRIT;['alté'];other
-5X0V59ipZnbvnubW0rQVri;['boom bap', 'underground hip hop'];hip_hop_rnb
+5X0V59ipZnbvnubW0rQVri;['boom bap', 'underground hip hop', 'east coast hip hop'];hip_hop_rnb
 0eVyjRhzZKke2KFYTcDkeu;['alternative hip hop', 'jazz rap', 'experimental hip hop', 'boom bap'];hip_hop_rnb
 4wf6GGNBqaU79839E6yjfn;['hardcore', 'hardcore punk'];rock
 0yknvLWQZxwsMjhUhwWZQ8;['new york drill', 'drill', 'sexy drill', 'jersey club'];hip_hop_rnb
-0hF6lbAjRsq4svrQUr5sgU;['new york drill', 'drill', 'jersey club', 'sexy drill', 'brooklyn drill'];hip_hop_rnb
+0hF6lbAjRsq4svrQUr5sgU;['new york drill', 'drill', 'jersey club', 'brooklyn drill', 'sexy drill'];hip_hop_rnb
 3BcgTyEdL81zMljmXcilZM;['new york drill', 'drill', 'jersey club', 'brooklyn drill', 'sexy drill'];hip_hop_rnb
 7tYKF4w9nC0nq9CsPZTHyP;['r&b'];hip_hop_rnb
 5y8tKLUfMvliMe8IKamR32;[];unknown
@@ -616,7 +616,7 @@ artist_id,artist_genres,artist_genre_main
 74om4qLxb9MIsubhtvxQQJ;['shoegaze', 'noise rock', 'slowcore', 'math rock'];rock
 7qrEXiLLnWkkYHhadZ1Oij;[];unknown
 2ueoLVCXQ948OfhVvAy3Nn;['art pop', 'chamber pop'];pop
-5y0k3g7BB1ylNsnj2NarGx;['sludge metal'];metal
+5y0k3g7BB1ylNsnj2NarGx;['sludge metal', 'doom metal'];metal
 5BwsX8bXOFC1YnqSlyfOKM;['alternative hip hop', 'experimental hip hop', 'underground hip hop'];hip_hop_rnb
 3TOqt5oJwL9BE2NG9MEwDa;['metal', 'nu metal', 'alternative metal', 'rap metal', 'hard rock', 'rock', 'heavy metal'];hip_hop_rnb
 1Dy2JqZmbXPTvJdDOyytcP;[];unknown
@@ -690,7 +690,7 @@ artist_id,artist_genres,artist_genre_main
 4XpPveeg7RuYS3CgLo75t9;['black metal', 'shoegaze', 'post-rock'];metal
 1SncSgYiDk2kCBBaXIYcwd;[];unknown
 0H20KZnm0XPqNYQ6EsIAyo;[];unknown
-0SclPISF5pHutoTooqCfFJ;['power pop'];rock
+0SclPISF5pHutoTooqCfFJ;[];unknown
 4er5NZNuc83Cev96LA28ID;[];unknown
 3eimPofmo9TuKJTgpM9Bcj;['shoegaze', 'slowcore'];rock
 1xVcjJ5YsYOClO2Unt3Rm8;[];unknown
@@ -819,7 +819,7 @@ artist_id,artist_genres,artist_genre_main
 6fimwBQkUgYS2HweErgxN5;[];unknown
 12trz2INGglrKMzLmg0y2C;['indie r&b'];hip_hop_rnb
 4obzFoKoKRHIphyHzJ35G3;['reggaeton', 'latin'];reggae_afro
-5tGG1slV9pkcydU5eQSIvm;['metalcore', 'hardcore', 'melodic hardcore', 'hardcore punk', 'deathcore'];metal
+5tGG1slV9pkcydU5eQSIvm;['metalcore', 'hardcore', 'melodic hardcore', 'hardcore punk'];metal
 4pSMnAlD8JVEW3eZDuaQH8;['disco house'];electro_dance
 14hI6ZlrKB6X81Y046P2MW;[];unknown
 0Z5pcmXDCKTrFWLnDChC37;['nu disco', 'indie dance', 'electroclash'];electro_dance
@@ -843,7 +843,7 @@ artist_id,artist_genres,artist_genre_main
 6NMF1g2abQPPoLHfOEub0f;[];unknown
 6KClkGIGey0eKdCwmuBPga;[];unknown
 6U1hXHFTV27cbQVXZvnX27;['uk drill', 'drill'];hip_hop_rnb
-3l1C23aRp4lfkBK3lLAp2m;['uk funky', 'uk garage'];other
+3l1C23aRp4lfkBK3lLAp2m;['uk garage', 'uk funky'];other
 5QbhVJedf1XUbmQummp2CN;['hyperpop', 'jersey club'];pop
 5gBHLwml90ZbOelVqI9mS5;['sludge metal', 'doom metal'];metal
 6l7R1jntPahGxwJt7Tky8h;['alté'];other
@@ -960,7 +960,7 @@ artist_id,artist_genres,artist_genre_main
 6LbnbvP0S13LSl8JsBJ9EP;['sludge metal', 'doom metal'];metal
 4mkGptXsTzOKv0pLhYvx4W;['shoegaze', 'post-rock'];rock
 40s4gmRbRxJFQ2w4mVCub3;['hardcore', 'hardcore punk'];rock
-7MoipbqoshfYNfckhzRtYC;['sludge metal', 'black metal'];metal
+7MoipbqoshfYNfckhzRtYC;['black metal', 'sludge metal'];metal
 6k2utcmoLc5FPYTWtpuHSQ;[];unknown
 5274obTQJjzjyycRyJlfml;['deathcore', 'death metal', 'metal', 'metalcore', 'djent'];metal
 6vzYdcLnvCyXQbFj4FURxM;['hardcore', 'hardcore punk'];rock
@@ -1311,7 +1311,7 @@ artist_id,artist_genres,artist_genre_main
 3WfJ1OtrWI7RViX9DMyEGy;['pop punk', 'emo', 'emo pop'];rock
 26zgIfFyTCImkHAp5gwKW8;['zouk', 'pop urbaine', 'kizomba', 'shatta'];pop
 3SAdHKW3ICNgtyFgaWdC6c;[];unknown
-4YmPo9Zke9OYNmV5WW7CMS;['sludge metal', 'drone', 'doom metal'];metal
+4YmPo9Zke9OYNmV5WW7CMS;['sludge metal', 'doom metal', 'drone'];metal
 4us4NMG5wuqdUZvthZrj0Q;[];unknown
 1OXVBNjmvsGTwyaUzuvYNJ;['death metal'];metal
 4jwROPSUkTkohLCRiyjiZZ;['alternative r&b'];hip_hop_rnb
@@ -1326,7 +1326,7 @@ artist_id,artist_genres,artist_genre_main
 4gHcu2JoaXJ0mV4aNPCd7N;[];unknown
 1uRxRKC7d9zwYGSRflTKDR;[];unknown
 0tJCNteqwm7LmRZ6KWr8GT;['grime', 'afroswing'];reggae_afro
-44JW18XzNr86kKNWJq8eg1;['sexy drill'];hip_hop_rnb
+44JW18XzNr86kKNWJq8eg1;[];unknown
 3ebS2RuCq8QeLyndUDmgB5;[];unknown
 2OFij1ppCwYFCOTq7vzafi;[];unknown
 5nX0BjrpG9Dley2E90qLzO;[];unknown

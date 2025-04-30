@@ -1,7 +1,7 @@
 track_id;popularity;track_name
 3kFnwZHnMMNeO2YpOZyZVw;57;Hiding
 6OlITNJTY5qvSjtJa684wc;29;Cream Of The Crop
-3jlacMjHZ9VGCOmz5CjHE0;56;Homie Don’t Shake
+3jlacMjHZ9VGCOmz5CjHE0;55;Homie Don’t Shake
 10cGyorRXoOc9RhVhY9Sru;8;She's Leaving You
 4a2hgYLUWVoMDOrh08LQqW;25;Avanvera
 5O0NtSxrPa8nNCMrPqyxrQ;17;Hooked Paw
@@ -19,13 +19,13 @@ track_id;popularity;track_name
 53xmr7bWbnVA5nanQc9she;10;Rock N Roll Never Forgets
 4qlR54adNva35J2ox9Apmz;5;Fun Time Fix (We Go Go)
 3lLH0FlC2pYCeZEf05zKQn;63;CRAZY (feat. PinkPantheress)
-6khKJVbTxzfhbGfHMtyOM8;23;S P E Y S I D E
+6khKJVbTxzfhbGfHMtyOM8;22;S P E Y S I D E
 7KANSTlZEsFix378ARiJ5b;27;Philosophy
 3QMCIWdYpl9ALwyPG9udcz;25;God Take Me Out of LA
-059qzhNaJb8tsqpdl2bHfF;66;Una Velita
+059qzhNaJb8tsqpdl2bHfF;65;Una Velita
 6XuQzFKU3rJNNEEs6lyIuQ;55;Flash in the Pan
 6g80KZsDgDKUUinR5biFcC;37;RB3
-0BMFTGo7flIdopJLYV2Ueu;46;SPANK!
+0BMFTGo7flIdopJLYV2Ueu;45;SPANK!
 4ef4wC5lkqezaUb5XNjNub;11;Flowers
 0UWX9IHs29vm1odEcn4Asd;41;Jawbreaker
 3KkesrPkSGFZYXUHtk1Zfn;50;TITS, LIPS, HIPS, KISS (10/10 Remix)
@@ -37,13 +37,13 @@ track_id;popularity;track_name
 4WWfv1skKJIFfIQ8nMrdPz;26;Backyard Lover
 7lFRoZgi23jaHgEpQcD1JJ;25;Vanessa
 2dMfQ4fclU1mzo3YKSpqvF;5;Sleeper
-3n4FkCfKlscDqYPMcTBdXm;43;BROKEN
+3n4FkCfKlscDqYPMcTBdXm;42;BROKEN
 1Iq69WCDHuVmIJ4pjLC1TL;27;Keep It Rising
 6HRXAtJ0ZfdHYIyBbFKwuO;0;Jam the Phones
-7F7tkvQTutq9Hkx4XibCj3;6;To Your Own Devices
+7F7tkvQTutq9Hkx4XibCj3;7;To Your Own Devices
 753EklH444D0oZj4ClafLc;36;Time For Slurp
 3X2FHgawYuFMsoR6TQQBmm;0;Til The End
-5wPhXheKbSHfgTV93nIFud;6;String Lights
+5wPhXheKbSHfgTV93nIFud;5;String Lights
 4s2jY1IybI3jhgw8ybldlX;28;Ecig
 4Pu1l1CF4rcN3xIgWbgni6;19;Saltlick
 5pHG1esQgfCqS4sbvlZ1GY;14;The Ocean
@@ -55,12 +55,12 @@ track_id;popularity;track_name
 1UNEuG9DYOWiikf00ayr52;85;Love Me Not
 6rN6jsmHIUVxldZrv6LYJK;23;Come Back To Me [Demo]
 2aeOHlYvx9IIdWmyTiQelk;20;Mob DLA
-7i5M9mb2gF9VvuNSlUsAaz;38;Don't Get Me Started
+7i5M9mb2gF9VvuNSlUsAaz;37;Don't Get Me Started
 5NiDo8amNbwDXvcZqXYjht;14;wish u well
 0lxJSpSLiynTr9TvZrsfEj;17;Never Arriving
-3okYl2imBdzpC8OMzszyFf;5;Boiler Room
+3okYl2imBdzpC8OMzszyFf;4;Boiler Room
 4uDeQXz5gEE9maP6lNFtrg;42;Take a Trip
-6RoPzFHcHgEBgdeYwJe1ih;42;Plane Trees (feat. Mustafa)
+6RoPzFHcHgEBgdeYwJe1ih;41;Plane Trees (feat. Mustafa)
 6Qzh9H5JQhM2t8ReA0Bs3J;26;All 2 of Us
 5oVn6GZuuMDlsBqWl1FzNi;69;Giannis
 6GiJACBbYHIOeghfZmbLuI;51;Tu Te Vas
@@ -75,7 +75,7 @@ track_id;popularity;track_name
 6xRWrnFAD6te7v9BTxf7AV;14;game of zeroes
 564MF96Rb5Auoah0NOmSRP;4;A Long Beautiful Flowing Cape
 3K3JJJT20PwS4JkftkUiOk;27;Contrarian
-2od47WyjMpBiW37JNEdnrN;25;I’m Signed to Lex Now I’m Up
+2od47WyjMpBiW37JNEdnrN;24;I’m Signed to Lex Now I’m Up
 02o2gJuOpO3Su0d6BXmir5;19;No Time
 5GP0elNzD1nBFVNie9vy33;18;Freak Mode
 0oCl7rgVAcEkkXrvHrFb15;3;She's Alive
@@ -84,16 +84,16 @@ track_id;popularity;track_name
 2OE8encLnOWQEsmcJTifeZ;54;Dinner @ Brasserie Zédel
 2b1RJR53wPOn3ociXFYBn6;39;Stellar Cast
 7qsCOBgSNp8SOOV9UfHnJD;31;We Could Be Heaven
-0I3m2omTqOTK1sexmLb5E3;18;I Can't Wait Until I'm Old
-1SNB5tolDTBIT2ygSthC8d;49;Caroline
+0I3m2omTqOTK1sexmLb5E3;17;I Can't Wait Until I'm Old
+1SNB5tolDTBIT2ygSthC8d;48;Caroline
 6eIoIF1c8zjyKg7Yk5n8pA;34;Elephant
-46Wg3lpTEGr3z5eyRsc3fw;22;Detour
+46Wg3lpTEGr3z5eyRsc3fw;21;Detour
 2Iy2Qj5kTsmXAndBnOWdy4;51;Punish
 6wHDFttQM9JU16Oq41SXvq;45;Stunn
 2ws9oLOmP7FfiKnj29BPZ5;47;Fangtasy
 2am3CrIbWoGJBAkgq6GaBY;35;SET HER FREE!
 015QKCY75xuAvvJqlY0vyR;0;Viagra
-4NDXISXlmXBF1bQIjULijY;48;What If...?
+4NDXISXlmXBF1bQIjULijY;47;What If...?
 3xok6QI69xbHQ45WeMees9;6;Beyond The Horizon
 7ubPB5TyXbbazAvsiQ14Lq;1;Drew
 5xA7brxtQFDNQBJDyOHHWc;37;Kafka
@@ -106,21 +106,21 @@ track_id;popularity;track_name
 0fGnrMbEPMxfw8ih2kkeSF;6;Crashing
 1OK4rGEWLa9Xp0XFwfLEmR;8;Bad Cop
 5Ia2ATY9TFPbvkNgVtriDu;43;Big Butt
-4MZfdXX0OnqH3tGxEsm1nU;45;Ohio All The Time
+4MZfdXX0OnqH3tGxEsm1nU;44;Ohio All The Time
 4DF1oibtK3MkjUS7FWr3D4;15;Leash
 2z9FUHRkbkV4BObNzbHsFU;84;Born With a Broken Heart
-3ryNtDrnv2DOgdQAI3EUOA;24;Get Stable
+3ryNtDrnv2DOgdQAI3EUOA;23;Get Stable
 4rWWNbsiorGPfSb7B4c8sy;60;I remember how your hands felt on mine
 7d25e7sGPoQ0orHhKroTu3;52;Charlie (feat. Lil Yachty)
 2zJMAvAXdZLF5QScpaksyT;1;Gnaw
 3k9pKrQnJbFxZMqVvyDD9F;0;Video Music
-16yFuOEn0CrjQR7SZotv8B;65;STILL IN THE PAINT (with LAZER DIM 700 & Bktherula)
-5LUShL5oF7n4all1pqSauD;9;On The Set
+16yFuOEn0CrjQR7SZotv8B;64;STILL IN THE PAINT (with LAZER DIM 700 & Bktherula)
+5LUShL5oF7n4all1pqSauD;8;On The Set
 72rz0gf2wyg1wFcZ0qD5xi;13;SPIDER
 6h1dtfc7PrKnpjIUAtZFR9;36;Counterfeit
-0dloVNchxVzIgPRkHbnS8E;14;Reliks - Single Version
+0dloVNchxVzIgPRkHbnS8E;15;Reliks - Single Version
 6leXbezOWAJVyCveOLAwuU;26;Lion Rumpus
-3JbvohVqOPOXu7BTzcJCsQ;11;House
+3JbvohVqOPOXu7BTzcJCsQ;10;House
 6deZayR6kkANHzaEaAvQqe;11;Abigail
 4hCdrbscKtHN0nUPYyue5W;39;Nothing Lasts Forever
 21SUW6VqiPSwSumXMPYQtz;48;True
@@ -128,23 +128,23 @@ track_id;popularity;track_name
 0ibOvizonNcEZgAxBpLdwD;29;Can't Be Sad
 1N9NFVAs9guuJmgOh5eowj;29;Crocodile Tears
 1MXY6H5UDzcS9N7xr57Ncn;10;If I Am
-2zs0Oae871mUHpS0iOMJ7O;39;Afterlife
+2zs0Oae871mUHpS0iOMJ7O;38;Afterlife
 4eW6bfOEvJy1XLiUwDG0RW;20;BUFFALO
-65Do1Pd6ijUc4O5onfJNcM;30;The Needle And The Spoon - feat. Neil Fallon
-4XsJiRJQAK8TWcZCn0Dxlh;70;POWER
+65Do1Pd6ijUc4O5onfJNcM;29;The Needle And The Spoon - feat. Neil Fallon
+4XsJiRJQAK8TWcZCn0Dxlh;69;POWER
 5RePVWy39tLpHH0WwXgBsK;79;Rah Tah Tah
 1SPFL35pZpYPMKyelBR0tB;36;Dark Out (Season of Thieves)
 6IS0HAmRlwzqgrgIlINk2S;35;P.M.C.
 2AhIsvwpkE3CI2cNefp7au;35;Burn
 20xfgpCbTJBDjrTFh916Av;54;Your House
-2wsYBaiPOzABiGteh5IWGW;22;A Fever To Defeat
+2wsYBaiPOzABiGteh5IWGW;23;A Fever To Defeat
 7oZn1w8pspTBu7Bps6WRfj;38;ONE NATION
 0gnNKgvu9Yob50ywxpNpRb;31;Hollow
 5rQtSoeRRO4y3d54z1Kd1f;11;Free Fall - Edit
 1wmaEbWBvNltPwF8dZepw6;24;FOREST (Mountain and Elevator)
 3sinl0WbLyDAWdGKph4sJ0;11;Aarhus
 35D1RA5uVFVhMc1qX80TaQ;81;Balloon (feat. Doechii)
-1Qt3dchH0t0if7vjaW6UKr;37;Excuse My French
+1Qt3dchH0t0if7vjaW6UKr;36;Excuse My French
 2lqoRoUIVwJZrDzmNOTQZP;63;last night's mascara
 2MCDbX5fPKXmKMVTn2GKUl;16;Legend of the Ohmu
 0o2JLyPbVzGDVGSZ3MhPb7;45;I’ve Never Met Anyone I Thought I Could Really Love (Until I Met You)
@@ -152,61 +152,61 @@ track_id;popularity;track_name
 4EUoReiJlAMtNKA62eZo4k;15;Slouch
 2uaZaTMbYE5KAk8gbdzBgW;70;HOWLING
 19KlZwqlT3fguP2BeHF1Q1;80;Disease
-3L87s9RtB0V6MmcBNLY7N6;31;Shhh!
-5EQHN6tBq72rJxHhmGnDoJ;25;worst behaviour
+3L87s9RtB0V6MmcBNLY7N6;30;Shhh!
+5EQHN6tBq72rJxHhmGnDoJ;24;worst behaviour
 2MojkHa7QpNzxmBuhXLRuB;40;Capital P
 7HZEdU8fVKPiK3vYF6Mf8B;21;Aurelia
 2HA4tNLIXY1dGvDVCLeslk;75;Little Things
-4XoPaOi4PD43xD2YX1Rrsy;6;Nintendo Morning
-4IVL36GiCAy13bmMQdkVty;19;Mary Kate
-7FiHi1NlpzbtKPikSZMgrw;30;Wind & Fog
+4XoPaOi4PD43xD2YX1Rrsy;5;Nintendo Morning
+4IVL36GiCAy13bmMQdkVty;18;Mary Kate
+7FiHi1NlpzbtKPikSZMgrw;29;Wind & Fog
 39Lwc0RPO0H9Mx5gAQAsD3;22;Unbelonging
-0l9GXpgaE7lBxl29G68Lfu;32;Planet Popstar
+0l9GXpgaE7lBxl29G68Lfu;31;Planet Popstar
 2f526wBHCGx6u6HsbF0uAE;45;to be free
 1RfW7cAu3CPnpjJrVdtcYt;43;Adriana Again
-6XMHSmYxPPSu5dEIYT2iiB;34;Renegade
-1XIuGYtFcpnevTnCu2SZxs;26;Nice To Meet Me
+6XMHSmYxPPSu5dEIYT2iiB;33;Renegade
+1XIuGYtFcpnevTnCu2SZxs;25;Nice To Meet Me
 4FcQeSZNS22TDJbjm5qw3I;6;TORMENTOR
 2E6m4fRCHlccJqVEHKeIIF;26;EZPZ
 6BvR0J4q0s8XqDRbWihLxl;12;DOG WITH A £
 2qxevIU1pfftKSN60MtkCD;1;Leprosy
 2enifRQ2CMEK8VPFhtX7cR;48;Poeira Cosmica
-2gkCV6a1MrYOMNar7euPX3;24;Earth Return
-1fCetCU5FZ0nr8Uv0XxtKi;44;Don't Let Me Go
+2gkCV6a1MrYOMNar7euPX3;23;Earth Return
+1fCetCU5FZ0nr8Uv0XxtKi;43;Don't Let Me Go
 1h2LQJOjAghVxYc74mGw7k;14;Something Exciting
 4HeZLzmeDv9Aolc3G1RBiN;12;CRY LATER LAUGH NOW
-31ve1hvhR7X4VOXlq9J1Kf;29;Circus of Life
+31ve1hvhR7X4VOXlq9J1Kf;28;Circus of Life
 3ZZyUf7WkhfN1JkQZZ00fI;72;People Watching
-3ksWNrEyL6G6T3i74YWUlN;21;The Spell Of The Skull
+3ksWNrEyL6G6T3i74YWUlN;22;The Spell Of The Skull
 3VcnvsKzvAzXgWWoGnY5qI;20;Travellin'Man
 4MH3D8angFt2z5B8yO3xnG;51;Elephant
 35YrJW6b48c7KIZltQGVk0;33;Spark (feat. yunè pinku)
 7whUWXMUZLgvdQHvy8Bjk0;32;Peace to the World
 44hqFxUWsADWewEJELnncj;78;No Doubt
 43cAeXFkMQvARz9NDqXPTf;40;this is my california
-65xcchkTcVBAWiIR6f9mMU;56;GOT ME GEEKED
-3s7KQvLp33f6rYadiD405h;7;Specials
+65xcchkTcVBAWiIR6f9mMU;55;GOT ME GEEKED
+3s7KQvLp33f6rYadiD405h;6;Specials
 667WclCD8TE4oLsoWkRoNy;40;Pitch Black
 31BioejtceWRxtWruG01MG;37;Slip Away
 2TDZzciUBjVhjLEro3qYhc;29;Born To Destroy
 2lcmMbNGKgCsM081mwdE36;11;Om Supreme (feat. Vijay Iyer & Immanuel Wilkins)
 5PZZ3G5djpINln9xcMxcmB;54;the center’s falling out
-192MdJJceGKpFE2HTIOsRB;27;Antarctica
-6rFwLSiUCSBg0b0wYkHCdI;22;Fire to Burn
-28XXimooM8Pe0D66Tx55AD;2;Full Moon Fever
+192MdJJceGKpFE2HTIOsRB;26;Antarctica
+6rFwLSiUCSBg0b0wYkHCdI;21;Fire to Burn
+28XXimooM8Pe0D66Tx55AD;1;Full Moon Fever
 4fJdiIFFzBcok89cIHivkG;11;L'NMIACCd'HTCK72KPDP
 1FWpMnt9rIlvox16KNPfq3;19;House Party
 2TWWbIe4aWGbbPBduYewWB;49;Gorgeous (feat. Jhené Aiko)
 5iWNskrPocMh7z8CwUBSRe;41;Elevate
 2hmc0k5WWlDBmhRhDbpi9o;14;Detroit
 6FcDxtnGfsYHOcGkXN2OIG;74;Add Up My Love
-4Sly8l7P3M4jyItnrCszeB;17;Fear
+4Sly8l7P3M4jyItnrCszeB;16;Fear
 6R2iQXWS7CfK2TPjtlfI0c;47;Trenches
-4DjlcHfLa9dq7tptq2kq9Z;21;Namopi
+4DjlcHfLa9dq7tptq2kq9Z;20;Namopi
 0Q2KybhXEtsbcFaOcZnd66;8;Book 1
 5D3BtuQeL2qBgORJpdosSR;12;Turned on to you - 7'' Version
-2QPdgJfRKfWz43S3aQUTpk;13;answers
-2JiZW02xDHJkoI6LQm9uPR;21;John on the Ceiling
+2QPdgJfRKfWz43S3aQUTpk;12;answers
+2JiZW02xDHJkoI6LQm9uPR;20;John on the Ceiling
 5GGHmGNZYnVSdRERLUSB4w;65;Leaveyourlove
 33fxqVz0XnVAYTyu4HNVWC;11;Sport
 3jhoLy0PX091ZnsIE0cQCL;35;Self Sabotage
@@ -222,7 +222,7 @@ track_id;popularity;track_name
 7sxNMD1pJTmGDx5xftYZZL;17;Close Your Eyes
 3ge4mUDuQFneD2ykjguj3D;50;Angry Cry
 24tiLnZ26wjYX3UiKUmVdK;56;Shoulda Woulda Coulda
-55xDoUMKFhBWi3ZxJBzyt5;13;Bikinis and Trackies
+55xDoUMKFhBWi3ZxJBzyt5;12;Bikinis and Trackies
 1RvreQuZ1kRpuAGkUIZ2V7;33;Save Me
 1uGvxm9aFt0oyUolJt8ooi;58;Heaven In Your Arms
 09b21KxYKNsQegoCCUNXII;34;Drums of Death
@@ -236,14 +236,14 @@ track_id;popularity;track_name
 2FVdd3s90GiXaWpfJlWLC5;36;Crispy Skin
 17ZxFTe5wxNTdQpXiMWwGL;28;The Reaping
 6gAfcLmswaho2aqeKmoFS1;2;Don't Cry
-4x9yoEqReJGOW7q7O15930;48;Nenuphar
+4x9yoEqReJGOW7q7O15930;47;Nenuphar
 5pqWWz46yO1aEWNFLSKnwW;20;Big In The Suburbs
 42hdLpBBTq213TIjvyoSnU;15;Know No Better
 6ajfXivkRaEKfnDWBYnN2D;49;A Martyr Left Alive
-7bumwccn1j5e52UmdYZ7fG;37;Wet & Wild
+7bumwccn1j5e52UmdYZ7fG;36;Wet & Wild
 1K4DhSCptGVbSq30IHTJ69;42;Controlla
 70kzTb35rANBc5TRvX2OH6;56;Big Smile (Pose For Me) [feat. ODUMODUBLVCK]
-7rVC99NBBSpGPEtxv0M93e;4;It Is What It Is
+7rVC99NBBSpGPEtxv0M93e;3;It Is What It Is
 0aK0yLy1dJFig1m1vfv4z2;8;Precious Stones
 2zx3s7ldX0gQa1Z0lGWmb7;10;Wish Defense
 0qlgsdOepF11b42SLxBZ3y;13;Squirm
@@ -253,43 +253,43 @@ track_id;popularity;track_name
 1JqovbqNQa5deYzyNsy7nR;48;Long Gone
 0KvqBJIe46prMUzDXAwQ7O;24;Half Light (Single Version) - Bonus Track
 3vAo3NF0Qox87OLt1fAN5W;0;Winter Hat
-1E7PjlgEcRsGB4oT6SNaYW;37;Keep Pushing
+1E7PjlgEcRsGB4oT6SNaYW;36;Keep Pushing
 1gNb7FnoYGPF6nTVRREjmX;16;MAGDALENA (feat. Martina Camargo)
 6znxc33NeRQHgezZ8Mot83;15;Babe
 7zzjWKUz5xAb8xNoxr5O5w;48;Nostalgic
 3EN3dG3umzscCVexyyTSxw;26;Timepieces (feat. Billy Woods)
 0tll4NgEmf4ySmkYznWr7M;5;Champaign Ill
 6HDAOBavN7nhIDWgJJSAeP;27;CVS on a Walk
-6KNXml89Z37WfzgRcMC47q;12;I See Mountains
-4IBDlle4arVNNHBK7I5ZGE;7;Check Please
+6KNXml89Z37WfzgRcMC47q;13;I See Mountains
+4IBDlle4arVNNHBK7I5ZGE;6;Check Please
 0E3zDQBZ15TkPE2f4OZfMp;19;Stuntman
-3KUj1zMidEyCqJC5EBnWb5;24;Ugly
-1AR1Ujh3hO0xgutdp4vQcM;10;Call Home
-2UoRPtgf3YTbv9DJ1h2ikI;45;Scary Movie
+3KUj1zMidEyCqJC5EBnWb5;23;Ugly
+1AR1Ujh3hO0xgutdp4vQcM;9;Call Home
+2UoRPtgf3YTbv9DJ1h2ikI;44;Scary Movie
 54ltqcipQbEqZz3IhnzyB8;39;Pivot (Feat. Armani White)
 6rXjKaM20UWEjPHBgYPgpY;40;SHUSH
-7EIfvKRhACFzNN9kblYCZ6;6;Humorist
+7EIfvKRhACFzNN9kblYCZ6;5;Humorist
 6lJ0FkOgYaoQ4apMVbQwzM;33;Wake Robin
-3ICOjZhSblK3ytr3csdg4u;16;Penetrator
+3ICOjZhSblK3ytr3csdg4u;15;Penetrator
 4FT34LPn1NfZizeWQ7G6Oz;49;take it offff
 34TDuxdtzyt6U4d61RGs0O;54;Osbatt
-2tN9oaZZPlCcJRnchNBqdf;29;Found
+2tN9oaZZPlCcJRnchNBqdf;28;Found
 22mfPN5ERnKoQ3MAxVSy7C;25;Cobwebs
 2iGF5rgKHNsWVJPyKKZEd8;31;Paper Tigers
 6TzsR37ZfLTEiJbK0rNaBd;57;Unplanned
 7FjRNlmPtWb1ra46t14rUN;60;Perfect Soul
 1lI57v38JV5MQ3RlXi1rgS;20;Nobody Loves You More
 3RrPdmhquZWhdHaU9Ijcql;50;dark place
-1MlxVjYmfpF2tJv8jsCECm;41;Back To Then
+1MlxVjYmfpF2tJv8jsCECm;40;Back To Then
 2xvQEblvw1zud9H6egIIu6;9;not far from home
 5SlzlJtrepHJXofXNslmBB;11;Just Act Like You Know
 7x49HbmHtbfDJb84m49KSl;17;This Land Is Your Land
 1wSzyIk6YisAMGtvbDEsuU;49;Mahashmashana
 3qrTll9OQ9wcejTxPFY0qg;74;The Line (from the series Arcane League of Legends)
 3eyGrobMcziIWlHEZwatHd;42;Rien de sensationnel
-7IxX4pBS4aOTDuYSqHqEpA;6;Another Day
+7IxX4pBS4aOTDuYSqHqEpA;5;Another Day
 4ZqE4DkbeO1JMJ9tLslkVJ;31;Sexy Clown
-7sxP7XJT2ST0bEubmCunFA;28;Pause at You
+7sxP7XJT2ST0bEubmCunFA;27;Pause at You
 3IZt8jkHRwRzJhk9G3TrYF;46;Te Maldigo (From "Queer")
 4S1nRVnWtB7cTPGR1Q07ql;37;Givenchy
 0PPVJqXep26iUfBLvz6LOz;37;choke enough
@@ -297,117 +297,117 @@ track_id;popularity;track_name
 6M1IuZ15hoH1y7o8Q85541;40;choke enough
 3AZiiXjlPqIg6ZU6qo42pE;34;Words Lost Meaning
 3w4QFcf8z9Xyr3PJTDcY4s;51;UN MEILLEUR NOUS
-3IqTZjUckaNyyoO0aKijph;63;Me vs Me
-0VOCrdsydNicYcSTrjkk1f;43;Mental Health
+3IqTZjUckaNyyoO0aKijph;62;Me vs Me
+0VOCrdsydNicYcSTrjkk1f;42;Mental Health
 24k5SFhvgwpnJAwJ8FKGRU;46;Heatwave
 6oPz9YEtrlWTftFzzydhH7;14;Change The Beat
-4I5QRJ0vpMpnzR23Lpm3k9;50;Whiplash
+4I5QRJ0vpMpnzR23Lpm3k9;49;Whiplash
 6MObWhCBlbnaWtYu9SDwZY;11;Prix choc
 5K8awOE1oodBf1EquC3ghG;33;Chill Out
-7JO6qzrdKcydC5rPHhbeXH;35;L'hiver sur tes lèvres
-47LEdH8nMqzwoOzgANPzkW;9;SAND with TayoLoxs
+7JO6qzrdKcydC5rPHhbeXH;34;L'hiver sur tes lèvres
+47LEdH8nMqzwoOzgANPzkW;8;SAND with TayoLoxs
 31ZtB3YufnF9zY7I1tAICk;44;Everything Burns
 6xrlkDXxxXHx7RR7uIMIOr;36;Glass Heart
 4Aw6jQX2IEsVBEUbuFEygx;46;Forever Aligned
 6jmB5GYKYm644fEmqKAauB;14;ICEBULLETTHEORY
-4RPgbrUEf2PxdGbVXhmUtS;32;Chaos
+4RPgbrUEf2PxdGbVXhmUtS;31;Chaos
 0bHmHNgoovJqwIeEQDQHr0;31;If U Leave Me
-2MTSZBTZ5Gvj7ThzOvMW8A;8;Spirit
+2MTSZBTZ5Gvj7ThzOvMW8A;7;Spirit
 2FPcTfECQrZviBAarAHv1f;53;Peace Song
-5Wzc4Qh6nBoWZz2TjRIHYG;70;2s n 3s
+5Wzc4Qh6nBoWZz2TjRIHYG;69;2s n 3s
 6PUyxzcUr76hYY8zYySw1n;4;No Light Left To Bear
 2uhZ1Dzokn0bx7vmFRipCM;28;Touching Heaven
-7Hwt6RJQ30Cm0JmOOZzCBg;14;Feel Anything
+7Hwt6RJQ30Cm0JmOOZzCBg;13;Feel Anything
 0Yty54Ha2a15998kNGxksZ;49;Night Or Day
 43jg7CNRhPRHYgpXTowd3O;37;UPWARDS
 4zHyBKHBksXFu7xhYNNRCE;27;Pride Trials
 1juNl4l453G8WFCN27IA8K;45;H.B.W
-6gxKssC6WUDcCcNrxhOyhb;17;Chainsaw Saviour
-6afGaR18TADZIVfNhcsNe4;52;nerv
+6gxKssC6WUDcCcNrxhOyhb;16;Chainsaw Saviour
+6afGaR18TADZIVfNhcsNe4;51;nerv
 2j8n2hpZlEMvtrjJ7n0ZIy;73;Bad Girl (feat. Asake)
 1nZE8JlX06YgVqbpBZytwh;39;Love
 4afrXoJM8GTpASPVzBGUYK;49;What If I Burn
-1Es7AUAhQvapIcoh3qMKDL;76;Timeless (feat. Playboi Carti)
+1Es7AUAhQvapIcoh3qMKDL;75;Timeless (feat. Playboi Carti)
 7LPbyMRdlafzBDgn1bfTND;34;Talk Real
-1Uxr0oBXAZRuLkAz27TkLc;63;Letter To Myself
-6larLvAkblkcebrZi7JfzY;10;A Coffin For Christmas
+1Uxr0oBXAZRuLkAz27TkLc;62;Letter To Myself
+6larLvAkblkcebrZi7JfzY;9;A Coffin For Christmas
 2oHVMy3S1xOLmyXummZDaJ;53;Small Changes
 0WYip0MXpOGYvNH2h7q8ng;57;For Sale Sign (feat. Lizzy McAlpine)
 0qpakVB2d3MDiqZd8RUaQy;51;need dat boy
-4gE1HeO2U1UmnnF6angfva;49;Contre-cœur
+4gE1HeO2U1UmnnF6angfva;48;Contre-cœur
 02CrqOYzrJR8fYOffhvRZZ;77;number one girl
 5vQFvDQyvV0twKyPHK0W31;15;My Face
 66RsC3VzFhBPwMtjVXvle0;41;Out Of Rhythm
 0ZxLLAbGaOKdkOQ5cK5Fwr;34;2468
-7MQBFD3MuBwQQPRM1Hc6oZ;44;Searching for Tomorrow
+7MQBFD3MuBwQQPRM1Hc6oZ;43;Searching for Tomorrow
 0nj9Bq5sHDiTxSHunhgkFb;90;squabble up
 69pymikK0E9ncbojWaDaOg;47;Oscar Winning Tears.
 5dgCzLnWEW5d9VUVNoqvP2;12;Tyranny
 1fWUjjfJ23k1GNnQ57W8wb;47;Maze of Fools
-1BB29yzN0aKzyxiNFMveuA;19;ZOOM
+1BB29yzN0aKzyxiNFMveuA;18;ZOOM
 1aTueTuq6U5sjE26ynmw55;27;LIFE 2 REAL
 7JKGyMt8qkTaUHXFpxgjY2;68;Après Minuit (feat. Tiakola)
 1Pd8izXqEz4uOfGq2LfgH8;31;Satellites
-6WcsZsPAs9r1ELQtoYAxX3;60;Alpha Omega
-1VXwPZ5DFNzjmYT4THgi0J;25;Amsterdam
+6WcsZsPAs9r1ELQtoYAxX3;59;Alpha Omega
+1VXwPZ5DFNzjmYT4THgi0J;24;Amsterdam
 7r28IL9H6DaIMqB5OVmR3K;2;Two of a Kind
 7zneXSM1vpUEWs62kV7t13;14;Still Sickness
-1cIZ4cjqppvYgedZQEZQgP;27;Vital Signs
+1cIZ4cjqppvYgedZQEZQgP;26;Vital Signs
 2xcD5MYEsd9XnXEm4bDerP;0;Son of Star
 3Ip1IDLv288gDeHm85dzJG;42;Pure Love
 5cXaZHwN0AdOtxaJsPIckZ;39;Bop Bop Bleed Em
 6zVCLnZt7nHKlQbowPSXdf;51;MIA (feat. Chlöe)
 7y01dBaYJqOP4uiGMMadnf;41;Makes you wonder
-3Jk6Oaj8m8tCBHyhLKQSq3;38;Digital Gravestone
-2xUZROCCn0xZY6jJXTuUwe;34;bear walk
-1SCWdCsPcC5UWJ0jGpWjFm;58;Wild Long Lie
+3Jk6Oaj8m8tCBHyhLKQSq3;37;Digital Gravestone
+2xUZROCCn0xZY6jJXTuUwe;33;bear walk
+1SCWdCsPcC5UWJ0jGpWjFm;57;Wild Long Lie
 4OonVlIRCeWhBoNxogkyCf;31;Hollywood Babylon
 7cKxS8BuAl0bteeHc1c8V7;28;Narshtie / Interlude deux
 6nUPcVDYjCrnNMaXAJ9eO3;56;Drinking Age
-67siqMtQTGPpJZI4Dz8OpM;71;not the same
-6Y9PvmjrcNeimHAFFaTl1o;14;Orchid Street
-0jh4rH6foYD9HIUgWIax5W;48;hood grammy
+67siqMtQTGPpJZI4Dz8OpM;70;not the same
+6Y9PvmjrcNeimHAFFaTl1o;13;Orchid Street
+0jh4rH6foYD9HIUgWIax5W;47;hood grammy
 20Yhj825zKN5hygaYgCX1s;19;Bodys Chorus
 08qTsatbTPrO7GPlaMAKj3;7;The Invisibles
 5blkt8jZzYUPcmSKPJckbt;18;6 Foot Drop
 2phcwm2UXndB1QpBUdWVy3;35;Fine
 3gF64oRdu5O5m5Eucx4JY1;40;YEAR OF THE RAT
-0woTcSd92pBcKgcZwcdeHA;38;One Drink Away
+0woTcSd92pBcKgcZwcdeHA;37;One Drink Away
 4xquThQfz9gaJJlaMs44kt;10;Oracle
 4zYeji5OBFpZexwyaCqNk3;27;MOTION
-0QHZomqI7eXhkkljkXMpEr;44;Hard (feat. Hanni El Khatib)
+0QHZomqI7eXhkkljkXMpEr;43;Hard (feat. Hanni El Khatib)
 4REaSApqr94gk8DazbDTwr;16;NADIYA.
 2e9iFRN92N8t9FGBj0dhV8;20;High On Loving You (Talk)
-5XHMQUxTxaLJ3mNSGu2BYk;25;Impatient Zero - Edit
-7oYJ8amy0krzfLw7MVoPl8;26;Fall Away
+5XHMQUxTxaLJ3mNSGu2BYk;24;Impatient Zero - Edit
+7oYJ8amy0krzfLw7MVoPl8;27;Fall Away
 3j5tvMpiIkTRzb3Iangb2o;32;Mantra
 69I714ZpuB5N1OmWJwADlP;0;LFW (feat. David Armada)
 7IQXJXGNuzpMi0tDQYTpMB;8;Recursion
-5g06ZUUrU0bf1mwEHBTq1b;27;Hooh Beat
-3oChREg9UaVQ0LbhM3n1EZ;8;I Want U To Ghost
+5g06ZUUrU0bf1mwEHBTq1b;26;Hooh Beat
+3oChREg9UaVQ0LbhM3n1EZ;7;I Want U To Ghost
 3UURgDYcbOzELx4jVyKbwA;51;Leash (Babygirl Original Soundtrack)
 1OUhsoiwr4ecuN9CU9bOJz;59;Chanel
 1iCLFD5JQ8YOONoYR0LuPR;22;Inside Out
-1brJfz0AAt0N9frwnN4z2y;48;Fig Tree
+1brJfz0AAt0N9frwnN4z2y;47;Fig Tree
 1k9Eb95llEWewWSLjqwYsD;29;Head & Spine
 5zQUndaoBtXJ10SsApqtvw;79;Strategy (feat. Megan Thee Stallion)
 5o8owuQvK4fjGv6QFRZTvN;51;Sugar Water Cyanide
 5qZNn0eOGIMATKu6iDpXHg;45;Green Serpent
-3zOgFY5kpQ6p2cwPIquZks;73;EL CLúB
+3zOgFY5kpQ6p2cwPIquZks;72;EL CLúB
 4eDednnc8XIGpOmRNcho66;65;Last Festival
 40sqzhCKatG6DAWjfdFbzf;25;Pressure
 2mawheCRpyRa0fSg5EgFde;26;Polaroid
-3kaQcJ815YOOUH2hk9EWul;37;The Guillotine
-2rMzttDTjyX8vikuh7cwpv;5;Demonstrations
+3kaQcJ815YOOUH2hk9EWul;36;The Guillotine
+2rMzttDTjyX8vikuh7cwpv;6;Demonstrations
 09ixv43eBw8HxCugfj9XAK;1;Pure Luv
 0KYSOh2TEXrukuS00PfCB3;14;Pony
 7lkhvJdafNLfWqAew9raUm;18;CUT YOU OFF (feat. Josh Franceschi)
 5Ea9saMuvY5Q4CIus3R2XN;25;Depressed Beyond Tablets
 4Nb4LwRBHT8Ej3oeoynYRx;26;Pay the Reaper
-34oEV6mTMcWjWecSigl12M;28;Lotus Eater
-6UPiTNzNmUFE59YkkyCs9n;76;Peggy
+34oEV6mTMcWjWecSigl12M;27;Lotus Eater
+6UPiTNzNmUFE59YkkyCs9n;75;Peggy
 6TEbhLBjO3lVtAePplieM4;13;kisskisskisskisskiss
-75YjZxqUy9GN9bdk5Kng4H;15;dead2me
+75YjZxqUy9GN9bdk5Kng4H;14;dead2me
 3PwNJhkvRAbRJfTq3alFIP;50;Dlow Curry
 5t073YwOI4KDj84TawOepE;27;Famous girl
 7fYWIR34PZbo9RGpjLoAMH;33;No Other Mind
@@ -415,36 +415,36 @@ track_id;popularity;track_name
 0CeYPT3xRjwAoQtGtvD8i3;50;Heart Emoji
 2JekaBnRtjGOjyHWVBNbcZ;36;Take Me
 1UHS8Rf6h5Ar3CDWRd3wjF;89;Bed Chem
-7f9LMwToY57zJT0thCQigs;12;Yay
+7f9LMwToY57zJT0thCQigs;11;Yay
 20Its0iJ6nvKoKw3cY4ydD;64;DE MARAVISHA
 4JapM9VeJCIhcH5w6kiKB5;35;SHADOWREALM (ft. Zelooperz)
 5qAC1QfJDtueo5WXfeCvMF;36;Magic Powers
 7gf3NrpKPwPqgynXykJAhJ;16;Dangerous (feat. Chill)
 3HILhon2SyzD4FQllRrh8K;11;Faceless Matter
 7xCJJXls99m1k3WQmgg2UD;31;Not The President
-2mxA7nJ19UTxVFaDPHrTFw;23;(I Don't Wanna Be) Just A Memory
+2mxA7nJ19UTxVFaDPHrTFw;22;(I Don't Wanna Be) Just A Memory
 6j5euOBeeD51c7MoPrVosk;12;Spurs
 15QlS43SfArOTpjIfbD8EI;14;Get Out My Mind
 1tQ8AXYeWWvVIj1IeUx7ve;30;This Side of the Island
-2IgbVGleKzMBPwEZ9yW8I1;26;Ultimate Penalty
-02DPSOj7dXlKBbKZ5BTSJj;53;Sugar in the Tank
+2IgbVGleKzMBPwEZ9yW8I1;25;Ultimate Penalty
+02DPSOj7dXlKBbKZ5BTSJj;52;Sugar in the Tank
 4yKQw1LShMU9o5BuuadqWp;25;playing house
-3zF0IiIpjZsSti2N1apvOB;35;Chemicals
-1fHVz3ffi5k4kASyAITzpN;43;Look Into My Eyes
+3zF0IiIpjZsSti2N1apvOB;34;Chemicals
+1fHVz3ffi5k4kASyAITzpN;42;Look Into My Eyes
 0SYNPBvXt0bDUlcFpftz8h;46;Open Light
 7JuteByUCKIKISAqXKIuUz;40;GIMME GIMME
-0KUsKZkRFZYkxUYgtvUBck;44;I Hate Myself
+0KUsKZkRFZYkxUYgtvUBck;43;I Hate Myself
 6gH1UKDAhWS6qXzKXB4wuY;75;Hello Miss Johnson
-1phKryvBTIH9dSp9Gv51Zz;31;In The Grey
+1phKryvBTIH9dSp9Gv51Zz;30;In The Grey
 4nbk4dosWr4zRTs0nzcYcP;17;Can You Feel It?
 7ETwhrhte93aCARr2y8crj;17;masquerade
-3KxxMqiC2V3CXZfIlHcFbB;7;Razors of Occam
-7C8HmqWbVE3Q3z99maNUk8;62;Sulfur
+3KxxMqiC2V3CXZfIlHcFbB;6;Razors of Occam
+7C8HmqWbVE3Q3z99maNUk8;61;Sulfur
 1qY079hdOz36cemGe6Q0oj;3;Tabby Cat
 0ZB3qJFu2kycpD1BskybRZ;15;No Fear In My Heart
 6PDygXdsETLyRlyVAp656O;47;Numb To What Is Real
 0Jr21WWAdomoLGmDbds9v2;32;Sandcastle Molds
-1szLeo8Xe0ORunL6DTW3Pu;56;Aquatic
+1szLeo8Xe0ORunL6DTW3Pu;55;Aquatic
 15lWMuebOWAVJCUqorXKi1;15;Zhikarta
 6ESav5wo8X785sX1NyH9bc;28;SNO
 10jTARlM2Xo0Gz8FVO0F6H;2;4L
@@ -463,13 +463,13 @@ track_id;popularity;track_name
 7AJxRTf9Dz0dv0nc0g3NTf;21;Certain Uncertainty
 00cfIJnoW78xtxUM83TYlV;36;Hunt You Down
 1JMKlrFJ28qptDhPhk2h3o;63;2005
-2uQW9N6ObJYPV9HKgl1AAH;57;F*Me
+2uQW9N6ObJYPV9HKgl1AAH;56;F*Me
 3VVddUsXWLhortUvZLnf0j;28;WHOUWITHHO+
 5K8BxVTTf8TYWWA8roPuSq;63;W1LL U L13?
 2VWVM1DrUhAAXfqAz524JU;32;Ponytail
 39D5yqXOXYFjpctgbxJuHe;3;PillowFight
-5ciJ9HpHpBiSVYvlPtsTlS;7;Soft Spot - 955 remix
-4UXuylq8uUBOIjGCnXba5y;22;Jump
+5ciJ9HpHpBiSVYvlPtsTlS;6;Soft Spot - 955 remix
+4UXuylq8uUBOIjGCnXba5y;21;Jump
 2MDqwQHCP4wELHzWn9DntV;27;Chopstick
 4QdrntAYyH7fOm41BjgxmU;38;A Choice To Survive
 3WLR35YgOztXURTTfzgSQL;42;Vibes
@@ -480,99 +480,99 @@ track_id;popularity;track_name
 0FS9uLNz2FbJY2TRBaPr4r;15;DID SANTA COME
 2gtg4jTNUqC4akFqWZZXcV;70;Bundle By Bundle
 0rMUIEJIdeo9I3hPLSHWJS;63;Merry Go Round
-1H3BKRHPHblRSbEm5HSPfU;58;RIO FREE
-1xLLP5pWq1XELc9PSMteGM;29;\ LUCY!!!!!! /
+1H3BKRHPHblRSbEm5HSPfU;57;RIO FREE
+1xLLP5pWq1XELc9PSMteGM;28;\ LUCY!!!!!! /
 4t4yg2KLRIJtM4dzU277LW;42;Vendredi
-22W7cxdI8GqHLZflKp0HQp;22;Body Moves
+22W7cxdI8GqHLZflKp0HQp;21;Body Moves
 4aP39ZfU094VjJf8UEMcnW;36;Rain
 645wlermtuLxjX51odM8HY;43;Evangelion
 3zIqekohxiaS4HF79pxHzt;59;Hello, Hi
-6zTuzIwC6fLeDm35FFMJVv;24;start all over
-1mW9XrT9XdnsDPuthSgusZ;52;JRJRJR
+6zTuzIwC6fLeDm35FFMJVv;23;start all over
+1mW9XrT9XdnsDPuthSgusZ;51;JRJRJR
 76LZ3g7Kc8o9g2qh8fYPvv;38;This Time Around
-1SqdwayfShRMtXk5YcVPiP;26;Death Spells
+1SqdwayfShRMtXk5YcVPiP;25;Death Spells
 2Lw2oix2hvPOMwgyDObq66;52;Party People
 3aSWXU6owkZeVhh94XxEWO;88;30 For 30 (with Kendrick Lamar)
 1OSOHTBFkIkhUtxhOyUksc;65;PIToRRO DE COCO
-0mt0tRbBHOoWDFH60iFFH1;31;Windows
+0mt0tRbBHOoWDFH60iFFH1;30;Windows
 6IBD81r5jQxyUD40RPzpQF;52;Everyday
-0aM3JqPACJTpIoyOALODiZ;43;Shandy in the Graveyard
+0aM3JqPACJTpIoyOALODiZ;42;Shandy in the Graveyard
 6qEhqLzsiYzipyTdOR0YKe;41;Taking Inventory Of A Frozen Lake
 1pMeprs7u5KBFvyqS4b9Sj;22;EuroMillions
-7ggzbRpEY7hHkBP7z9Oxvo;27;Tendrils
-03q42wfmoXx8bYHwEuzBGh;42;Pink Dreads
+7ggzbRpEY7hHkBP7z9Oxvo;26;Tendrils
+03q42wfmoXx8bYHwEuzBGh;41;Pink Dreads
 5GZ0currErGJhl0G0yxgRg;66;Dum, Dumb, and Dumber (with Young Thug & Future)
 21voEC3YgeU5SgNDiwMdt1;7;True Music
 1g7pFO1WtclKCuIQiS8sNM;78;Crybaby
 2EJu0i7yLx7wfdPQmt97FQ;19;Colorblind (Player Side) [feat. Smoke Chapo]
 1hnCedLOQd3hGlV0RbDBUS;20;SUSPECTS
 34sccCOoMvKmD6k67TsTbB;37;Thor
-4I67eSiBu1uekf8yYnJi7K;51;Someone Who Can
-2qcXDpEzi89CMgxPXAiiI8;55;Blackhole
+4I67eSiBu1uekf8yYnJi7K;50;Someone Who Can
+2qcXDpEzi89CMgxPXAiiI8;54;Blackhole
 6rTgjvKEp1SABOBebNsLkm;41;take me by the hand
 2SLKZwtulCfTNOARLGhuug;14;Set The Pace
 0TesiDBRH4ZOatQf4OMuHA;42;Afraid
-0Awd63hxTujXqf6TS87JAa;8;To the Core
+0Awd63hxTujXqf6TS87JAa;7;To the Core
 4p1RfrvGcI1KhXL9hWKELN;31;Barracuda
 5CZVAq0vKiE7iVeJbjLl67;43;Nothing Tastes As Good As It Feels
-7GEGSpjoraxIjBixahlNGq;41;Mau Moko
+7GEGSpjoraxIjBixahlNGq;40;Mau Moko
 5N66ReNy94acDJP6CIcgBG;32;With u
 0AhGvGEGReufQjUf1F63H7;30;Extraordinary Wings
-1ASUVRxADu66bSIKV9XN9r;53;Bovine Excision
-7KNEAvPkNwQu4QBB61ndq8;28;Deadlines
+1ASUVRxADu66bSIKV9XN9r;52;Bovine Excision
+7KNEAvPkNwQu4QBB61ndq8;27;Deadlines
 3KKgMnh9RhDqiUivWyhoJA;25;Madison
 54k6mnmbMRJ25Z2AY4C32F;26;Infinity Peaking
 68XQUzPx5J3irT3WzUpJRp;48;LIE DOWN..
-64tQHXWvXt6K67DE5HNvUi;12;Vauxhall
+64tQHXWvXt6K67DE5HNvUi;11;Vauxhall
 2WGOTUuDEW2NxuJVFWvmcB;57;Everything Changes (But I Won't)
-5emD8K39MmotlCLOx9qzCH;76;GBP (feat. 21 Savage)
+5emD8K39MmotlCLOx9qzCH;75;GBP (feat. 21 Savage)
 1D4wP2P16amoaTKWLh5y5H;32;Mourning Song
 0YODMi7BpALFBJFGeydCDN;21;Lifelike
 7iPMmMz3b54nslPvGmE4ou;57;Solace In Silence
-1QlHr6xzSARBWQ6QvTb7TW;42;An Artist Is An Artist
-5JDXTByw2pw2pK3Kt9hUPu;4;Scorched Hinds
+1QlHr6xzSARBWQ6QvTb7TW;41;An Artist Is An Artist
+5JDXTByw2pw2pK3Kt9hUPu;3;Scorched Hinds
 6OqZgmzppG0NVx3nPwpH6W;29;Wants Needs
-3W7KG7GdgzeHVFnEy7loAC;21;Castle
+3W7KG7GdgzeHVFnEy7loAC;20;Castle
 0fZUrXDSiZAO1XT9cVjP6T;49;QQQQ
-3IeraaelNVdgrB2gVQ8dzq;43;Have Heaven
+3IeraaelNVdgrB2gVQ8dzq;42;Have Heaven
 143V5XYaTVxo4Ydfa7r9Ir;31;Coma
 3OOURqRuGD9ZjYfXbDlHol;9;Hell Is Gonna Happen
-7jwsAVLwR4SnVKDf931TOt;29;Will My Love
-53OegCh40rWw0D9grp5oEo;31;Demolition
+7jwsAVLwR4SnVKDf931TOt;28;Will My Love
+53OegCh40rWw0D9grp5oEo;30;Demolition
 7HlHHdXN8RJMdAA2Ujbwju;41;Dial Tones X (feat. Holding Absence)
-2sbaGC1NXMbkU2VbMAj7tb;31;The Prize
+2sbaGC1NXMbkU2VbMAj7tb;30;The Prize
 5GNdabkOhzraF3f3DZm8pR;26;Volume Control
-04K5qfFqfxJF5yh3xaUYZS;40;Cradle The Pain
-2PhkNQP93tocN4XUt0JRa0;26;One More Reason
-7GlExXS4otYR7sntsPMcMd;41;Portrait of My Heart
+04K5qfFqfxJF5yh3xaUYZS;39;Cradle The Pain
+2PhkNQP93tocN4XUt0JRa0;25;One More Reason
+7GlExXS4otYR7sntsPMcMd;40;Portrait of My Heart
 3jZTAWOSNWaWauQ03WX9da;29;Single File Line
-09FLigvepMuPrheurqSp2G;32;I Got Exactly What I Wanted
-1lUeZctPxbFJWysc8w9aha;44;Bologna
-5qKo0YSaAkYe6kgYz8Ac0Y;58;Ankles
+09FLigvepMuPrheurqSp2G;31;I Got Exactly What I Wanted
+1lUeZctPxbFJWysc8w9aha;43;Bologna
+5qKo0YSaAkYe6kgYz8Ac0Y;57;Ankles
 21uORftqCAkZWbqLzjpnPy;38;De Guerre
-0SEVmelgCBzx3S4CU6YYlD;42;Ankles
+0SEVmelgCBzx3S4CU6YYlD;41;Ankles
 0eOT4T0gy2vqOZsMI2FKQS;51;Heroes - Spotify Singles
-0DtQanUh4WdXj7r7gpxTR4;33;Hell & Back - feat. Jaren Johnston
+0DtQanUh4WdXj7r7gpxTR4;32;Hell & Back - feat. Jaren Johnston
 5FyuAWzujpuPmyweWIGPH5;40;late to the party
 5CjmMIJJ0tvGaCmzRqdZKd;31;Brinna ut
 75mYrTZjW3xxOZg0JRFgAr;6;Fiends Don’t Lose
-1hBBnrAp6AcjSJteObP0dE;23;Narcissist
-1pfw03FOjkDE3GcjlsNIHA;10;The Old Guard Is Dead
+1hBBnrAp6AcjSJteObP0dE;22;Narcissist
+1pfw03FOjkDE3GcjlsNIHA;9;The Old Guard Is Dead
 27phUMXA53CLokQgatsJaz;51;Too Many Women (feat. kwn)
-23K5wTomiNskKrWqDOwchX;32;Camel8strike
+23K5wTomiNskKrWqDOwchX;31;Camel8strike
 7IpWpWnpsFPqZwc1ADfEwI;52;T&A
 3El9UdrncPt4ISzlv7v8ON;51;It's a Mirror
-5cH4aDc11Wa8aJgk0zWhRM;3;Teeth to Sky
+5cH4aDc11Wa8aJgk0zWhRM;2;Teeth to Sky
 0Hp2r3xb1Th9ZEeuQGOGiS;44;what3ver
-0WyyWao1PN1huUWHb1Sz0h;49;Glass Shatters - New Mix
+0WyyWao1PN1huUWHb1Sz0h;48;Glass Shatters - New Mix
 37SR66nUcBynhOqSmZx3Xt;60;Selena
 789pOMLJWqv4py4WSXbeTC;39;Her World (feat. Jorja Smith)
-4SqWJA9Yq8PGqhaXcLlENN;21;Pill
+4SqWJA9Yq8PGqhaXcLlENN;20;Pill
 41wgHYaNAx7QAEaUvmpUBb;42;Happy People
-3T9TQAYyDUgIlnnOHRlWWm;37;Switch Over
+3T9TQAYyDUgIlnnOHRlWWm;36;Switch Over
 0a7Ox96q9srH7b0IuyEDX8;14;Nightmare Muscle
-1znGDCclMTeWASFVF8tj2N;42;Run Rabbit
-59IQKPXEbdOdRxx889fBBO;45;LOVE 2
+1znGDCclMTeWASFVF8tj2N;41;Run Rabbit
+59IQKPXEbdOdRxx889fBBO;44;LOVE 2
 0qdPpfbrgdBs6ie9bTtQ1d;76;REBEL HEART
 3KtbuP205Bjvseg2oSIIdp;51;I'm Not Dying To Be Here
 0tz35TsCwA94l9b1KvTWVq;63;Dandelion
@@ -580,22 +580,22 @@ track_id;popularity;track_name
 66JIwn15D6suNJDf4KAkKI;62;Mama Said
 1JkpySdM4EIKzcYbOBkIXr;33;SLOW DANCE IN A GAY BAR
 23yBE46dnIKFrTD4Tz4Q8s;48;Striptease
-2zOmS55knKWSgScYPTNmGQ;88;Sports car
-2MbPhDgeXVipowltFneRH2;63;HER
+2zOmS55knKWSgScYPTNmGQ;87;Sports car
+2MbPhDgeXVipowltFneRH2;62;HER
 3R7IeUfRLIGzNz4fSCZkeA;26;In Love Again
-23bXqg4y1R7VRzpY1x7xNX;46;One Way Ticket
+23bXqg4y1R7VRzpY1x7xNX;45;One Way Ticket
 5dUOWlWWYdAgqeXwTgbaKt;62;21st Century Cool Girl
 6xSUqBXmKCh9DdZGw97dHo;50;take it slow
-5rrwj9g1c4kwnPSnsXP7g3;67;Arm's Length
+5rrwj9g1c4kwnPSnsXP7g3;66;Arm's Length
 0bTtRLTzNMlAT6m5ia1f7M;10;TomFoolery
-78wZn0wdzhj3imUleYWd5M;60;True Religion
-1MlGcV91pwGj59IVAhuFT7;48;Ocean Steppin'
-7q5j5GjFRsu5C8udZqjrKO;29;Wisteria
+78wZn0wdzhj3imUleYWd5M;59;True Religion
+1MlGcV91pwGj59IVAhuFT7;47;Ocean Steppin'
+7q5j5GjFRsu5C8udZqjrKO;28;Wisteria
 2Zej1ZTJJNDcRj8e8iWUUo;72;Ten (feat. Skepta)
-2hRjw7jLXXzTUx0IwTudik;33;Blasé
+2hRjw7jLXXzTUx0IwTudik;32;Blasé
 1KwIDHEK3CYbHPJUTMxxNu;65;Do You Have A Destination?
 6jmobiz0KPfI8xdyevPS1h;44;Recognise
-6e5Cw6TEhIO5XVEAGlidCa;27;Evenfall
+6e5Cw6TEhIO5XVEAGlidCa;26;Evenfall
 2zF0lBxzjQFYs0jN13D5f0;67;BAYAMÓN
 374paA6T20EohUYyClwIqN;16;KNOW ME
 4AHeemjLSF5e1UbGRGCUO4;44;take me by the hand
@@ -603,16 +603,16 @@ track_id;popularity;track_name
 2oHlXSi9QNnyRbcY9F9BsP;29;Nekk
 0fIvB3uEk6K6T9JACYD66O;34;After You
 2LIgTJnCCAtGbuPn0qN7Ny;66;POOKIE’S REQUIEM (feat. Summer Walker) - hehe look y'all I made it longer
-1xTkktNgpQzWQerIIJ8QuP;41;take me by the hand (feat. Bladee)
+1xTkktNgpQzWQerIIJ8QuP;40;take me by the hand (feat. Bladee)
 19klnHuCJeI8cFAdofKIlk;41;NOT THE ONE
-4IPmlmJ9V83jBtleFmDyJv;11;See You Down the Highway
-4Ce8dTj67I9SbiSf7QPno2;44;Not Hell, Not Heaven
-1pUt8sRBMf9wZ8VBBXrDL3;26;!OK!
+4IPmlmJ9V83jBtleFmDyJv;10;See You Down the Highway
+4Ce8dTj67I9SbiSf7QPno2;43;Not Hell, Not Heaven
+1pUt8sRBMf9wZ8VBBXrDL3;25;!OK!
 7hyZsVYaIVyhxuIL73yIAb;54;BUTTERFLY EFFECT
 7rUo3qpSvGob97U68qb0M6;50;おいしいサバイバー
 0exagy6KgTwlFakT27iWmC;36;Certified
-27qG35pb4kXhdKqdlhT1Vl;29;Towards Horses
-2nHZuHgtv8HqN6lWWSlvdW;47;Sanctuary
+27qG35pb4kXhdKqdlhT1Vl;28;Towards Horses
+2nHZuHgtv8HqN6lWWSlvdW;46;Sanctuary
 2Tay3lnYUTYlClh0KFNPcj;52;Inner Wave
 7bFXjldFpiHnXqM38oSi50;51;Bad Choices
 2d733TfrpuuTj2wYBpb5RU;34;Love Will Probably Kill Me Before Cigarettes And Wine
@@ -623,53 +623,53 @@ track_id;popularity;track_name
 02cnKY1iCTP2qp2VRYPJ00;39;magic
 1HaNDMAJjsEinenk205n4P;27;Kermit & Gyro
 7nqOy9W1AcgvPB1Ww3N44S;43;Plastique
-2ugt0UqL0wBkwZySJfddEJ;21;Troubadour Moon
-71X2JVYR4k6iZvdDByQL6w;37;Duél
+2ugt0UqL0wBkwZySJfddEJ;20;Troubadour Moon
+71X2JVYR4k6iZvdDByQL6w;36;Duél
 5kokKFnPJJ45oW8tzjqFR8;29;Viens Danser
 43caU3kDt59eaI8MiKtaMF;18;In Heretic Blood Christened
-5Ow6O5uZGEiCcaYi980V3N;52;REACHING FOR THE SKY
+5Ow6O5uZGEiCcaYi980V3N;51;REACHING FOR THE SKY
 3HgNP8qTCHld77Sp6s6WJd;53;The Shit Ov God
 2oJwPMsHAMmsfpPFWEDrpP;11;Funeral Pyre
 4VruElIXifs4MixNrCd0uB;54;In Love With A Memory
 7yOV3TWqCHTVNJIpaxVCbm;56;Time
 0Se6mgNePguteLSjreJow8;50;desire
 41erfU2sWv6sOB4w4ePErr;38;For A While
-5HJ9vyLx0HbezfxzKQkEDR;56;Silver Swarm
-2P6YMsU9jt22CXfizfudi3;82;Love Hangover (feat. Dominic Fike)
-0g6olXNFO0lM3QVzjXDiS3;31;When It Betrays (feat. Colin Young)
+5HJ9vyLx0HbezfxzKQkEDR;55;Silver Swarm
+2P6YMsU9jt22CXfizfudi3;81;Love Hangover (feat. Dominic Fike)
+0g6olXNFO0lM3QVzjXDiS3;30;When It Betrays (feat. Colin Young)
 6nTpkrt5jhJFJzao1Figes;41;Trembling Level
 0TXezdBZlkwhAhmrYIBvxv;35;Angel
 62Z5rlfm5y3VU8Q3QXceLT;60;**GOLIATH**
 1RSEUx1pkaiL7is1obW5v7;28;Vacant
 3pLhJF9bSgBMDbBphod6tB;32;Chasing Thrills
-6DgySa06E3w4dDTyvurngi;22;Every Night's Alright For Fighting
+6DgySa06E3w4dDTyvurngi;21;Every Night's Alright For Fighting
 4OMRT2wSbKKZHRQjuJmV0q;54;materiaL hor$e
-4NplbKZO0lLEZ3obzxWBpt;47;Magnolia
+4NplbKZO0lLEZ3obzxWBpt;46;Magnolia
 4OQ3XifVIqIm5zNwlflXTc;30;Hit the Brakes
 4W5xQv7WvaqpeFeg1guYQF;24;Kill
-0hCogcnEGBgb0AIh6v1kxL;13;Lafayette
-4d3a5WyZhMsqojMU0MHJ3k;41;Immortals
+0hCogcnEGBgb0AIh6v1kxL;12;Lafayette
+4d3a5WyZhMsqojMU0MHJ3k;40;Immortals
 3leEuA0pLARgAtq0UZSVuO;43;all tied up
 1ql85BPlY53nyhSaktas59;31;SHOW AND TELL
 7gR5CpDbUBfOs75WDcGZof;38;Champagne Taste
 1P9AOBEfNAfKsYAmN5nP6h;44;pop
 0vRl8ZLsrfI38qAynLkqC1;22;Metro
-7ruMeQQkscgQGCtDG5XNIL;25;Wish I Had a Friend
+7ruMeQQkscgQGCtDG5XNIL;24;Wish I Had a Friend
 6YkhFMoq5oAFFkShLhkuOx;52;TEKTIME
-3xlNhQWwb0WS3w6P3VJpJF;30;SURVIVAL AIN'T TAUGHT
+3xlNhQWwb0WS3w6P3VJpJF;29;SURVIVAL AIN'T TAUGHT
 5Qc0f2pkumcKVzyLrvKEky;30;Crashing Parties
 5P36hJVByPV5mNYUYpAQfY;25;Dehydrated
 3yDi4w5cuQQEpQXrozMW2B;78;Blue Jean Baby
-0g1E4Q6653qeAegOEL5T1B;52;PROTECT THE CROSS
+0g1E4Q6653qeAegOEL5T1B;51;PROTECT THE CROSS
 63JgXc0KFuJ0L56E0gjqX8;43;Drop
 0yHB5eEVelMgq6sKR9zR57;41;scene before the kiss xoxo
 7prcfanTLk3DCeER51hqd3;50;Can't Get Right
-34ZmfrVwRAgTFSgMSmifbD;42;Wanna Start A Band?
-68o1mDkJzpvTshz9xrfduC;73;Wonderwall - Spotify Singles
-7CMBefQcdkwbUcnjljG2aa;20;Rabbitbrush 2
+34ZmfrVwRAgTFSgMSmifbD;41;Wanna Start A Band?
+68o1mDkJzpvTshz9xrfduC;72;Wonderwall - Spotify Singles
+7CMBefQcdkwbUcnjljG2aa;19;Rabbitbrush 2
 4TPeK1K6tgwrnI3HjPSdUX;41;Cherry
-5MuA3JCf2PDUHrvRjKsr4m;24;Possessed To Die
-7jaC29AS3PijtSBOaieFQa;22;Hidden
+5MuA3JCf2PDUHrvRjKsr4m;23;Possessed To Die
+7jaC29AS3PijtSBOaieFQa;21;Hidden
 4gWn64s7xadPCaqATrDCKO;20;'Til Morning Light
 5F9T5JsuTugogBqM1rHCvG;39;Too Far Gone
 5NnWavPRg3kHGSsFd18We9;46;look what you're doing to me
@@ -678,50 +678,50 @@ track_id;popularity;track_name
 73ExiZGfM6v3atyTPmiOzH;57;GIRLS!
 1AOYdCRDBYP0WgLA0iNspl;32;People Of Substance
 4B6R66mMYG1Yn3p2r8cGKx;32;Benjamin B
-1M0UHcttHe60N8fe72V7jD;56;I Got The Fye
-10twEEpq8Q4BIEXJb0xulD;52;I Want You (Fever)
-1bzEg4DkUQOhXDFn89Fex7;51;Tadka
-3U3hFkMr0Q90pD24EkE3Pr;89;BMF
-5Rb1SPunxB1aKDfaYQLwI7;56;Besties
+1M0UHcttHe60N8fe72V7jD;55;I Got The Fye
+10twEEpq8Q4BIEXJb0xulD;51;I Want You (Fever)
+1bzEg4DkUQOhXDFn89Fex7;50;Tadka
+3U3hFkMr0Q90pD24EkE3Pr;88;BMF
+5Rb1SPunxB1aKDfaYQLwI7;55;Besties
 23vJWqvitItB6Qmvld8GQc;33;Rainy Saturday
 1fyPqW0evU3DiqGnpOKpUn;26;Bystander Effect (feat. ELUCID)
 64QxwjdmXEfdMLrJV2POVC;12;Dirge of the Lonely
-4nJABCg1GAbrmnUHyiXFGb;45;Fly
+4nJABCg1GAbrmnUHyiXFGb;44;Fly
 1MhXchY126AX5Iuv4Odbe8;81;LV Bag (feat. j-hope of BTS & Pharrell Williams)
-4d9sh6oekDIWtAT16Y5YhX;23;Story of the Egg
-0kGg0YtWXxbGdyDSFM1tQL;53;bloodonmyhands (feat. Flo Milli)
-1eeNl33TLVUVBZmqKT3Yed;50;Paper Tiger
-5gPOvRTZlGvva5RkZIGIuO;36;PROGRESSION
-0KKkgtMyR2G9CrAub2qsSs;33;idk wtf
-0MP8QNJMpjQVzrA9zlP7zm;21;Sweet Celine
+4d9sh6oekDIWtAT16Y5YhX;22;Story of the Egg
+0kGg0YtWXxbGdyDSFM1tQL;52;bloodonmyhands (feat. Flo Milli)
+1eeNl33TLVUVBZmqKT3Yed;49;Paper Tiger
+5gPOvRTZlGvva5RkZIGIuO;35;PROGRESSION
+0KKkgtMyR2G9CrAub2qsSs;32;idk wtf
+0MP8QNJMpjQVzrA9zlP7zm;20;Sweet Celine
 0IvnfkBlA5cqGygZhyhF59;27;Twin Flame - Acoustic
 3be9lEoOwbDROZViutmSgd;56;No Loss, No Love
-4Isv1MOD6qBkXMIEaKhIDN;21;Dub Vultures
+4Isv1MOD6qBkXMIEaKhIDN;20;Dub Vultures
 4mwswlM0HATHu9SabiiXiY;64;Easter Pink
 5WEF0icHWmAZBBMglBd599;89;WELTiTA
 5ZLUm9eab8y3tqQ1OhQSHI;92;Abracadabra
 3Ai8swkl3r7q5TzaOFcpXu;71;Static
 6bXjFzfX3YUpUoqTH8dvQC;45;Performance Actitud (Pose)
 36nYS9AwMR06ph6imdjn7J;68;I Guess We're Not The Same
-3FaMLlBEsX1F6TsDyuJsfH;19;Cranium
-1NhqrRHoj1r4imt9CJ8ZjZ;68;TÚ ME CALIENTAS
-2qkbQUH772cH13UTe6CEIh;26;Cumulonimbus
+3FaMLlBEsX1F6TsDyuJsfH;18;Cranium
+1NhqrRHoj1r4imt9CJ8ZjZ;67;TÚ ME CALIENTAS
+2qkbQUH772cH13UTe6CEIh;25;Cumulonimbus
 3ZYMLd8UWBWqC3VUdWtjMP;56;Love & Money
 1BIyul1y6fqWuRnPJQnIE3;53;House of Light
-5lDEyYqBrVn7eQTIVgx5sx;52;Doomsday
+5lDEyYqBrVn7eQTIVgx5sx;53;Doomsday
 7AL5SFvQYZLbfmGzq1WFQ2;34;I Just Do!
 2BbfLLQkfh90SUcwygvqIG;42;Cough
-0sbQakBa4DM2ITECNnDlhR;36;What's It Like
+0sbQakBa4DM2ITECNnDlhR;35;What's It Like
 6409bzRqrc9guKehKXiEcN;67;CUT UP
 7cxdXq5q4OS6xiCwd9a5SX;38;Out Of The Blue
-1E6TPggD7VXVsLnJXTI9qU;19;Bad Word
+1E6TPggD7VXVsLnJXTI9qU;18;Bad Word
 6TeCEz8wIqVSHmY8KeqnOM;37;Sorry X (feat. Yours Truly)
-2Hba8UzMbq4yPPC65sZLIY;63;Something Heavy
+2Hba8UzMbq4yPPC65sZLIY;62;Something Heavy
 5nVby0RIRtqFSYN5TDDGeb;76;Blink Twice
 0D3z7YrhFHbdahOjPbtByX;56;Kundalini
 56IdAHbhkwMITBey8ijR37;31;Angelfire
-6BLHt08Gaa41PmY07pryul;38;Hydroplaning Off the Edge of the World
-0rDq4W12BQzwKYYuYP0EIj;49;Take Your Aim
+6BLHt08Gaa41PmY07pryul;37;Hydroplaning Off the Edge of the World
+0rDq4W12BQzwKYYuYP0EIj;48;Take Your Aim
 6F6TCDUf7yQ8cnOJa5H3WC;39;choking on my words
 2skfh2imJk2J9cavIxGFb4;27;No Friends
 11axoUaU7l12dCfizpVV2R;34;Les Santolines
@@ -733,19 +733,19 @@ track_id;popularity;track_name
 1NDk9nqc215p1MNWpNOG3g;52;television
 4ZnzYYLLLqR0HbMUKhD9Dr;42;Jupiter
 5nsUidvKeOy9JLzQI2QYVt;35;SUGAR RUSH
-35ZqYRmUB4rHzXRCl8DzYe;8;Blau ist die Farbe der Ewigkeit
-3nqo6oCIDGVCQseDGeSPy5;48;Two Times
-3njIMWoLYyGj3bDaDwdsgX;37;Dancing In The Rain
+35ZqYRmUB4rHzXRCl8DzYe;7;Blau ist die Farbe der Ewigkeit
+3nqo6oCIDGVCQseDGeSPy5;47;Two Times
+3njIMWoLYyGj3bDaDwdsgX;36;Dancing In The Rain
 6a8KhlDiDzF6Jr5Vkru8Gz;71;BUTTERFLY
 3MW8BIoU3W5sl261DfiEsh;19;role of fear
-5bA9nkU0bUuBrAaakSiOXP;66;Everything Is Peaceful Love
+5bA9nkU0bUuBrAaakSiOXP;65;Everything Is Peaceful Love
 2UxZMkNEeWqBoqfiGTrNVy;34;Sickle Walk
 5l4VEGQ5JO5SFehAyf51sW;12;shut me down
 0MeTFymhdDs973XvXze2oi;48;Want Me Back
 3WhBuw0WQPRKrAcRM5dVRB;48;le feu.
 6NOrpcicPUh2eaj8bAD44u;80;Baby (Is it a Crime)
 0Jd8W7mUpJfn3239PEKQw6;21;Blood On Your Doorstep
-17NUBpCFGuzP7IeUywZLEd;47;You don’t feel the same.
+17NUBpCFGuzP7IeUywZLEd;46;You don’t feel the same.
 6oSMF3TrouX3TNO6NZbRhG;43;Bigger Pieces
 6lKSOnC9iLGDonypMgvGrm;82;Too Much
 2oINmoPkPxKc2QATOiA0u9;62;Trippin on a Yacht (feat. Bay Swag & Rob49)
@@ -753,10 +753,10 @@ track_id;popularity;track_name
 4zu23wNhquCcW0jLLcBohi;27;VANILLA FUDGE
 35ddVA9CFv9ko3v2KZQfBp;43;Brushcutter
 0vnyyP0wNeiIU8jCzjJ0w1;32;Rolling Man
-2H6SkRYATu83BdfigXPXIB;23;Neanderthal
+2H6SkRYATu83BdfigXPXIB;22;Neanderthal
 7pgwaq8Kcrjaefu8sMHqvO;44;Armani Section
 4L0kDD0QpK7c04m5Q2pMvZ;16;Luv U Down
-2m3SuMEdjlOWVN05steEXf;70;It's Amazing To Be Young
+2m3SuMEdjlOWVN05steEXf;69;It's Amazing To Be Young
 2r9cwV8mYpm2JRm8WBppDN;40;Focus
 0nLPnWIPTqiLC3dtHU7Var;35;I Need It (from You) (feat. Cola Boyy)
 5NHTGOuIM4GnLCoPTYnlvW;42;B.S.A.S. (Si Alguna Vez te Sentís Sola de Noche)
@@ -764,9 +764,9 @@ track_id;popularity;track_name
 5ABeWfGEIWDmm1nI6Pg6aK;8;Betrayal Of The Self
 4KmNLSvaKU0zoJhIptn961;55;man in the mirror
 6Alx6Gew5EWNf2edgKGSdp;44;W.T.F
-45J4avUb9Ni0bnETYaYFVJ;93;luther (with sza)
+45J4avUb9Ni0bnETYaYFVJ;92;luther (with sza)
 1mh9eHVRdNhzryG43PXdW1;82;MUTT
-3t6PVWXiWGamqfgOCO64NQ;42;highway robbery
+3t6PVWXiWGamqfgOCO64NQ;41;highway robbery
 3Wfv12ixjhJ03Moro3v9iT;63;Raving In The Studio - Bru-C & Songer Remix
 3ONsQcXX7XqcUHBhCVktOQ;44;Box
 4OxDppy29ZuxXgQ1kMEjCr;69;Keep Me Satisfied
@@ -774,27 +774,27 @@ track_id;popularity;track_name
 5NsCrja8hjnneu6sqQld2j;62;I’ve seen ur ex
 4rmMO7iCXpt4BClXUd5eDS;50;Lizard
 7AKwWqnoMmvCqBQtcdIECG;84;ExtraL (feat. Doechii)
-0q01PkXaaxdmKlt12EcBOx;36;Reframing
-0OAxS1KlR6L8kJBRKPxyxE;23;Apparitions
+0q01PkXaaxdmKlt12EcBOx;35;Reframing
+0OAxS1KlR6L8kJBRKPxyxE;22;Apparitions
 5EUh2m1rTsojG22W7XrCBG;58;Body Language (feat. Sasha Keable)
-4hzzWQqdqoTO48Eh169CVk;38;Mountain
-4BsGxMMDdcWQzrUTGXqlAE;16;off to the ESSO
+4hzzWQqdqoTO48Eh169CVk;37;Mountain
+4BsGxMMDdcWQzrUTGXqlAE;15;off to the ESSO
 4xNl7wvrgaTDofpLenB9Mo;56;PUDDLE ( OF ME )
-55I2t9cF4oFRcBwQXBHG70;14;Static Horizon
+55I2t9cF4oFRcBwQXBHG70;13;Static Horizon
 1q092hlxUk29fY9pAdxGrc;32;Penthouse Samba
 36gQ2Hyr8ErtuxmssOYEOX;53;TEETHSUCKER (YEA3x)
 0IRtsYqlZrATSdxuRS90Ip;48;Artist of the Century
 3PK8TBRB27QOAsmawBeYcB;53;UP FREESTYLE (w/ Odetari)
 394Ic5GQysxdvt9RpSO2ng;41;Ends Meet
 5IrPk5us7fGlfybpfpGypp;18;It Might Be Love (It's Not)
-7j3rFRaIpqlvHzVJKFjvCE;14;Arrested
+7j3rFRaIpqlvHzVJKFjvCE;13;Arrested
 6apiNOik1DtKC818JzbRHD;28;crybaby
 2NV0S4JReqLhRfs6KBSYcC;39;blade bird
 1jnoUVJLjeHPTXnF6Ax65b;30;Hearsay
 4JWPHzfChXRSPMbo0s4ZPl;58;CANDY GUM
 78XlxZ40ogIPZq1dYMmu2Y;47;Kubrick Stare
 2Wd8reHxs93hfwI6B4T08Q;47;DON'T TEXT DON'T CALL
-4ZOv2tpp7POFT4zBmoYOR0;55;Follow Your Dreams
+4ZOv2tpp7POFT4zBmoYOR0;54;Follow Your Dreams
 1xCva4FzEDBfB2RIvRoc1w;40;Part I
 6bWurhoy9GXw6cBVQhjfhq;46;WE'RE ALL MADE OF STARS
 5mRj8pIZBb8bvTUpIfL6z6;8;Make Me A Sword
@@ -802,50 +802,50 @@ track_id;popularity;track_name
 5OLMwH0OXQigJThzKIjOAG;46;Cinderella
 0HjYuuMp6oljg3n9me62zP;23;Vega
 39pZdeYY3sTICZsmJGNe9r;29;Bodylock
-304q7IsDSAA9MJsPdfygcr;20;Better
+304q7IsDSAA9MJsPdfygcr;19;Better
 6vvwN7NgsNGVfXLmkVeftX;48;Lord Humungus
-1QkeomwCeKgXOEWoMHzrXr;59;Dancing with your eyes closed
+1QkeomwCeKgXOEWoMHzrXr;58;Dancing with your eyes closed
 3g0lxrU7wv7j64QLAt2Krc;43;A thousand lies
 5cICW30wJh0GNydrFw4v7d;42;Garden
 2nX7yUxlP1mUyZsPPhmFR9;32;Out Loud
-7q3u8wOVtj4dOiUmSPu0Ez;44;ASAP
-4x67Z1GnOLpU2kkcoKfQuB;49;No Front Teeth
+7q3u8wOVtj4dOiUmSPu0Ez;43;ASAP
+4x67Z1GnOLpU2kkcoKfQuB;48;No Front Teeth
 05VFHKQKhs075N9XQRh2wa;13;Crashing Into A Hillside In The Dead Of Night
-1W4XbJKytNrqJC9LJrbwMc;42;Lights Camera Action
+1W4XbJKytNrqJC9LJrbwMc;41;Lights Camera Action
 43YEV5eMkQYdkk27WV1Bkv;62;CRUISING TO SELF SOOTHE
-0gdQvpd0knhJmcIbF3jSOM;42;Sad But True
-1EkxfGivWsIwCJTdz359xl;41;To be a rose
+0gdQvpd0knhJmcIbF3jSOM;41;Sad But True
+1EkxfGivWsIwCJTdz359xl;40;To be a rose
 34FhJGgNmeA7cYsANJHr6O;44;Up Through
 67qbDFm5D85FW1SdQdR3zJ;54;Man or Machine
 652iM8dXxavL5lgExQ5zt1;42;Vogue
 5BctkMoLxgjnpcccfadKtW;21;phase 1
-6uRUdye9FnYzsJwSwk7bTU;18;All Good Things End
+6uRUdye9FnYzsJwSwk7bTU;17;All Good Things End
 6voJ8B5nuXPumspfCm3z6S;9;ANCIENT SORCERY
 6xTHApbdtb0GZEHqpKe2MU;61;Flood
 4d6mWiixka17MTL8uGrBnh;35;Aon
-0WQuS59De4cVdWDs2eMu7U;36;Spit
-06aqgaHt1M1ZRcEe04CvaN;35;things i want
-5uN7Ib0AHzxUwalc4fctfW;48;Heathen
+0WQuS59De4cVdWDs2eMu7U;35;Spit
+06aqgaHt1M1ZRcEe04CvaN;34;things i want
+5uN7Ib0AHzxUwalc4fctfW;47;Heathen
 1nmi4oATze7UvRbyfFRqv5;26;My Blood
-7egbENInwPWegyktIf4rVh;40;Red Lights
+7egbENInwPWegyktIf4rVh;39;Red Lights
 09aVll2fGLkZ11QV2J7WsH;16;avoid
 7sGijY6koHA2fOOSYm6RG2;24;Slip Angle
-20syoWpQEUCdl91LQRZhjG;36;#1 Best of All Time
-7fN0XceOdutEcKdj6nnDFA;31;Leipzig 87
-0JT2wUa15PpbeVpUfa7GxN;33;Dead Air
-1jNFU8ildH4gY9q4mbfjr3;41;Don't Be Seen With Me
-0ohSvdGqP4CC1IHzaPKPZe;15;Icemaster VIP
-1pTF9dR6s1GKw2TmvVtIfq;42;1000 Friends
-7JtvYiKwqIDDcuAZhKu0rH;34;Prism of Light
-2aAROOSxu6w1fKzXSO4DmG;31;Sparrow Sparrow
+20syoWpQEUCdl91LQRZhjG;35;#1 Best of All Time
+7fN0XceOdutEcKdj6nnDFA;30;Leipzig 87
+0JT2wUa15PpbeVpUfa7GxN;32;Dead Air
+1jNFU8ildH4gY9q4mbfjr3;40;Don't Be Seen With Me
+0ohSvdGqP4CC1IHzaPKPZe;14;Icemaster VIP
+1pTF9dR6s1GKw2TmvVtIfq;41;1000 Friends
+7JtvYiKwqIDDcuAZhKu0rH;33;Prism of Light
+2aAROOSxu6w1fKzXSO4DmG;30;Sparrow Sparrow
 1CqwiEhGcYlRntmpTIHGCu;41;need your love
-2cBXDeiRLJfXDGrIbfxwot;52;NEW TO ME
+2cBXDeiRLJfXDGrIbfxwot;51;NEW TO ME
 3jrY4AAWTvZfmwGs3E7QcN;67;style
-2CHdkhVS2Nh0fIEdzpokC7;65;Uno II
+2CHdkhVS2Nh0fIEdzpokC7;64;Uno II
 4KFGxkAAP5D1HIBSwMv7d1;62;Make It Make Sense
-7IHbbBKc7wXc0YyrBVMKZs;21;Better Half of a Dollar
+7IHbbBKc7wXc0YyrBVMKZs;20;Better Half of a Dollar
 67CZUUIbEXWh0yTLkkcbz1;25;Take Everything
-2AxK0NAXg7kJPdHr5We5cW;40;Beekeeping
+2AxK0NAXg7kJPdHr5We5cW;39;Beekeeping
 68UrZQUuO3O6eUiD226xHg;81;The Chase
 3qNSObY33aPuLB7NOzJJ3m;19;Palace
 5f0acaWrZ8qNBMmrz1ecnq;40;Breaking Isn’t What a Heart Is For
@@ -853,57 +853,57 @@ track_id;popularity;track_name
 19Dick86XxitLUW6IZmhY1;21;Throes of Grief (feat. Tim Öhrström)
 2BOGwFg3CjyBCvtH2UrsZ8;17;Cracking the Jaw
 5SCKeEcc8msC3pg2tNCc4A;51;COLORATURA
-6JLV2Jo7IJmWbNVITZaGsd;51;When I'm With You (feat. Tyla)
-1FBeGTOr2717N2Wz4RzQp0;26;The Incline
-2qeRnFb42RVzv2NP6s8vG9;40;RIP
-03y6MsaseYEO7DfwqsgcAI;71;Delete Ya
+6JLV2Jo7IJmWbNVITZaGsd;50;When I'm With You (feat. Tyla)
+1FBeGTOr2717N2Wz4RzQp0;25;The Incline
+2qeRnFb42RVzv2NP6s8vG9;39;RIP
+03y6MsaseYEO7DfwqsgcAI;70;Delete Ya
 1HmyIhCGcpRZX8KiBhNOwJ;50;Real Good Swimmer
-7zZoFvzX8EzUq1khFFYhXy;35;Low Tides
+7zZoFvzX8EzUq1khFFYhXy;34;Low Tides
 0HfX0Lr84UzSJFnZ4HO7Dc;42;marian dogma
 3Xefyh9jSDx2XWo28Ixm7Y;31;The Ending Is Always The Same
 3fXr1zc9YCUwsho3ywy7Iz;38;Restless Leg Syndrome
-5BwTgie5PUD5T3RkCQKsch;23;Collider
-5I0WouqVM3Nl1u75whxBtq;23;ESTRELA
+5BwTgie5PUD5T3RkCQKsch;22;Collider
+5I0WouqVM3Nl1u75whxBtq;22;ESTRELA
 0rgwADAHd21s1OE7RPFwPN;63;safeword
 7JJT5XgtT9Fq7aLQ7MbAD7;49;Cinderella
 3rnu806sQS4sNydAjQRhdO;51;reprogram
 0GOqhXyouUxqPEw9ypTOLm;78;TOO BAD
-4sXXCX5zFrXEgWbB9YJ2QV;34;Bottle Blonde
+4sXXCX5zFrXEgWbB9YJ2QV;33;Bottle Blonde
 3rEL8kOlF1Ppxn8QoK6HOk;59;Ya Get Dat
 5SMChKYENR0iYKLUjKRqcm;49;Afterlife
 25ujeTA1Ma2rYzxr7ozdrP;55;LIKE U 100
-6B1UqIeWynQIFXBLsRcz7S;32;WTF
-2AHbGhTMPfBkDPHz33KrUm;21;Fiction Feel XR - Robin Guthrie Remix
+6B1UqIeWynQIFXBLsRcz7S;37;WTF
+2AHbGhTMPfBkDPHz33KrUm;20;Fiction Feel XR - Robin Guthrie Remix
 0NwPaKAjq8Zt3uNIH1QUjU;31;Bring It
-4OtqDgy48Xu1Rf480GVJXh;48;hate it
+4OtqDgy48Xu1Rf480GVJXh;47;hate it
 11bFXOKzUz5XBK9JSkRs0S;57;ASIAN STATE OF MIND
 5WeuKxVrefRC2P9XiI3GOg;57;Twist The Knife
-2giZNr8LWr8ywmcbxdvqjn;53;UNBØUND
+2giZNr8LWr8ywmcbxdvqjn;52;UNBØUND
 6Voyna588pYdml28Ydh85i;26;Ghost
 1Co3V5seikVAw18C7Jrn23;4;Futuristic Lovers
 3XgVldukJ5mzFaOYbib2eR;19;Fo Pio
 0PQ33KiYJD1XPsP6oA1GYn;64;father
-4QmoRTOUyrBb0butY0aYtX;62;Wifey Riddim
+4QmoRTOUyrBb0butY0aYtX;61;Wifey Riddim
 382qAtuQEUpqa4ILGWfeWY;39;Snares
 73E6NlBIxB7PR97hAqTkeP;69;Una Amenaza
 2l1qqW57mxUvinqe0mAPNI;48;Cruel Times
-7tS0q3y7tASvpTX2rTK1mG;56;Happy Birthday
-1D86Oiw34wxj4HTDhFvQc8;44;Tonight (I’m Afraid)
+7tS0q3y7tASvpTX2rTK1mG;55;Happy Birthday
+1D86Oiw34wxj4HTDhFvQc8;43;Tonight (I’m Afraid)
 7svSSbZdhA15SzKLJ50eNx;22;Trace
 5MUzO83XyuikiIyPAy2Yr6;40;Possessed
-5yt7aRlPMFdsLulfqBYDsc;76;Satanized
+5yt7aRlPMFdsLulfqBYDsc;75;Satanized
 5GUYuoFZhKSPjEUfo4IKRu;52;Choose the latter
-7l2NInPwslS8CaEPQdhKdx;48;CONCRETE
-6SpXyStq0oiro815bJLey9;44;Nü Burn
-6xq2ewiAEbFJt0PT8uharC;49;Dust
-0xI1ewGDH8NRea6imMplJI;22;Prayer Hands
-7mhYCEcW500M6qGhPRMk4R;46;Fou de toi
-0vBoiLP5oMhP32eRZguhdm;33;Salome
-4P40bs3Cqi2XevliZj6FLi;56;TONGUES
-7axsAqrHxqyHPLj3PbKSAQ;33;I Can't Save You
+7l2NInPwslS8CaEPQdhKdx;47;CONCRETE
+6SpXyStq0oiro815bJLey9;43;Nü Burn
+6xq2ewiAEbFJt0PT8uharC;48;Dust
+0xI1ewGDH8NRea6imMplJI;21;Prayer Hands
+7mhYCEcW500M6qGhPRMk4R;47;Fou de toi
+0vBoiLP5oMhP32eRZguhdm;32;Salome
+4P40bs3Cqi2XevliZj6FLi;55;TONGUES
+7axsAqrHxqyHPLj3PbKSAQ;32;I Can't Save You
 4ExoRP6SDTO8LvYIjUsyiK;52;I can do what I want
 5MCtwpg6FCHEM8gFb0erM1;45;The Test
-7FaNqJBCdkIXOs0XAN90xd;25;Dumb lit
+7FaNqJBCdkIXOs0XAN90xd;24;Dumb lit
 1rrhsaqMY5Fbxu5EoKxXqf;36;Stay
 5UI4SXWpFtJOQ4kduge4mG;33;Syracuse
 6xQur55wJVJiL2zujPGXfI;31;Passion Dance
@@ -912,8 +912,8 @@ track_id;popularity;track_name
 7uCQPM3vJym5Bv8ufLbdAq;18;HOUSE OF CARDS
 1SsyXtMR9nDhGCqJeWPB0r;68;Can we talk about Isaac?
 1UkO4oqPU95QsfwJAIkxgJ;17;Dead To Me
-7w1y64gZz82Z7sGiN3uE36;26;Final Generations
-40LqINLIDhx5qEJQfG7rnN;48;abyss
+7w1y64gZz82Z7sGiN3uE36;25;Final Generations
+40LqINLIDhx5qEJQfG7rnN;47;abyss
 1XzmDchjeqwC0VVjHuxKFz;60;Magic Clock
 6TJlkuWOJuvRgfdbMKYi0L;43;Run With It
 25CSMOyPNhNyNDYWaUxWs9;39;Open the Fucking Fantasy
@@ -922,39 +922,39 @@ track_id;popularity;track_name
 5UQlbye6eQYTysTK9gEcsW;40;INCOMPLETE
 6do65V6CkaVBGwi1Lt4BoN;21;Aseurai
 0ZVIp8P740Vq8ZXdBwNURI;43;Lord
-4P4TCC0370Joe2oDXQnsiu;38;Teenage Dreams
+4P4TCC0370Joe2oDXQnsiu;37;Teenage Dreams
 4mUR5Tv0CvJtpmnUtzeIgd;87;Garden Of Eden
-6MjjgYcSrBFeRmdnC47A27;34;Levitate
+6MjjgYcSrBFeRmdnC47A27;33;Levitate
 24RN4xJgLkwBd7L3oj2qiw;39;WORTHY
 7dVlH9CoT6Csub2mKdYyuP;28;Lights On
-46giz6vrKWM6p1sLWDRev5;22;Shrine
-4eZINsb80RXdubeco4ErnS;56;**PSILOCYBIN & DAISIES**
-11hTGnist3szhkE1yWAcWk;36;Since April
+46giz6vrKWM6p1sLWDRev5;21;Shrine
+4eZINsb80RXdubeco4ErnS;55;**PSILOCYBIN & DAISIES**
+11hTGnist3szhkE1yWAcWk;35;Since April
 4pxQd10kyHpGDfdLTTIxsZ;43;No Way Out
 1qB1YwUoz2xrk18SoejACp;73;RE FORRO
 3cuUZnjDwk4cUJCFinYbAC;67;Free Fall (feat. J. Cole)
 6HjYE79OOCGEhkIRfXLqrz;81;Damn Right (feat. Childish Gambino & Kali Uchis)
 3juZveIW3kxZUV7s75j55D;56;RACER
 2pEQBzoeccf6TIbJU8O26c;45;Best Be Leaving
-0Sd7nAZakCLRPxAqfiFd9m;68;Keep Sweet
+0Sd7nAZakCLRPxAqfiFd9m;67;Keep Sweet
 0hrrIKyJYc5BNLOn6zsCE6;64;Tócame (feat. Dillom)
 64QLJDfQZRgN06St1R5nwx;4;Open Up My Brain
 1j8JWDMamXR6VCzcGDqHRm;51;Skullcrusher
 0k8CJ2q7P9uNT1vh23bJVf;39;sticky
-2DOUn2VHfSfUIyyZLE9Ig9;59;Button Eyes
-2k2USr0srRydgTSilsEz4r;34;Animal Death Already Breathing
+2DOUn2VHfSfUIyyZLE9Ig9;58;Button Eyes
+2k2USr0srRydgTSilsEz4r;33;Animal Death Already Breathing
 0HA1EAus14E5EMhThS35yA;21;Animal Death Already Breathing
 4tJP37H4IBwmajRzyzLiNc;32;Pop Out
-2SwolGypB0DLbUX3HuWxxz;29;Sentinel Hill
+2SwolGypB0DLbUX3HuWxxz;28;Sentinel Hill
 2pWJtqIsNdFCQusGHW0mVJ;46;Fashion Model (feat. Jorjiana)
-6ER6f6QIGHMkXGcdYsJGJq;29;Tabula Rasa
+6ER6f6QIGHMkXGcdYsJGJq;28;Tabula Rasa
 1hjiZRmHByToO3dPjFSGUH;50;The Shadow Elite
 76iQOPM8roxMDPDoq9KO21;53;Waiting
-4Zz3YaD9WImI44Paa4C14S;35;Destiny Arrives
+4Zz3YaD9WImI44Paa4C14S;34;Destiny Arrives
 3H3Iz6PAfenrPKRq0tS4oN;50;So Excited
 4p8OrRxmZ8yp97tlczzSHr;17;Wolfsbane
-5wMwgx90OnF7xNtvYcuxFR;69;EROTIKA
-1yjDvLeehqhRYNGuRr4e5r;35;Changes
+5wMwgx90OnF7xNtvYcuxFR;68;EROTIKA
+1yjDvLeehqhRYNGuRr4e5r;34;Changes
 4CeKrQlCQxEddP1B3WgiZV;24;Bottleneck Blues
 6NFU9CdbiesVSuApjQf5NT;42;Eighteen Crows
 3sZQ8L4aptFDJXBqdVdvO8;78;Run It Up
@@ -963,61 +963,61 @@ track_id;popularity;track_name
 0uWNm9IbLnhL7dEkTG8zMj;50;Pondeggi
 65Y69Snj2Nivg4w8YvdXBU;32;Peace Of Mind
 71j5hGyn3gnP9X2JlCgGFQ;38;In Your Head
-6Fl0TY6Qhme90Il62mFvxR;32;Absolute Ghost
+6Fl0TY6Qhme90Il62mFvxR;31;Absolute Ghost
 0zrg0m9QrvYM9NKcHszPTD;38;Here We Go Crazy
-33URQR55S0uwdkcCwe02b2;12;Teeth To Sky
+33URQR55S0uwdkcCwe02b2;11;Teeth To Sky
 7DXANyzlZjDZUBXgLK9Jac;8;Pleuto the Closer
 74Ciu5TZadvDjlEBVR25xc;6;By Your Side
 4joAmT6wEcTQVo15i7txAC;49;Discordant Nation
 1wpDmnyyxwWXhNG8Wdto96;28;Kingdom
-0QvN2bpOXe80cYyCdpFYqk;6;Recipe for a Mess
+0QvN2bpOXe80cYyCdpFYqk;5;Recipe for a Mess
 7dF9CDJyEx8DxhhqwT0dnf;56;A Visceral Retch
 5XnPdSYXrSV73P4HtYlpml;32;Our Own Breed
 6Vc8gRxGdtY9p8qW9F3BJg;15;Mythmaker
-3JjZHiTbpejJxPPQYpohJP;27;I Am Resistance
+3JjZHiTbpejJxPPQYpohJP;26;I Am Resistance
 0wUqGacRd2QLwEoKrDy6pG;8;Still Bleeds
 2VQ2iCOFxMn9AkIY7j0L2U;39;Beyond the Dark Horizon
-6gUJx5MYWXL7PKN5kC9aqb;40;A Bug's Life
-2qHDBKXQeAyxlxAYkY5pd6;34;Space/Smile
+6gUJx5MYWXL7PKN5kC9aqb;39;A Bug's Life
+2qHDBKXQeAyxlxAYkY5pd6;33;Space/Smile
 7kfqXvXwZzQfeqaG9VYNsa;28;Swansea
-38JIDvCHB15YLD5ydy7Rrf;15;Grey Eminence
+38JIDvCHB15YLD5ydy7Rrf;14;Grey Eminence
 4QWl6k6XumqEB8Sf5w5iBT;24;Focus on Reflection
-6yM5Fz1ZVp2tTQRu4nJun1;23;Grass Snakes (feat. Lou Koller)
-4UVKIpx5skyr7KdNcX3qag;32;Way To Spend The Night
+6yM5Fz1ZVp2tTQRu4nJun1;22;Grass Snakes (feat. Lou Koller)
+4UVKIpx5skyr7KdNcX3qag;31;Way To Spend The Night
 6woqMaPNRqYOIbVlFunCLO;18;Coward
 3Y0hjTh9bQW6shXXMWiTx4;39;Venom
 1QP0jBNKL5o5HE927a8BVB;27;Obscure Exordium
-1OhRwjJ47KxJOPTM7obJlI;22;Deep Scene
+1OhRwjJ47KxJOPTM7obJlI;21;Deep Scene
 1emWc8cnkrkLWJQ9LYoXzx;24;Growth Sux
-6Fru9ck2yZQpyLHxSfmasq;67;Elegy
+6Fru9ck2yZQpyLHxSfmasq;66;Elegy
 0Dk5lYjDPi9ljWsvMeNvIG;24;Bad Larry
-2bAqYCLHCUkLmjYcMBdtbJ;31;Feeling Alright
+2bAqYCLHCUkLmjYcMBdtbJ;30;Feeling Alright
 4dFR0ehN9e9Y9RYch6lRas;26;Further Til We Disappear
 0tBsZPPSN4hn8VFFP0bH0U;29;Every Night's Alright For Fighting
-3kbjF7MDEoznigJQnh8lfJ;25;Skal
+3kbjF7MDEoznigJQnh8lfJ;24;Skal
 6MXSMyNSscVsM6tksGD4TJ;36;deceiver
 1Ou7hertd52FggWIws6srB;47;Hertan
-4VrpWkVxr3iJT0mJ5gJ9ae;43;Counting Sheep
+4VrpWkVxr3iJT0mJ5gJ9ae;42;Counting Sheep
 4ptzmXWfes2WcPSBG14xar;16;Steps
 2aQOhBdbVnbmMGv7XmTNxc;31;Dim
 6i3Yih3Oxd4bdObyNfxeWC;16;and it feels
 5U9r1q1HIa3azMqmqFI7LK;18;Honeycomb
 6Bq0Uca0uOsLEhENYLpGUt;14;Black Rock Heart
-3nxoeSUglvVkWvYHsVuUGN;50;Mercy Mercy
-3BC09ERwBh9rf2x7GGKjKY;13;In His Blood
-0nfmiBmhrGyQULIvFhKwC0;8;IN PURSUIT OF
+3nxoeSUglvVkWvYHsVuUGN;49;Mercy Mercy
+3BC09ERwBh9rf2x7GGKjKY;12;In His Blood
+0nfmiBmhrGyQULIvFhKwC0;7;IN PURSUIT OF
 3L5D7YtisBfm0T7LFOuHpr;46;Invisible Rain
-24wflQTlqCPPEetla38cWo;41;Kept Me Alive
-2CeMKZjvTqplyyGFM0OyWU;21;Young Neil, He Lives Here
+24wflQTlqCPPEetla38cWo;40;Kept Me Alive
+2CeMKZjvTqplyyGFM0OyWU;20;Young Neil, He Lives Here
 5jGkwO1fDqSKMikGUr490X;5;In the Shadows
-2zMYubbKqemHO2Yupz21cu;44;Street Spirit (Fade Out)
+2zMYubbKqemHO2Yupz21cu;43;Street Spirit (Fade Out)
 2u6LQ48OjxnNVXniTaslz9;19;ThArSh TiLl DeTh
-0xYkXiHgwMclKnP5l7jno2;12;Omnimpotent
-3YBPmeD0s8rsvnWsS9n5Gi;23;When It Betrays (feat. Colin Young)
-3UIff4VyC5Gi0ibxoTwBl4;51;Creepshow
-3zjIv5RYEJ1WffWApIAblj;34;Bullet
-5weRUnbBDEQVhliexezSG7;9;Little Magic
-5p7dmHQ7aBhWAlwosZScr9;8;Proudly Damned
+0xYkXiHgwMclKnP5l7jno2;11;Omnimpotent
+3YBPmeD0s8rsvnWsS9n5Gi;22;When It Betrays (feat. Colin Young)
+3UIff4VyC5Gi0ibxoTwBl4;50;Creepshow
+3zjIv5RYEJ1WffWApIAblj;33;Bullet
+5weRUnbBDEQVhliexezSG7;8;Little Magic
+5p7dmHQ7aBhWAlwosZScr9;7;Proudly Damned
 0mMbbcQIONDS8HxVL4IEmn;44;Machines
 5FL42zuSYBloFsOWF0gLgT;12;Gutted
 2bsSYJma0WAhMHXq4hrZ8u;28;Death Note
@@ -1025,134 +1025,134 @@ track_id;popularity;track_name
 1Dg4KP0l6sPH1IEbS7iRW6;31;STAY WITH ME!
 0CAPGgHQaftAp3rItV1TZO;22;Plain Words
 5NRpxJxtR6JkUhQS4F0um6;86;Emergence
-4IL8ltadjObJkdXKq9jABS;22;DIY2K
+4IL8ltadjObJkdXKq9jABS;21;DIY2K
 614QOxGBDRK2qx8fCWnQxE;62;Jungle
-4rUzVbdbpROiDvrn6EqMsH;45;lvl 6 - VIDEO GAMES
-2TTACprkw0oSAhrRxOBnMo;14;Cloak & Dagger
+4rUzVbdbpROiDvrn6EqMsH;44;lvl 6 - VIDEO GAMES
+2TTACprkw0oSAhrRxOBnMo;13;Cloak & Dagger
 6txxn4h97htvfu7Pty2gRs;21;Shallow Ecstasy
 52abQEHHYwE5eGxLG0zcH5;63;Sword
 5xHgo5JN0wfsV41HnRaos5;89;The Giver
-3089w7UmnSQboJ7wC3zchk;45;Industrial Love Song
+3089w7UmnSQboJ7wC3zchk;44;Industrial Love Song
 3YAbD6ZmkXerUDg7GY15zZ;37;Dusty
 1BFCZFKIMBBrSrqMyonK7s;26;Harmony of Irrelevant Facts
-0pNgp4Q49T6ovLcAKrDtqp;41;Reignbreaker
+0pNgp4Q49T6ovLcAKrDtqp;40;Reignbreaker
 2JFmXR9RMrZ864QAaZp1qy;63;Supermodels
 64ZXW75lsDwQAOhWXjzZSc;24;Tether You
-71sovHvkPqDU3ASyn5f9tb;13;Voir Dire
-4WejDFaJx72saURVWVgOB8;50;JUMP
+71sovHvkPqDU3ASyn5f9tb;12;Voir Dire
+4WejDFaJx72saURVWVgOB8;49;JUMP
 3jtGgVIIDvc5ZJkhMoXJo4;23;SERAPHIM (MARINA'S SONG)
 7o20ATLEOEw9xpAN1dx9Rn;27;After the Rain
 7hWESP9salkKYucipe5W99;72;FUFN (Fuck You For Now)
-5c7hCvAfvS1c9X27L8hFZF;50;GUAPA
+5c7hCvAfvS1c9X27L8hFZF;49;GUAPA
 5O83nDEK7B8FlC6hzeU1Vs;47;I Swear
 3yWgZ1TZIKciCo1Za6GDFa;46;Don't Fall Asleep
 0rEutjwmink1IVouLhPjc0;32;What Was I Made For
 1FjTduJODQbRgSoWcFfxRb;12;Alla sover
 7lU7MV3wzGBW7Ea5epCVxD;32;DEAD TO ME!
-7bOi2P9koS8GKmGBc8wjzU;62;Heavy
-6x1xKHkuGepbfjpDkSuUIk;48;Lemon
+7bOi2P9koS8GKmGBc8wjzU;61;Heavy
+6x1xKHkuGepbfjpDkSuUIk;47;Lemon
 2VPtWY0lGu0lAV2aNwmzRv;13;Back Up
-6oePhhUcH1uNblN3KnSdiL;20;bruce wayne
+6oePhhUcH1uNblN3KnSdiL;19;bruce wayne
 6Iu0vG7PsLOzpZkkBS91Wd;16;Echoes and Empires
-1bHjlcErAwz7qh8ME68iIR;62;Familiar
+1bHjlcErAwz7qh8ME68iIR;61;Familiar
 4LYXtoiuM9xEmxklVvQnLl;53;This Is Real
 71NmSLUZGoU5UP9JFyhIiz;40;Bittersweet
 1GnwRHSnwZ0clkFJgfHHBS;49;Misery
 2ydagYqcyFfRtQPzKc5E8l;78;I SEEEEEE YOU BABY BOI
-7KFuYctUbZXScGa70BHLGb;36;Namcy
-6nabHsqIYAKS6Nnfuqauw9;72;Baby, Not Baby
+7KFuYctUbZXScGa70BHLGb;35;Namcy
+6nabHsqIYAKS6Nnfuqauw9;71;Baby, Not Baby
 6HSns0qPQQfgekCrBF0Dkf;75;Air
-3ojjRvP2OTPp8PM4zNYQto;50;'Bout To Lose It
+3ojjRvP2OTPp8PM4zNYQto;49;'Bout To Lose It
 4jPbxgx7YWRPJudNcDdium;27;Speed McQueen
-3BdBg8wHouBmf2FbAUatG9;8;Echelon
+3BdBg8wHouBmf2FbAUatG9;7;Echelon
 3QBNfI9ZyLVSgWoF9xw413;71;Relationships
-3wayZ24541SoEKulbs9Fn6;26;Thinking About It
+3wayZ24541SoEKulbs9Fn6;25;Thinking About It
 0xxymmSLKBicHAVa1yz0ZD;28;Those Who Know Know Why
-2YrgXToRaonZKrNd1okFlw;42;Nothing Romantic
-22gOVSEhSn2xraSnUX326C;44;White Hellebore
-6XegpFRsZjPCtFqyHOfW3V;40;Only Love
+2YrgXToRaonZKrNd1okFlw;41;Nothing Romantic
+22gOVSEhSn2xraSnUX326C;43;White Hellebore
+6XegpFRsZjPCtFqyHOfW3V;39;Only Love
 4vvNPN2vvlzUlczESr9P0B;41;The Gallows
-1NUsYYGE0O3SI8CxZrNhCm;41;juliet & juliet
+1NUsYYGE0O3SI8CxZrNhCm;40;juliet & juliet
 406IpEtZPvbxApWTGM3twY;86;HOT
 7x8FCh3aNU7YrYUSTVGHv6;60;Different
 5xfwV0GUR64zK7WLkEtsgv;12;Begging Guitars
-4pBcuAcQJLLhTtPgEgkcaY;56;empty pages
-0GHr3b7vgIVWi1NYjfyz8s;44;Surrender
-2g3c43AWIKXT8hFHV9UlF6;54;Talk
+4pBcuAcQJLLhTtPgEgkcaY;57;empty pages
+0GHr3b7vgIVWi1NYjfyz8s;43;Surrender
+2g3c43AWIKXT8hFHV9UlF6;53;Talk
 3DNgrWGDoVefYTLdzUnLWX;49;Soprano
-0gRFeFkgtb8YUqvgQPu0gP;30;Crossroad(s)
+0gRFeFkgtb8YUqvgQPu0gP;29;Crossroad(s)
 5bzqxcGIjHfedPnRQUJNZC;45;Stranger
 3n6Rk1dTRBjDkTRPWTRkCk;10;Cuando Vea Su Cara
-3l58me0cBT75vYY1ySKFFr;36;Hurt You
-6U13ePayjjfmxzXHGGYbv5;70;I Come With Mud
+3l58me0cBT75vYY1ySKFFr;35;Hurt You
+6U13ePayjjfmxzXHGGYbv5;69;I Come With Mud
 5Pc080fBntYWPwj1MhiNWD;47;Nowhere Man
-5BU8oF2vMA3qmiQiQzfJJO;53;Breakaway
+5BU8oF2vMA3qmiQiQzfJJO;52;Breakaway
 6BOfwpm3qky5O3xAPGCK4o;49;Staring At The Sun
-3bqaHDGz3eJKbprI2nmNzF;44;When in Rome
-02olsPYJypEE0IyuaGS4K4;67;Picture Window
+3bqaHDGz3eJKbprI2nmNzF;43;When in Rome
+02olsPYJypEE0IyuaGS4K4;66;Picture Window
 5TCXwc0Lop2zMUgc9pH90e;49;Stronger
 7EQ4HkDvEGJDmoLcCwmZil;42;Lights Off
-6AxUOwue9dtxJY9PH7vXjJ;31;Blackout
+6AxUOwue9dtxJY9PH7vXjJ;30;Blackout
 36LEkXspcKiMxUhiK1GL4g;33;Chrome Dipped
-6hMfBQep2z22t7jKxY9sEF;56;Stare At The Void
+6hMfBQep2z22t7jKxY9sEF;55;Stare At The Void
 2rvd6akG8qEtBNUvQpN7iY;85;How Bad Do U Want Me
 2VKjLsx5fsMxXPPI8hhwd8;50;Assis
-0gEH8DrpQEOzZxVqHVMzF1;26;Fantasy
-5Fhr3wqeieN5WDkAsqL1JJ;90;MONA LISA
-5qOj6ZoX3ZOgpbcYD3yZLl;17;Loved You Then And Now Again
+0gEH8DrpQEOzZxVqHVMzF1;25;Fantasy
+5Fhr3wqeieN5WDkAsqL1JJ;89;MONA LISA
+5qOj6ZoX3ZOgpbcYD3yZLl;16;Loved You Then And Now Again
 6aFhWmqi9SlGa2Qflui6DN;51;You Ominously End
 6NBbY5HUuowO9cS4lcFHNn;42;POP
-4M29o61giZq1UhrqnZRHSf;47;Change the Channel
-2xTk9wtJ6mWf7YV6ppmdCK;68;Impact (with xaviersobased)
+4M29o61giZq1UhrqnZRHSf;46;Change the Channel
+2xTk9wtJ6mWf7YV6ppmdCK;67;Impact (with xaviersobased)
 4rX39lKRH6NIv4HnpgqORL;33;She's Just Like California
 55sHeRRTqwdtO4xRtFet0S;59;Love (MKB)
 4wyU17zJTM512I1i6OSI0X;54;If It's All The Same To You
 59VAMnorUAUOTzINy5KEpD;38;Arrowhead
 7ob6oMgSRiAoJK8Q6nBcSF;25;Blame
 0IUVVVYt4jwYgrU1xIyIY8;25;Dead and Buried
-4fd0xNnX3Ao2ev7ADvfBIR;3;You Feel Okay?
+4fd0xNnX3Ao2ev7ADvfBIR;2;You Feel Okay?
 1awQLv1J6LkeEQ5co4OOoQ;76;All I Ever Asked
 0UaVjC0JeonTIbOdfT1hJG;5;Slip
-4PJpUal3LZF0oOqjiUKP1O;7;Revenge
-2jUcuBOT2eoBnoMBTM4L1i;71;Hello Heaven, Hello
-3yp3Hp8OzYV2IoSjYaoqff;51;Total euphoria
+4PJpUal3LZF0oOqjiUKP1O;6;Revenge
+2jUcuBOT2eoBnoMBTM4L1i;70;Hello Heaven, Hello
+3yp3Hp8OzYV2IoSjYaoqff;50;Total euphoria
 4JmUKz7Uht1PXRZOU3sdAk;31;A Dark & Graceful Wilderness
-5ce65iL78ZVFWmiU7Zuwuu;43;Everything Designer
+5ce65iL78ZVFWmiU7Zuwuu;42;Everything Designer
 76U8YEyo2El1OejrPzqKEW;51;Shut You Out
 6MgUqutCHsCqcnNno2Grrw;29;It's Not Like This In France
-1GCwYE51GUgn8QpxfLnMmc;26;Lexington Delirium (feat. Tomas Haake)
-6Y5y54rLwNr54ohaVnrouY;60;fuck, marry, kill
+1GCwYE51GUgn8QpxfLnMmc;25;Lexington Delirium (feat. Tomas Haake)
+6Y5y54rLwNr54ohaVnrouY;59;fuck, marry, kill
 44rqdhvXIFXY30GPejON8Y;58;I Know You'd Kill
 6ntpKcla0hOddQ5ePNdN50;21;Hard Rock Hallelujah (Eurovicious Radio Edit)
-3PeMBMsLg66PQdj8iHXZdd;17;Dead Lover
+3PeMBMsLg66PQdj8iHXZdd;16;Dead Lover
 3hMD0ERAbBb2fPpyQZkeTk;30;Neighbours
-7pYT7gUGbwUv37P56uPSYa;31;The Quarry
+7pYT7gUGbwUv37P56uPSYa;30;The Quarry
 6h6y3m83xvAOoCW3JZpzzf;64;DSTM
-0lz8lFFyJYyES1PUnIOZ92;31;Burbank
+0lz8lFFyJYyES1PUnIOZ92;30;Burbank
 1U6zdjZowXrmoq7mutrCra;44;Villain
-21bwGhYnBbVuK2dJMzUR7g;23;Mother Monica
-4hZCkqeLySYvHpTH5Wfm5s;29;Any Other World
+21bwGhYnBbVuK2dJMzUR7g;22;Mother Monica
+4hZCkqeLySYvHpTH5Wfm5s;28;Any Other World
 6sDkEEngIdIXH7COsU2PlY;39;A Better World
-5UzjTULdkTohjcZwOQwsqu;56;What You Said
-24C9lmp9KgvMWzDRhqUWOl;53;Slushy - feat. Kate Nash
-4aPQhK7LjodfShzIRcdh4R;18;Deconstruct
+5UzjTULdkTohjcZwOQwsqu;55;What You Said
+24C9lmp9KgvMWzDRhqUWOl;52;Slushy - feat. Kate Nash
+4aPQhK7LjodfShzIRcdh4R;17;Deconstruct
 0hLFRJetaM0qj09lyyJ9a5;59;Bonnet Of Pins
-45ACl4h73fWq3pAjGxyGNi;63;Pined For You My Whole Life
+45ACl4h73fWq3pAjGxyGNi;62;Pined For You My Whole Life
 40wPoFaubtIzG6t72wYS48;35;Take It From Me
 1Y5rtn3Zhyy6YXeAjwJScs;31;Crow (Fear the Night)
 2Spxk1qF1CePLePPO5AHtO;63;Bethlehem
 1diiLBOnInnwZjMnRyKWQT;59;POP GIRL
-1enkflmap9UUDfXwklKaR8;58;Searching for Tomorrow
+1enkflmap9UUDfXwklKaR8;57;Searching for Tomorrow
 3bxNSdZ99MRdzqr9Upbn3W;28;Rock N Roll McDonald's
 2Nt1BYLxePKdLeHFb0SxAC;37;Save Your Words
-6fMyxWuKyKE43zDMAmFnSl;35;No Consequence
+6fMyxWuKyKE43zDMAmFnSl;34;No Consequence
 4svPYkuVpl9Lum5fLlEXMo;40;To Live Deliciously
 2biprCCFQ448SrLUcj10ZC;50;She Called It (feat. Frsh Waters and Tru)
-63Bzygs59AHIiPDyp56EEL;28;The Darkest Side
-1d2Y8WnaOFpiNVdsNYI9lX;35;Black Hole
+63Bzygs59AHIiPDyp56EEL;27;The Darkest Side
+1d2Y8WnaOFpiNVdsNYI9lX;34;Black Hole
 6V6r27N6KvM5VMyHfcwvvN;48;Aimless
-2ADqXW0PikeuTMIT7ytxQj;22;SABADO GIGANTE
-5hoWM0nzNJzLteB23YNlAy;34;Archipelago
+2ADqXW0PikeuTMIT7ytxQj;21;SABADO GIGANTE
+5hoWM0nzNJzLteB23YNlAy;33;Archipelago
 4YDl2Oxc1mVRnZsZAbNzI0;58;You got time and I got money
 5yfhzEct1ulyU6g5oVRraj;77;KNOW ABOUT ME
 6Y7vnTPMGIuNP9w0r9FEQ4;52;push you away
@@ -1161,80 +1161,80 @@ track_id;popularity;track_name
 0GWqkv1sQa80HgbEdjiwNT;40;biological
 5fC7PXEG80aCHs2HXixNGD;38;Coat
 5F6nUQeBqODvdTze1xfzn2;6;Triage
-5uwCd5LwLrzcVxGO1laY24;44;BAD GUY
-0NzGtxHKcnMIdtxyq2LrE4;33;PS
+5uwCd5LwLrzcVxGO1laY24;43;BAD GUY
+0NzGtxHKcnMIdtxyq2LrE4;32;PS
 1Ga3YKiM1RzsQVLeD7xMl2;23;City 17
-5n6gfU5WOaMazDwejuJW35;43;This might be it
+5n6gfU5WOaMazDwejuJW35;42;This might be it
 3HEE6UD1Fflc2kvRKvEjYl;26;I Wanna Be a Ghost
-6SKTgAhiEMtU1GWx6Vguz3;30;Abilene Grime
-7dNg8khl5uESWTskg2ddNX;57;Paper Tiger
-7bdGysiA3N2RllQiiBjf5q;66;MIAMI (feat. Kyle Richh)
-6MWPCQKO7TkCLs6yrTGRqi;47;Dear Suffering (feat. Joe Bad & Fit For An Autopsy)
+6SKTgAhiEMtU1GWx6Vguz3;29;Abilene Grime
+7dNg8khl5uESWTskg2ddNX;56;Paper Tiger
+7bdGysiA3N2RllQiiBjf5q;65;MIAMI (feat. Kyle Richh)
+6MWPCQKO7TkCLs6yrTGRqi;46;Dear Suffering (feat. Joe Bad & Fit For An Autopsy)
 2j4vQSgLD6Z7WleY4xlkoS;30;Ricochet
-7uj5bFfCFpP3bXNcHPtcJQ;37;Pirouette
+7uj5bFfCFpP3bXNcHPtcJQ;36;Pirouette
 2DreUmH0fSm1OnYj3Ii1eL;42;In Misery
 5iIsClVGHkiXNum4RBo0d5;44;Shapeshifter
 4Hr5DNIfVCsTHjeqQA9Ak0;15;Tapestry of Life
 1UrwJzlNC2oaTlxj1OZmcu;83;twilight zone
 0Jc9dn7LaihjTPFoq4Eynp;43;merlot and grigio
 1CMReCzgjj7aakXOklvTyB;17;Severed Ephemerality
-28NemsDIgRYIyVovK6hQ59;29;Smothering
+28NemsDIgRYIyVovK6hQ59;28;Smothering
 4YIJn9SGCIVzTb1j2jKgVC;37;Treat Mode
-5NHaiowtCSpQbkIduUFAYI;43;Cheap Shots & Setbacks X (feat. Mallory Knox and ROAM)
+5NHaiowtCSpQbkIduUFAYI;42;Cheap Shots & Setbacks X (feat. Mallory Knox and ROAM)
 3GAqddcV0nwMHQI5RfMXoI;81;Afterlife (from the Netflix Series "Devil May Cry")
-1i1yttW6E8E7iNwhrCvz8U;55;Happy Cry
+1i1yttW6E8E7iNwhrCvz8U;54;Happy Cry
 3PTQ2rPfaPDxqpXOcRlTsZ;81;Panic
-3geXvdkUWdzqvnGxhOX71J;44;Jealous Boy
+3geXvdkUWdzqvnGxhOX71J;43;Jealous Boy
 0tJKgCm1jORmTRE4wuYFcS;36;Escape From New York
 65Csu3DczS27ZFv6LCieKl;62;Running/Planning
 529MfUPtJQHCSCvjD0IOKY;45;The Idiot
-2lnHmGz1KkSSw4aizcpHeo;47;Waterfall
+2lnHmGz1KkSSw4aizcpHeo;46;Waterfall
 1lppreanVHIEN8yW2LtdPx;58;Clean Heart
 7aGaP4f4H1IpryI1hv2xUh;42;Mine Me Mine
 3jCGBQK9cD8wneec7FqpRC;39;More More More
 63j1HWrXmSk1zK7IZYQepo;82;STUNNER
-6wPjsL8ie3M8n0aLM59bDh;44;Doves
+6wPjsL8ie3M8n0aLM59bDh;43;Doves
 3eHIAhDwgsIgKIwH6yklY9;25;Cost of Spite
-3yxJaRI0o8rZTA8qtKHhKi;61;Dancing in the Club - MJ Lenderman Version
+3yxJaRI0o8rZTA8qtKHhKi;60;Dancing in the Club - MJ Lenderman Version
 1kK5c8Koreq6x9hfYAPrJZ;55;Fatal Attraction
-5Sk2OqwOCNKUuTe2u3WCeB;41;Dai Buki
+5Sk2OqwOCNKUuTe2u3WCeB;40;Dai Buki
 204TjMh4AG3S9hizWFegYa;48;bored. tired. torn.
-161IyaSiRTUM7yPT44PC32;33;Rookie
+161IyaSiRTUM7yPT44PC32;32;Rookie
 5Q3CCdEqvZMx2rIUebw0gW;64;Most Wanted Man
 6rPXEKUbNVy7AT6SvgXxcC;27;My Blood
 05xHxEKlfb4dZrA5Ojhfyx;34;Low Life
 1Ko7Itkinckv0BrWWJgmBQ;38;Oganesson
 0ZQN1KuT5rPC0U4RqN7Tmd;33;FAJITAS
 3WDoIP9z8IXS1F3ol9lmVr;60;carry me through
-5rVPmubVBulowkrpvj8MOS;26;PHD
+5rVPmubVBulowkrpvj8MOS;25;PHD
 5p9JMOuMlYLDtfWtzW23v6;41;Scanners
-21cWL7lvLaKQfPbC30Aejs;50;Hole In A Frame
-0O3xjUzX5bYRduj1D8dS8e;27;Medicine
+21cWL7lvLaKQfPbC30Aejs;49;Hole In A Frame
+0O3xjUzX5bYRduj1D8dS8e;26;Medicine
 7z48gaf7eLoS2javafCBRP;52;The Marvelous Orange Tree
-65SovR8Agl5vY7vtJ02wk7;56;For the Cold Country
-5IL3VPDy5siXiptYHF2aLS;86;Up From the Bottom
+65SovR8Agl5vY7vtJ02wk7;55;For the Cold Country
+5IL3VPDy5siXiptYHF2aLS;85;Up From the Bottom
 1AR66M8x6lD7HRZNeX4K87;34;The Wolf
 1q0InfGwHKTEYIHrYxh95Z;64;Need You Around
 2kPgG5d0fKYhMzr7kt4ZBs;52;Going Blonde
-69cHQDUOEmva7wLvVCrwYL;49;Generation No Surrender
+69cHQDUOEmva7wLvVCrwYL;48;Generation No Surrender
 5GRiKRb2j9AqKwwhdjnmKI;60;The Bog Body
 2nQHxlSAN9Gw3G6asqrDWe;49;Give (with Monaleo)
-05O8KklNXxbVYKRUkOKiOD;42;Stonefly
+05O8KklNXxbVYKRUkOKiOD;41;Stonefly
 5oOaaVyWQRGulPtqsxivuu;10;What Would You Do?
 5zITiikxJP51591PPTd0pU;57;Magnolia
 35zLu8pT2KSMN0O36JLhIL;53;Get Dumber - feat. Jeff Rosenstock
 1BLqWL5GNDp3hwaMCSbddb;38;20/20 Vision
 4joCdZ76bt2OQTqYMbizJI;53;Dirt
-0aLNzUmrKvkjaKyh7C2NRZ;52;GROUNDWORK
+0aLNzUmrKvkjaKyh7C2NRZ;53;GROUNDWORK
 7lv0grRnvqhmnERdn320PX;68;You
 4t4veTYSVvPHSWSlLMAvRC;54;Fire
 3to4OKj9n761FdZ8fGGq17;44;Mau Moko
-1pLIbMtWDbTu8AL2om5ooP;35;Above the Lake
-0Mv7u9hIjnbCHxFPDMpe6Y;35;SURVIVAL AIN'T TAUGHT
-1EQE7ZGC1n1AM49KHa0PcB;49;NIGHTMARES (feat. Lil Poppa)
-6wO0FMzk3BWBBJKSJYFHFf;36;Gone West
-0g0OCn2UZortZbRPiK5wNO;40;Breaks Me Down
-0zE6b0e3Y71Udpqqfw4Z2y;43;mumbleman
+1pLIbMtWDbTu8AL2om5ooP;34;Above the Lake
+0Mv7u9hIjnbCHxFPDMpe6Y;34;SURVIVAL AIN'T TAUGHT
+1EQE7ZGC1n1AM49KHa0PcB;48;NIGHTMARES (feat. Lil Poppa)
+6wO0FMzk3BWBBJKSJYFHFf;35;Gone West
+0g0OCn2UZortZbRPiK5wNO;39;Breaks Me Down
+0zE6b0e3Y71Udpqqfw4Z2y;42;mumbleman
 4uKPYoDkFqrCbN9vCseMoH;51;forever
 3LEIp7OkTqbGS6WBeivfv3;56;Inner Sanctum
 3qDTmWFWbiI9X62owRPrnM;59;Girls Trip
@@ -1243,40 +1243,40 @@ track_id;popularity;track_name
 6S22u1v8DqAXIDYyujqTFT;13;Dot Gov
 3BvjuuVPy8VcfTIFXE5QWE;43;Ratbag
 2FyLorTJ14A6zslCm1jiRC;15;Gatekeeper
-0Aylmo4XOCBxXWtnyvM3YV;30;Aegean blue
+0Aylmo4XOCBxXWtnyvM3YV;29;Aegean blue
 4lrIGxXMwApfERfnLiEnh5;49;Fire Sign
 7fk5buzd6JTrRouvR1Qvuq;41;It Will Get Worse
-1INKM9rkFAOKpIXFJaH3Ro;22;Trace
+1INKM9rkFAOKpIXFJaH3Ro;21;Trace
 4uyYd09ILlXDhxVo3V5YdP;43;Fluid Mechanics
 3J2ZpP5eNMQwqtpVjf8BBd;65;Money Spread
 7BzfqlcZzFr2bjTbLfxx1a;49;Lost and Found
-1UnPDzVRkrTBflEQ9MJUhX;51;scorpion ascendant scorpion
+1UnPDzVRkrTBflEQ9MJUhX;50;scorpion ascendant scorpion
 5zlseWJvr7Lyqj7VCLaj50;49;Night After Night
-4LAnkpI6JW7bB4hRwMYF3y;27;Causality's Grip
+4LAnkpI6JW7bB4hRwMYF3y;26;Causality's Grip
 5u5gkOBTv48cpXVMqkPkpK;81;Carita Linda
 0hw2CGX8jaIpS4jGDn3dfa;76;Lachryma
-3kBOW8cxHKciSs8fesdjho;53;babygirl (like n01 else)
+3kBOW8cxHKciSs8fesdjho;54;babygirl (like n01 else)
 6g6DnHs3W4U6qMERbKwpDd;64;Spike Island
 2Tr7s79xvkh70uA1pW2z1a;52;Trailers after dark
-4yErFNfUp8cD7BYd5WjD4B;47;Threw Me Away
+4yErFNfUp8cD7BYd5WjD4B;46;Threw Me Away
 6uAkbvkeysbcpfYpkoDfBd;34;Prince Charming
 7ygjfxmmkgPN0nbyYOMD2T;64;Hoochie Coochie
 1IPRwv7FqZvdaawA2YWCcQ;58;Sweet Danger
 03RiKZFaRFZjAAmtd8yiCm;46;Mourning Haze
-7dPbeZ34TfAnSmRJOYsGlw;49;Eye Candy
+7dPbeZ34TfAnSmRJOYsGlw;50;Eye Candy
 5VJNF9RdCPN99IDCbmMchz;69;Smash It Like Belushi
 3Dv3zgW4OHauERx9RIZUXL;51;Not Hell, Not Heaven
 1noZLKaVUYHiyhl6bhh4j7;37;When
 0s7HE3okWqRZdiBsyyzREm;17;Beliefs & Thieves
 11wHmDneCglIJZRMOMUhUw;68;catch these fists
-5nVH1DNdUxObbhz9R26HX5;32;Hardcore Pride
-5SZWHxjlK2Sbt43KjM1dCH;52;Kick Start
+5nVH1DNdUxObbhz9R26HX5;31;Hardcore Pride
+5SZWHxjlK2Sbt43KjM1dCH;53;Kick Start
 4JLWltECqNPbCFCn9gpILI;17;Microwave Dave 2025
-11usUonxPSoT8wAqaADeh5;32;Unrecognisable
-2X22Q0feuI9zHsj0V7X3bw;17;Terminal Sinker
+11usUonxPSoT8wAqaADeh5;31;Unrecognisable
+2X22Q0feuI9zHsj0V7X3bw;18;Terminal Sinker
 7HcDa3XQYbgjo5DWvEmLME;30;Glib Tongued
 52fkmPIUwPbcka3QCVGL8u;39;Engines of War
-2mEgBXBksVpGBotlB1yGZD;65;Potion
+2mEgBXBksVpGBotlB1yGZD;64;Potion
 0HELTZyVi4APXu85RtVGfn;49;My Way
 4Mby3bFNHQChF9tQARfhpl;40;ZEET NOISE
 0UOmbKzxlfxq63m6AvnGik;40;Dissociation
@@ -1292,7 +1292,7 @@ track_id;popularity;track_name
 3qS4spuVywoeh9uGIpRuQh;76;Bout U
 4fo0OT2CUmYuh1N6jpz1S2;47;GUM
 0vsW1vAlNYiy9Y5briGT8Y;79;Doubt (demo)
-2f3ePwl3SUl0T6AscZpWSS;43;Vacation (feat. Kim Hanjoo)
+2f3ePwl3SUl0T6AscZpWSS;44;Vacation (feat. Kim Hanjoo)
 37Pvim4Q5XnvMFxaUgBwUl;44;FREAKY (JUST MY TYPE)
 5NcERZAyJaKsiLx0RE0OIZ;38;Tidal Wave
 4GyxvCkRn9sS7pgWmt1r8D;28;it's nice to see you, stranger
@@ -1306,14 +1306,14 @@ track_id;popularity;track_name
 6ONyZXRIEiZWWnAA1F5YvH;69;NEVER ENOUGH
 456tPmLLrNb6ZRTeyS2h80;45;Mirror's Edge
 3XdifwqjAy3UatMc7X5SA6;42;The Swarm
-78QX8VG9PP6zZr7SIv1lMn;42;People Of Substance
+78QX8VG9PP6zZr7SIv1lMn;41;People Of Substance
 2VihwGHfl9zRpNRvd9mELR;36;Disappear
-2oWQin3JziO4aw4IrEkAmF;50;Running From Myself
-6TVEKajVtkKDK3FLHKjImI;35;The Dormant Darkness
+2oWQin3JziO4aw4IrEkAmF;49;Running From Myself
+6TVEKajVtkKDK3FLHKjImI;34;The Dormant Darkness
 3DlZgQdjxFOK2mE2HMi54N;46;HIDE & SICK
 6uAt2PE7YB5gHeCAFeD7G6;59;Just As Long As We're Together
 5PCIZcn6hKrMA8fmtRoX7Z;68;Fantasía
-0THk8iwvaeh6mJdmbAN3n1;34;All The Fun (Kiss, Kiss, Kiss)
+0THk8iwvaeh6mJdmbAN3n1;33;All The Fun (Kiss, Kiss, Kiss)
 5THdCNXFd7JK1ayDYYvzwB;68;Arc de Triomphe
 7uWS4zoWMNU9fUPojMYilC;75;There's A Rhythmn
 0NZA5EV3kEEXq5WPntld7j;54;I'm Not Okay (I Promise) - Live for BBC Radio 1's "The Lock Up", 2005
@@ -1324,47 +1324,47 @@ track_id;popularity;track_name
 0f5WbS0PZYg2uycwH93d0J;37;Walk Away
 0rskWKxA2Den0sB1d2VDNe;26;Dance of the Dead
 3f3ujFD6YndqRRVYuBcq7T;81;Blink Twice
-0gkbSKHIteBnTaICk5olxg;44;Daughters
+0gkbSKHIteBnTaICk5olxg;43;Daughters
 4Qo7DihRo4WZfGAx7WysX1;43;candy stores
 0WkFeasMq9WN2VBTUj1TkZ;31;East Side Screamer
 3RlXwxY5AycYPByZGzUvGx;33;GOOD APPROACH
-1EAadJeM4oPkNIYMjG8zDH;40;Juicy Juice (feat. Marie Davidson)
+1EAadJeM4oPkNIYMjG8zDH;39;Juicy Juice (feat. Marie Davidson)
 3BMOWnSBFfWK6iI215a7sl;50;Julia's War
 2RVfQmutQ7lxeYkwlCa5YQ;23;Keeper of the Spectral Legion
-1XBUx3dTxIQNCwacusLnLq;21;Battlefield
+1XBUx3dTxIQNCwacusLnLq;20;Battlefield
 2P5bbp7BeVtrECPJaN8AFO;63;BREATHE
 1izgz7mqWzI5QR3E8y7nQI;49;Disgusted
 6mfJi0SkVeIjyMz0edElJZ;57;Aerial Troubles
 3uruZfzYaJXQ9XlNF61eWm;28;Gainsayer
 5JIFp0cy0sW4VrT8KFNDL8;24;Jean
-0YZZAc7QdoajWVQy9mwuDb;31;Orange Wine
+0YZZAc7QdoajWVQy9mwuDb;32;Orange Wine
 0BMiAWhG8u5JZ9GeDCFxu5;59;stick
 2QnK5QbiEJcaPznXrHm2rx;27;The Universe
 7KaPirdYI1EUhma39W8RVH;45;TREAT HIM LIKE A BABY
 1eTaznNW4Xxtx9za2SMTXB;91;DENIAL IS A RIVER
 1IsTAirdLWvepahSLS2RuK;69;LiveLeak
 25UyAa5Hbs1q8xyxEH44CV;17;Operating Theatre
-6oDq5UbJ7KReFPCNtO64wa;25;501s
+6oDq5UbJ7KReFPCNtO64wa;24;501s
 5ji0TlbJHbHkbNrr6hoi0n;56;Rain
-06ctaytGDUM1piASlJKz7C;26;Waiting pt 1
-6cIaCOBTxU0XWSMth3X5XJ;29;Circles
-39uVOjTRhPSAP25IrtShlf;40;Closer to
-0Gay3QPsTjr7rMZ7iZvn3L;56;Superchú!
+06ctaytGDUM1piASlJKz7C;27;Waiting pt 1
+6cIaCOBTxU0XWSMth3X5XJ;30;Circles
+39uVOjTRhPSAP25IrtShlf;41;Closer to
+0Gay3QPsTjr7rMZ7iZvn3L;57;Superchú!
 37QFhBYOcgmhDudsi6WguG;28;Let Her Go
 58YgJTEitdF7XrjtGjTmzZ;31;No More Lies
 1bQgnEy92W40mRISzggTcx;28;Slugs of Love
-7IF328weNbUocWsxzosLsB;61;WORSHIP
-5rffvBl5fCAGCW6hdTZ3q9;59;Sweetie
+7IF328weNbUocWsxzosLsB;60;WORSHIP
+5rffvBl5fCAGCW6hdTZ3q9;60;Sweetie
 4z6fzxEDnVnX6t9K1iucEq;27;Up
 0Qi61XNXkLdwmdSpkdl6fp;23;Goth Flyer
-3a1lOAz6q6BqTXTlmbJ1LR;45;Party
-2s9W0ExbSc9ehfUqLDdvWa;28;What Do I Do Now?
+3a1lOAz6q6BqTXTlmbJ1LR;44;Party
+2s9W0ExbSc9ehfUqLDdvWa;27;What Do I Do Now?
 4Td2eP3ZWU7R7ZxmXCiRus;30;Winter Solstice - Braxe + Falcon Remix
 0U3RE6XHGfXE7R7u6uxzQE;28;all types of…
 1lg1XJk0XHBfeqT389cfcJ;55;Roll the dice
 1hFT8Zu64AiU4Yxslgxp62;11;In Your Head
-2g7q8degYW2rpPlhhbzp9y;39;Double D's
-2TYAJJTyGC4i3m0RlhuXeu;71;do what i say
+2g7q8degYW2rpPlhhbzp9y;38;Double D's
+2TYAJJTyGC4i3m0RlhuXeu;72;do what i say
 6utHnrJQzxy4RFj9KR8dKU;30;Tied Up!
 2F9RANfKhByYWOhUiY7Fh0;37;At Races
 4FHOYNRL2EylpvuE8J27KQ;41;sekisei inko
@@ -1381,55 +1381,55 @@ track_id;popularity;track_name
 0A729xUCZcmAwIbeP0kzlU;29;Comme nous
 6LX5c4UZpwp3z4ckHXk10c;39;DICKEATERRR
 3nHuKdFJZm78CoeBnDcFKe;86;Bad Dreams
-7G9gQnsi4Gih7SRQ1quNi7;32;Monsieur Hawkweed
-0Okysd8JMaWIrXcR1M08he;32;Curwen
+7G9gQnsi4Gih7SRQ1quNi7;33;Monsieur Hawkweed
+0Okysd8JMaWIrXcR1M08he;31;Curwen
 3sC1NBKIjCtkR7tIOzdFSj;49;NORTHERN LIGHTS//
 5dvS2lWBnnvG1t4FE2PTFD;59;negotiate
-5lIZV7Cxi49kAzB6fkwsFD;52;On The Wall
-7Bm5gRS95dygRGlesAHITy;41;MoreThanBRILLIANT!
+5lIZV7Cxi49kAzB6fkwsFD;53;On The Wall
+7Bm5gRS95dygRGlesAHITy;42;MoreThanBRILLIANT!
 14EIMnVz4Xqj1nZWOQRHXU;49;By The Way
 5VceXjXeBMGOHC04rjpyC7;71;4 Kampé II
-4UTxb5lxVDfIvLkiZHJeus;27;In A Dream It Could Happen
-79qKtKFvTWYoLYVcJnBCVh;28;Hegemonic
+4UTxb5lxVDfIvLkiZHJeus;28;In A Dream It Could Happen
+79qKtKFvTWYoLYVcJnBCVh;29;Hegemonic
 0276oT52BTy2zKrTQyYPQt;43;Wildflowers
-5it3ewecYnjQwFjnaKaUOt;50;The Only Marble I've Got Left
+5it3ewecYnjQwFjnaKaUOt;51;The Only Marble I've Got Left
 3hhVZKJSMnCG1LjZkYSohk;45;Tall People Don't Live Long
 40dyQB7OvOTRlMi3Q2lsPe;46;Babylon
 5NgUs4A8db3NL75hvDr4eB;57;Crowd Caffeine
 3XvpJRDF9ZPkoEWIkTDVoy;58;Modern Romance
 5PfwfCMY5XETgcitcBLZfl;31;Echoing Chambers Within the Dismal Mind
 2tA9LObXZkn5oazvqyRkxY;61;KISSING IN PUBLIC
-1wxZ9pAu1nW79Toy255OFz;64;Kimpton
-0r4mIUyLLb3LmBfoyQfgYJ;53;SMH
+1wxZ9pAu1nW79Toy255OFz;65;Kimpton
+0r4mIUyLLb3LmBfoyQfgYJ;54;SMH
 7bmPfsGNntrLq8ZRP5g8wj;47;Country Girl
-1oVAmJ2oaHv5NWFH99jCWE;69;Before You I Just Forget
+1oVAmJ2oaHv5NWFH99jCWE;70;Before You I Just Forget
 0CJ24lZw7BIpnzOCpZ3jb4;30;Torn Reckless
-6ypXD7FgiZ3kOQCxivpsdu;46;Working On Me
-1u3g9logKPJbG92rtABCR1;53;K.T.Y.W.S.
+6ypXD7FgiZ3kOQCxivpsdu;47;Working On Me
+1u3g9logKPJbG92rtABCR1;54;K.T.Y.W.S.
 4FpS1060SdichaSM0ZJ57K;40;Not The Same (feat. Jastin Martin)
-22YkP95GjCfXkWKyU5k1zZ;72;Show Me Love (with Tyla)
-0ti0CEUPplsI7AZDyexrXy;65;Countdown!
+22YkP95GjCfXkWKyU5k1zZ;76;Show Me Love (with Tyla)
+0ti0CEUPplsI7AZDyexrXy;67;Countdown!
 4UuCVPaGrR2sbCOdeJiNie;35;Sunshine Song
 3YxMOcoa7ogJlG4e6zyJwm;60;Get back to me
 2pJL7VBbeO4ZqVIUDf0x9H;79;Bluebird
-4lI7UfkkM630iI7ZjX1Ew0;8;A.M.
+4lI7UfkkM630iI7ZjX1Ew0;9;A.M.
 0SMFOOsqD1jicOhuorY1vz;54;Song for You
-3DXsJF9I3rmb4tzTaavbpT;56;Ready Go
+3DXsJF9I3rmb4tzTaavbpT;57;Ready Go
 2OpTpHyOV0sbeeyZOeZLLj;38;If It's Not Luv
 5tevqZie8vY6t1c5O1zt5h;50;diamonds
 0BnGkx3tOWDLcdinr7RtkU;42;Rabbit Hole
 1zhuxiOHjHVCp1pReDxRmt;26;THE CATALOGUE
 6KyWwTuqwOdXr5hhI7P10U;24;Cog II
-1jVbNXrlLVZZujWHKmRUNG;52;KK
-1b6TlPaQ1FUjJtgHbvrGXB;40;This Room
-7EW7Yivb93qKAtp5qEm5of;93;Dark Thoughts
+1jVbNXrlLVZZujWHKmRUNG;54;KK
+1b6TlPaQ1FUjJtgHbvrGXB;41;This Room
+7EW7Yivb93qKAtp5qEm5of;92;Dark Thoughts
 3ZTg8yL0YzvVLB1fyvvZhp;39;IT'S UP
-1efXUbx5gsLd2sqjszBtx1;81;Headphones On
+1efXUbx5gsLd2sqjszBtx1;83;Headphones On
 5hRpKNogEPwDNdDKYYTtmJ;55;Burning
-2dNRnuMiLjicWMbmSkKF4n;59;bed no breakfast
+2dNRnuMiLjicWMbmSkKF4n;60;bed no breakfast
 6CjHgFX4HLI0MbFCCRkUYe;50;Can't Keep A Beat
 5uMlfVjrj8Jr5tTxaNati8;47;Silk And Velvet
-1XJKUkTvBkf20razODzMVp;30;Joking
+1XJKUkTvBkf20razODzMVp;34;Joking
 2SbCeAa11fMv2YrgkSAqkf;45;Dreams
 1d21teYPebHp8P0ZalkS65;53;Déjà-vu
 1Cbl3Yq8rHo7hhDQmLQagU;88;PUSH 2 START
