@@ -104,15 +104,21 @@ def get_playlist_total(token,uri) :
     valid_token = 'Bearer '+token
     headers = format_token(valid_token)
     url="https://api.spotify.com/v1/playlists/"+uri+"/tracks?fields=total"
-    try : 
-        result=get(url=url, headers=headers)
-        json_result = json.loads(result.content)
-        return json_result['total']
-    except Exception as e : 
-        logger.info(f'bug get_playlist_total pour uri {uri}')
-        logger.info(f'description : \n {json_result}')
-        logger.info(f'description : \n {e}')
-        return 0
+    count = 0
+    while count !=5 : 
+        count +=1
+        try : 
+            result=get(url=url, headers=headers)
+            json_result = json.loads(result.content)
+            logger.info(f'total fetched : {json_result["total"]}, description : {json_result},  attempt {count}')
+            return json_result['total']
+            break
+        except Exception as e : 
+            logger.info(f'bug get_playlist_total pour uri {uri}, attempt{count}')
+            logger.info(f'description : \n {json_result}')
+            logger.info(f'description : \n {e}')
+            sleep(60)
+    return 0
 
 def get_playlist_snapshotid(token,uri) : 
     '''this function gets a playlist snapshot id'''
@@ -155,7 +161,6 @@ def store_uri(token,file) :
         offset = 0
         total = get_playlist_total(token,liste_uri[i])
         count_track += total
-        logger.info(f' total tracks playlist {i} : {total}')
         print(total)
         while offset < total : 
             headers = format_token(valid_token)
@@ -283,11 +288,9 @@ def get_playlist_tracks_uri_new(token,uri) :
             # liste.append(f'{b} - {c} - {d}')
             dico[b] = [e,b,c,d]
 
-        logger.info(f' tracks fetched: {len(dico)}, ')
         offset = offset+100
-        print(dico)
     #f_out.close()
-    print(dico)
+
     return dico
 
 
