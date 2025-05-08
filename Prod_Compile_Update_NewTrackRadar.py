@@ -10,7 +10,8 @@ import logging
 from functools import reduce
 
 #constant variables
-TODAY = datetime.now(tz=timezone.utc).strftime("%Y-%m-%d")
+TODAY = datetime.now(tz=timezone.utc).strftime('%Y-%m-%d')
+HOUR = datetime.now(tz=timezone.utc).strftime('%Hh - %Mmn - %Ss UTC')
 
 #public and private keys
 load_dotenv()
@@ -28,7 +29,7 @@ line_jump = lambda x,y : str(x)+"\n"+str(y)
 #logging file setup
 logging.basicConfig(filename=f'log/spotify_playlist{TODAY}.log', level=logging.INFO)
 
-logging.info(f'date script : {TODAY}\n----------------------------------------')
+logging.info(f'date script : {TODAY} {HOUR}\n----------------------------------------')
 
 #first step : getting a valid access token
 ACCESS_TOKEN = get_access_token(REFRESH_TOKEN,CLIENT_ID,CLIENT_SECRET)

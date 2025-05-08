@@ -130,7 +130,7 @@ def test_request(func) :
             count +=1
             result = func(*args,**kwargs)
             if result.status_code !='200' : 
-                logger.info(f'resultat requête \n status code  : {result.status_code}\n headers : {result.headers}\n reason : {result.reason}\n')
+                logger.info(f'result for attempt {count} \n status code  : {result.status_code}\n headers : {result.headers}\n reason : {result.reason}\n')
                 sleep(60)
             else : 
                 logger.info(f'{count} attempts\n final result :  \n status code  : {result.status_code}\n headers : {result.headers}\n reason : {result.reason}\n')
