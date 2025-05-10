@@ -6,6 +6,11 @@ def get_directory() :
     '''this function navigates to the stats folder'''
     os.chdir('..')
 
+def minute_seconds(x) : 
+    rounded = round(x/1000)
+    minutes = rounded//60
+    seconds = rounded%60
+    return str(str(minutes)+"""'"""+str(seconds))
 
 def get_weekly_data_local() : 
 
@@ -31,6 +36,11 @@ def get_weekly_data_local() :
     df_spotify = df_spotify.merge(right=df_added_at,on="track_id")
     df_spotify = df_spotify.merge(right=df_artist_data,on="artist_id")
     df_spotify = df_spotify.merge(right=df_genre,on="artist_id")
+
+    df_spotify['duration_seconds']=round(df_spotify['duration']/1000)
+    df_spotify["minute_seconds"] = df_spotify["duration"].apply(minute_seconds)
+
+    df_spotify['added_at']=pd.to_datetime(df_spotify['added_at'])
 
     os.chdir(curr_dir)
 

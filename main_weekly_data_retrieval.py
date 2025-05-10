@@ -42,7 +42,7 @@ URL_TRACKS = f"https://api.spotify.com/v1/tracks?"
 URL_ARTISTS = f"https://api.spotify.com/v1/artists?"
 
 FIRST_LINE = ["track_id,danceability,energy,key,loudness,mode,valence,tempo,duration_ms,time_signature",
-              "track_id;popularity;track_name",
+              "track_id;popularity;track_name;duration",
               "artist_id;artist_name;track_id",
               "artist_id,total_follower,artist_popularity",
               "artist_id,artist_genres",

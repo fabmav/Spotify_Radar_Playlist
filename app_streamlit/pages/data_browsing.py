@@ -5,29 +5,40 @@ from config import *
 
 df = get_weekly_data_local()
 
-st.write('page browsing data')
+st.title('Data Browsing')
 
-col1,col2 = st.columns(2)
+col1,col2,col3 = st.columns(3)
 
 with col1 : 
-    with st.form(key="artist_choice") : 
-        artist_name = st.text_input("choose an artist")
-        st.form_submit_button()
+    st.header("browse artists by genre")
+    df_genre = df["artist_genre_main"].unique()
+    genre = st.selectbox("Pick a genre",df_genre)
 
-    st.write(artist_name)
-
-    container = st.container(border=True,height=500)
-    with container : 
-        st.write("artist_list")
+    df_selected = df[["artist_name","track_name","popularity"]].sort_values(by="popularity",ascending=False)[df["artist_genre_main"]==genre]
+    st.dataframe(df_selected,hide_index=True)
 
 with col2 : 
-    with st.form(key="genre_choice") : 
-        genre = st.text_input("choose a genre")
+    st.header("browse by track popularity")
+
+    values = [0,100]
+
+    slider_range = st.slider("choose min & max popularity",value=values)
+
+    df_by_popularity = df[["artist_name","track_name","artist_genre_main","popularity"]].sort_values(by="popularity",ascending=False)[(df['popularity']>slider_range[0]) & (df['popularity']<slider_range[1])]
+    st.dataframe(df_by_popularity)
+
+with col3 : 
+    st.header("More information on Artist")
+    
+    with st.form(key="artist_search") : 
+        artist = st.text_input("select artist name")
         st.form_submit_button()
 
-    st.write(genre)
+        try : 
+            artist_info = summary(f'{artist} music',sentences=3)
+        except Exception as e : 
+            artist_info="No information found"
 
-    container = st.container(border=True,height=500)
-    with container : 
-        df_list = df[["artist_name","track_name"]][df["artist_genre_main"]==genre].drop_duplicates().sort_values(by="artist_name")
-        st.dataframe(df_list)
+    # artist_info= summary(artist,sentences=3)
+
+    st.write(artist_info)

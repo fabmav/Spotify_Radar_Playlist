@@ -48,65 +48,21 @@ artist_id,artist_genres
 6sNcyjEVdNlZ0dpgr7EcT9,slowcore
 7xJVICbAWizNBKBD3mRWjF,electroclash
 1Xxg6sCMl7PmZCdolPyxh0,underground hip hop
-6kdAf6E0EouXKBpBZN1Sx9,acoustic rock
-55Aa2cqylxrFIXC767Z865,hip hop
-7B2edU3Q7btJoNsoHCNohM,indie folk
-5DslL3PUa3BcRlCCEP64A4,witch house
-2YjxwZOy5LDPJcXSWXglSN,k-rock
-7o6cOczXTB8ioTAAJTbESf,metalcore
 3A5tHz1SfngyOZM2gItYKu,alternative hip hop
-5HvKzBgj4yphQfBJjBJrhL,hyperpop
-1VFYpTpgmp7ANXqok2dTg3,industrial
-1WZarnZpWEv7dDtjAETt4X,art pop
-6vbKIm1WsvhMMDpthYONc1,k-rap
-5Wj0an60VgRckYV9zlDe1e,indie rock
-26hW7zYB4V3PGMPBKoBdgl,post-punk
-6fxyWrfmjcbj5d12gXeiNV,punk rap
-6OjtkJDlAZzlzAydEn78cK,sexy drill
-294lNTPZfdqyzt8qnxmFiL,alternative r&b
-2osrICe2kgcit3D086z3Lo,gothic metal
-34UhPkLbtFKRq3nmfFgejG,shoegaze
 6HCzzbQ8cHeZnqojIk7HgE,post-punk
-4wXchxfTTggLtzkoUhO86Q,indie
-3Sp7HTc7BNbSx0SPiHVeRI,indie punk
-1PvBXGOTvO3zrbDtL5mKEB,gothic country
-30b9WulBM8sFuBo17nNq9c,k-rap
-06NrwSBss5Imv1Se0Hlv5Y,hardcore punk
-7rZJ1D1ERxrHNKTWwpZFVU,metalcore
-7owveHzN1hmQuw6Ojg4sI3,japanese indie
-6slrkfC61k7yWM5Hl5USES,jazz
-4YNvbaOaqp5pzC5US5t48k,hard bop
-3SONlwqLIP2GtaMh9pLYe5,free jazz
-7g3iwvP459BN53F7CDxemI,free jazz
-6txzCcsy6ZKKKQLHmE3Y9L,jazz
-47hexMV8ZbDWZ9MSwSWD50,jazz
 4M5b70A8aORXdyJVjRJ8du,alté
 2siXaXrok89Fp1PZI7sn0s,alté
-3luuQQRuSBuDNnrkYvatnk,indie jazz
-0whJ2FDPMvAL5DQaEox7RD,nu jazz
-5GUQyp5KqMspjfP1cuHtnc,nu jazz
-7DoCMYqpSbn3kgBSWDpnLP,post-punk
-0LOK81e9H5lr61HlGGHqwA,k-pop
 1HY2Jd0NmPuamShAr6KMms,pop
-7Lq3yAtwi0Z7zpxEwbQQNZ,k-pop
-5Pir3nnrulz7WMyC9bFhkL,dream pop
-7HkdQ0gt53LP4zmHsL0nap,r&b
 16Yf6ZfrDTWu4jt7GQrjdL,newgrass
-4Sw0SFu1fFdYXdAEVdrqnO,indie folk
 2lP34R0Q7edlojuJrUMPnj,dream pop
-1TkiNxDsrc0PgIWBrATCbe,dream pop
-5APEQlUaQ5K70LgPqAdTuU,dream pop
-0LVrQUinPUBFvVD5pLqmWY,madchester
-7zQ4NNGWgCVWU80Rg6dXOH,east coast hip hop
-5SVFuUaS3BKAdJs6I8rVa4,mpb
 6xFrZbce9KH5APjBe4QVNa,underground hip hop
-3wury2nd8idV4GecUg5xze,alternative dance
 0eNuNAhL4dW2nvKbSe2mS8,metal
 7mrvU3OShTgthJV80o2day,boom bap
 0Mz5XE0kb1GBnbLQm2VbcO,hip hop
 0nZHjqvdLoBy50ZzUH5FNU,art pop
 3lLHpTOJ11tWiUNGYN14gt,jazz rap
 5t5FqBwTcgKTaWmfEbwQY9,k-pop
+6fxyWrfmjcbj5d12gXeiNV,punk rap
 3183eBpNb3nicV6VkhwCUL,idm
 1NXSMPrdftOB0I4LeSkwjz,tamil indie
 5szMuuBbDzULkagWIfI5LG,jazz
@@ -136,7 +92,7 @@ artist_id,artist_genres
 6m30rs1IQqnWqV5nKMpU7U,funk
 4DJHbK2NrlVn7hCkTrUs69,experimental hip hop
 3wkT6THiKqbXC0jJpfKL7t,experimental hip hop
-62tqJaaK7ys8tATtp4334R,hardcore
+62tqJaaK7ys8tATtp4334R,hardcore punk
 7Atp614yT56v9XrlqZryzX,pop punk
 6EyzBjjCPBP7s5W8d3wMOe,hyperpop
 6R1kfr0GIWnwxY4zW11Vag,electroclash
@@ -201,7 +157,7 @@ artist_id,artist_genres
 4D1gckOVE54GdYpS7J4noB,jersey club
 37394IP6uhnjIpsawpMu4l,metal
 6BBkWyAZhcINj7GecYg3Wd,underground hip hop
-1EXhFWMkZ775rxYoHSSbkH,hardcore hip hop
+1EXhFWMkZ775rxYoHSSbkH,underground hip hop
 7AHs1k8PtT8HRhFvNhOJRU,medieval metal
 3Ut1IKlpXHBQwxklMxBsPX,uk drill
 1F4zB8anWEIF1ktyvkaXO3,black metal
@@ -242,6 +198,7 @@ artist_id,artist_genres
 4uOeSBqJoBz5OrxrsrTboH,pop punk
 7n2Ycct7Beij7Dj7meI4X0,k-pop
 3Vl9fyKMIdLMswk8ai3mm9,hyperpop
+7o6cOczXTB8ioTAAJTbESf,metalcore
 4GgBKgxhc649frZDHcXIEz,k-pop
 1Ia5iTYHMBsMQfi7Fbcbuw,metal
 30XB6UJMhn7v7ZDX2GlIsM,indie punk
@@ -260,7 +217,7 @@ artist_id,artist_genres
 5j93hwFBNo29RJMsWvtzj8,alternative hip hop
 6wOhrwpLn8mjwUs14xh9nD,speed metal
 1lsXuaLnHnfL7GoJXKkUtH,punk
-41hQlpi3r8ljXeRYbHbUBD,hardcore punk
+41hQlpi3r8ljXeRYbHbUBD,groove metal
 2RiGIRDi4GoJpDbjDnPVJl,deathcore
 3lrDYjsghBMfUTiLziD9q9,art pop
 0u3d5PM2FuEuG5QuUdt8mT,metalcore
@@ -270,9 +227,10 @@ artist_id,artist_genres
 1HaiS1sFo8qkc6tF5Mw1M0,groove metal
 5Zsmx4eGounUJ1Hqq6tIQs,post-hardcore
 0giVCDcrvEldaPK8aCF1vp,black metal
-6G43CiunIxMwb2tQ12vNP6,post-hardcore
+6G43CiunIxMwb2tQ12vNP6,djent
 438fi8qqvXNEPoUrYLIO7J,drill
 3oKgJ6083BjtllXxDN3TD5,stoner rock
+7zQ4NNGWgCVWU80Rg6dXOH,east coast hip hop
 14SgKNlOCKAI0PfRD1HnWh,metal
 1oeo6cC9Fqa2bxxv67qBQL,metal
 2iE1NqruxoSxTvOpTCLkE9,death metal
@@ -287,7 +245,7 @@ artist_id,artist_genres
 0eVyjRhzZKke2KFYTcDkeu,boom bap
 4wf6GGNBqaU79839E6yjfn,hardcore punk
 0yknvLWQZxwsMjhUhwWZQ8,jersey club
-0hF6lbAjRsq4svrQUr5sgU,sexy drill
+0hF6lbAjRsq4svrQUr5sgU,brooklyn drill
 3BcgTyEdL81zMljmXcilZM,sexy drill
 7tYKF4w9nC0nq9CsPZTHyP,r&b
 3wcj11K77LjEY1PkEazffa,afropiano
@@ -307,8 +265,7 @@ artist_id,artist_genres
 4fHej5iOHCpTYsujBTm1Kb,metalcore
 3qa9pv6B0dmiBVETLQOCpi,noise rock
 1kfSVYNmjmYsdWjEQ6fnQF,hardcore
-59YfPxuxGghrdPumu6aFKI,metal
-2vov4zolAP7zbIhB5CsIPm,thrash metal
+2vov4zolAP7zbIhB5CsIPm,folk metal
 1slmc4uUMOsz7J3pQqeWPP,post-punk
 1Uk1GyijF6fSfX4mWq5bfR,indie pop
 5H4yInM5zmHqpKIoMNAx4r,grime
@@ -325,6 +282,7 @@ artist_id,artist_genres
 3qqkHeEhezlIaNj1vFYH2r,bedroom pop
 1nivFfWu6oXBFDNyVfFU5x,red dirt
 7LjXznzJeKuvjRbNcBWd6Z,jersey club
+6kdAf6E0EouXKBpBZN1Sx9,acoustic rock
 0jPHHnU8GUWEF7rwPE9osY,sexy drill
 74om4qLxb9MIsubhtvxQQJ,math rock
 2ueoLVCXQ948OfhVvAy3Nn,chamber pop
@@ -353,7 +311,7 @@ artist_id,artist_genres
 17lzZA2AlOHwCwFALHttmp,rap
 72NhFAGG5Pt91VbheJeEPG,electroclash
 1odn2oz1bEsGWugQ8W3zhn,spoken word
-1SRVawVdGv7lue3kE6Ajl9,french pop
+1SRVawVdGv7lue3kE6Ajl9,french indie pop
 6eforqOxk5mRrgprF7XtYu,french house
 0XFSKdTpzCOOfTPwIdByqf,grindcore
 3NTbOmzlj2cL86XFuDVFvZ,j-pop
@@ -385,15 +343,17 @@ artist_id,artist_genres
 4erwZm1JybuSPTUg5Bu7nT,acid techno
 10GT4yz8c6xjjnPGtGPI1l,nu disco
 0uj6QiPsPfK8ywLC7uwBE1,rage rap
+5Wj0an60VgRckYV9zlDe1e,indie rock
 3PP6ghmOlDl2jaKaH0avUN,post-rock
 6F5n3bvrBgoyicdFT6L8IB,alternative hip hop
-12b5toJQSORmgmCwYrQgLr,trip hop
+12b5toJQSORmgmCwYrQgLr,idm
+1TkiNxDsrc0PgIWBrATCbe,dream pop
 0b1sIQumIAsNbqAoIClSpy,k-rap
 0DCw6lHkzh9t7f8Hb4Z0Sx,heavy metal
 6wNPY2m52IiyyVZXR339D9,sexy drill
 3J3ngZn7GjzjwCPBkqtz65,underground hip hop
 1AmknJ29fbA6ahZXxFCNLE,boom bap
-5e9SnnT1mabuWwjwu6FrZD,emo pop
+5e9SnnT1mabuWwjwu6FrZD,melodic hardcore
 29rvPhemBdOLYdLr2xI8dr,neoperreo
 3fbtJn9IE7xORZcvASoIba,neoperreo
 1GuqTQbuixFHD6eBkFwVcb,house
@@ -408,6 +368,7 @@ artist_id,artist_genres
 6TMJgSdBIPPtQJbAB8yPpO,shoegaze
 0uaJXiIMrpbOV91Z9JxOL1,bounce
 5ABfpj7Z00wfPiv2uW4MFm,punk
+5APEQlUaQ5K70LgPqAdTuU,dream pop
 6chuFWw4BmHxOc3X0cC8Ct,experimental
 26DvqLYszG0oIOeelTF5kE,folk pop
 33U9I7yBy34UXqKYObItne,bossa nova
@@ -415,7 +376,6 @@ artist_id,artist_genres
 2D3csYLILmlZH3SUbkz11L,noise rock
 2R0CFyeMDiRbfkhkIMbyl1,jersey club
 0ShmUyGC785pMDaRdP5Sap,sexy drill
-3JU5NOb3kKE7xffuEn7udg,j-dance
 0vmZnQdyuSYbU9F61oApmi,experimental
 7zfGuFhq0tipa6G6aHuMe0,latin r&b
 0fWvSXbvztkeHEnEuYvU2A,power pop
@@ -424,6 +384,7 @@ artist_id,artist_genres
 1B8ycQsEGw3fUTkzWs5kFD,neoperreo
 4bmyQalHgw8xZFJ116P3ir,neoperreo
 4I9SixgrOaKltrQkY8o43u,neoperreo
+0LVrQUinPUBFvVD5pLqmWY,madchester
 1wlzPS1hSNrkriIIwLFTmU,jazz rap
 2PJEagPIxaBugeMjIyKVXF,drill
 35dxfY1wywqVRUEaVuMm13,jungle
@@ -451,9 +412,10 @@ artist_id,artist_genres
 7gdb1IQFHFQqCc5KoLTYNC,post-punk
 4nIgCJvBTi7M3pFn2ELhxm,experimental
 2CtpjGWvsq4QnUIx9PHDAN,breakbeat
-6H3XsRIiUv0xVicrxWIHIJ,noise rock
+6H3XsRIiUv0xVicrxWIHIJ,hardcore punk
 0zfT626RwO6zN3RDYeRit5,heavy metal
 3lmR0qMiGuoIF9UC54egcG,chamber pop
+0dltTUV2N49r1UjUTsqe3h,melodic hardcore
 74CcYmmNeHKe5PrZaISk8e,alternative r&b
 5eerVxtb9lY9p6D7m89Bs7,art pop
 6U1hXHFTV27cbQVXZvnX27,drill
@@ -480,6 +442,7 @@ artist_id,artist_genres
 5t5C8BHZ8ch5p0wvbcWh6P,chamber pop
 00hxNB9gMEeMFLLaW06F4J,electroclash
 7lsnwlX6puQ7lcpSEpJbZE,art pop
+30b9WulBM8sFuBo17nNq9c,k-rap
 6fb3I3Q54izgnOMtiZbOBA,metalcore
 2Lr6UcfZWL1Ur5spOaduOb,grime
 3ZqRIzadY4WYQEg4Hj2vGC,shoegaze
@@ -487,7 +450,7 @@ artist_id,artist_genres
 3P4vW5tzQvmuoNaFQqzy9q,indie pop
 0FnDCrmcQT8qz5TEsZIYw5,j-r&b
 4XDi67ZENZcbfKnvMnTYsI,k-pop
-5C1S9XwxMuuCciutwMhp5t,punjabi hip hop
+5C1S9XwxMuuCciutwMhp5t,hardcore hip hop
 0fyaEHmSmZs2YWMgbruITA,c-pop
 6XYPDozxzEi0iu380aAYnL,thai hip hop
 0lVlNsuGaOr9vMHCZIAKMt,heavy metal
@@ -502,9 +465,10 @@ artist_id,artist_genres
 2iGwIqfIXRskkGakunO9sf,french house
 3TQvQT0PqlTLLENO4L3Tik,metalcore
 7a29ko2je7GUMrbmwn4t3I,hardcore
-3Cp20KSVlMlFuOdqiqHFGR,japanese indie
+3Cp20KSVlMlFuOdqiqHFGR,indie jazz
 0EJdA6JT738oZGopzk8Usg,french house
 52ZhJRTVz14RYXJY9CTmkt,nu jazz
+1EuNDbf2DWqsa9cSgHT1Mm,nu metal
 6aiCF0pornq0j11wvKG4dy,j-pop
 4QGD0m9AGZixhuPAzaBeD7,afro house
 1kAX4yFdmR0hJe2tPu1785,djent
@@ -516,9 +480,11 @@ artist_id,artist_genres
 3TnlUNMMrwW2IYrlBDTygL,neoperreo
 69UVGTxhvI9zrl4tVafMgC,miami bass
 4cJD9t5QBFTUQcd3xfbOb2,argentine trap
+1WZarnZpWEv7dDtjAETt4X,art pop
 1pdiVBF8SDDpleSjlNhP8C,breakcore
 6zGzRIBkAMQ2uQn3z8OEyf,metalcore
 3SGLeWc7J5Ve0CinAOrb3a,garage rock
+2osrICe2kgcit3D086z3Lo,gothic metal
 65vqyT3OjG2zvb3cO1s44j,shoegaze
 4nVa6XlBFlIkF6msW57PHp,desi hip hop
 7uVynPDWBSuIkL6uTAQSxt,experimental
@@ -532,7 +498,7 @@ artist_id,artist_genres
 6vzYdcLnvCyXQbFj4FURxM,hardcore punk
 0fEyv0n8MBgXZQLOMcHbZO,sludge metal
 41btkKEfOGIHsd7WNahMCi,metal
-67f7GZXNMGRn98lqrtIdrN,metalcore
+67f7GZXNMGRn98lqrtIdrN,post-hardcore
 4iscKytAx2iFQH7l6p1MnP,hardcore
 7KSPZyeCKkfkhMkX8rYIhD,black metal
 3oSKgWx1dqjhidhnhpGbfJ,post-punk
@@ -573,6 +539,7 @@ artist_id,artist_genres
 5CiQ9m8dPZ3eEV8c2DdHuq,post-punk
 2n2RSaZqBuUUukhbLlpnE6,metalcore
 2q5B1lSu5ruqehmdJ1uLIo,noise rock
+0QSFCeiUCvkjxzwj7uvSHQ,hardcore
 6Xv8h8ntefqlic5d3DqzhZ,progressive metal
 7w0e6inAfRWIEb9tWVgB7a,art rock
 4Ge8xMJNwt6EEXOzVXju9a,art pop
@@ -602,7 +569,7 @@ artist_id,artist_genres
 5A7T1LAGJg5NXySBoIKUmF,underground hip hop
 6vXndytZhDoSVuUIo3rOYc,emo pop
 5nrO8X72nFeyu3sqYIkskQ,spoken word
-4U9UJQA8TdPGjCaYCsorkB,hardcore punk
+4U9UJQA8TdPGjCaYCsorkB,grindcore
 7coXApDvpixZcFjdfqzOXg,neofolk
 0nwTtqff9SoWoTnTFeZ7YA,post-rock
 3rLgIB7dHh2MGYpiOMajJI,neofolk
@@ -611,13 +578,13 @@ artist_id,artist_genres
 5zvMklMSTgoGUS9Un5domO,death metal
 7HwuG5omnxx1PZ9cLIOecH,black metal
 5XMyhVhi5ZN2pi0Qwi1zXS,alternative r&b
-6FFTQRf8CS9YJf9T8dcAnG,doom metal
+6FFTQRf8CS9YJf9T8dcAnG,sludge metal
 5ErUNpyxSBAdjZaKlefsUr,post-punk
 6ToGjPfiUS10Zds9xirvm0,ambient
 7J6YlxY8MiF5ZwfVBzMpPc,post-punk
 4UKKKGkjNWx8KTUvea66k1,metal
 1R2vMNz6qxQFMLynRurh3t,underground hip hop
-5vHShL6Y7oe3QoEuTGSABf,progressive metal
+5vHShL6Y7oe3QoEuTGSABf,art rock
 5XTn5Az9AcSKu0oaauC5ES,lo-fi beats
 6MjCnAA9RF0vy3j6QYyLG0,black metal
 6fs2or0cKLEM2xohWq8SoX,mandopop
@@ -684,7 +651,7 @@ artist_id,artist_genres
 2Cm6C9PNHioyjRKBfO7n9N,glitch
 4du3q8TIzsZxZZKdRT23Jg,horrorcore
 4kikA750A0g0FapsKphdUi,experimental hip hop
-1ah87EalVGzB4AEfY7zm2u,idm
+1ah87EalVGzB4AEfY7zm2u,experimental
 2fSaE6BXtQy0x7R7v9IOmZ,alternative hip hop
 70DFixYAFPv4Pf9kgSfR9O,k-pop
 2bvUCoFViWtg9pSkOX9du9,ballroom vogue
@@ -699,7 +666,6 @@ artist_id,artist_genres
 5NIvyOvy39ljx9w71rnCS1,deathcore
 3vfL7qtWVnyObFrObnBkmM,post-hardcore
 404E4fT1VvILYSsro18vYF,deathcore
-6LEttL8kbm67tcEy84Qh5O,power metal
 2kEDso93O2hDgCbnuiSkkZ,retro soul
 6tzRZ39aZlNqlUzQlkuhDV,tecnobrega
 3Jb5mSCM0lBdaACWt4XM3y,darkwave
@@ -708,6 +674,7 @@ artist_id,artist_genres
 2YRpsoIsb4KGe66E7hfEx5,deathcore
 4U5QErgn94wZGw1rJz01BO,drum and bass
 3cdxdVJIA1FE4oMT85haWb,power pop
+76Hqz0xVLDA9UwwqKR1JVl,electroclash
 5DDuwU1X2Aqdp3CxfXstRe,slowcore
 0CHi92LvwVayTacWx3nsfa,black metal
 41uVhPR2KcljefuEaJpv08,baltimore club
@@ -737,7 +704,7 @@ artist_id,artist_genres
 4SjND9kT6Ja5TSPZTyUUab,southern hip hop
 3WfJ1OtrWI7RViX9DMyEGy,emo pop
 26zgIfFyTCImkHAp5gwKW8,shatta
-4YmPo9Zke9OYNmV5WW7CMS,drone
+4YmPo9Zke9OYNmV5WW7CMS,doom metal
 1OXVBNjmvsGTwyaUzuvYNJ,death metal
 4jwROPSUkTkohLCRiyjiZZ,alternative r&b
 7LTSTQkL7iK7zndjFQgHQo,disco house
@@ -747,9 +714,11 @@ artist_id,artist_genres
 6ASGmWCYupa0CXGtsDdYSI,pop soul
 6CWTBjOJK75cTE8Xv8u1kj,chamber pop
 0tJCNteqwm7LmRZ6KWr8GT,afroswing
+44JW18XzNr86kKNWJq8eg1,sexy drill
 3QFiymmbJlVBPpnrOatEAk,french house
 0wsE3L0l083t6bxC8jJefC,j-pop
 7CKkZZW3XtnPmqlwaElmoV,latin indie
+6todtULM7YRvjmFxWLbnv9,art rock
 1rXjfC9HsVIIHggTMuxvSL,hardcore
 1MAUqH0haKBYbjpknTfreY,k-rap
 4Ga1P7PMIsmqEZqhYZQgDo,rap
@@ -758,3 +727,45 @@ artist_id,artist_genres
 6lY6kOVMG0mR07JTzU33o5,french house
 4tPyCwWrsvZ8OKYl7QRavL,dream pop
 5FrdcC0audM19v7r1GQx4P,soca
+0IznZPMUyaPGdqfP4oqBja,k-rap
+4XpUIb8uuNlIWVKmgKZXC0,k-pop
+0CUpzKPDfIVzYqMn47jiV3,retro soul
+0ghlgldX5Dd6720Q3qFyQB,k-pop
+3c0gDdb9lhnHGFtP4prQpn,k-pop
+66IkoRt5JAg88LCnPuyxXr,uk funky
+07SL7uPXhqtBGz0Pqljjgi,uk funky
+7lbSsjYACZHn1MSDXPxNF2,anime
+1gWjcmBsveEYMxOZ0VRi32,afrobeat
+4b99uGDv75xD1n2QHuPRDN,alternative r&b
+67lytN32YpUxiSeWlKfHJ3,cloud rap
+7naOvlP3zuvwVn7hiSeGwJ,alt country
+7DjwIxbe8kpw4pqnzAMoin,power pop
+3NdOtTPPaXrCyC7Lpmzyhv,k-pop
+2auC28zjQyVTsiZKNgPRGs,k-rap
+0T2sGLJKge2eaFmZJxX7sq,afroswing
+50nN8IFD4xA67fI4jYbLV4,grime
+4yBk76oymBKTd7fs3XpbId,underground hip hop
+395BAMokcNaqWcCl8uU1ky,cloud rap
+5pHUdo5THDtmE9yu3iC2hA,dark ambient
+6nxWCVXbOlEVRexSbLsTer,future bass
+0MoaBi6dSquXp6rrlqlF8R,latin indie
+0LQyNolD82BRJeXoEr4bwa,metalcore
+0EzsHuJxUDcfqSqvoPhKG4,dream pop
+1smGucQkSINoEDZrDs6DyS,hardcore
+6Oy4STraI9APdMoCO5te6w,dream pop
+03546gvcoicKs6C10YdXvk,experimental hip hop
+2W4apaxME2OLw8qqhZK7aJ,laïko
+5UYpPowESfmqU3fD6fJFox,synthwave
+2crwmsdm75WArcgnBEuSaF,hardcore
+1wW7feHMUpyzVdleQ14rvH,grindcore
+6FfKXg3QdDbbwRs9JzffpY,indie r&b
+7riQPkkGZBnTh9ve5qIhYo,darkwave
+34pslHUmJcR1jUeI7gvOOG,groove metal
+4S9D04bRVhokK6QwdzUd8B,hardcore punk
+35CQyx6pBd8bt19LYBmVOe,shoegaze
+6dlATndNl98YVDwKPTrD7m,jangle pop
+7qpy5KY3DVrezixTl6mziA,ska punk
+4rWywJgjoeVMO8LY87xYZo,experimental hip hop
+4LZBcaTrA5ou6aW2OJzFza,grime
+4MbRUvwQcEBzryOhWMHkvV,death metal
+544X9aDcwFDSon8HevRcqg,folk rock
