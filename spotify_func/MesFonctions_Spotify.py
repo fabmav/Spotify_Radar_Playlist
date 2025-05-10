@@ -130,19 +130,19 @@ def get_playlist_snapshotid(token,uri) :
     return json_result['snapshot_id']
 
 def test_request(func) : 
-    def wrapper(*args,**kwargs) : 
-        count = 0
-        while count != 5 : 
-            count +=1
-            result = func(*args,**kwargs)
-            if result.status_code !='200' : 
-                logger.info(f'result for attempt {count} \n status code  : {result.status_code}\n headers : {result.headers}\n reason : {result.reason}\n')
-                sleep(60)
-            else : 
-                logger.info(f'{count} attempts\n final result :  \n status code  : {result.status_code}\n headers : {result.headers}\n reason : {result.reason}\n')
-                break
+        def wrapper(*args,**kwargs) : 
+            count = 0
+            while count != 5 : 
+                count +=1
+                data = func(*args,**kwargs)
+                if data.status_code !=200 : 
+                    logger.info(f'result for attempt {count} \n status code  : {data.status_code}\n headers : {data.headers}\n reason : {data.reason}\n')
+                    sleep(60)
+                else : 
+                    # logger.info(f'{count} attempts\n final result :  \n status code  : {data.status_code}\n headers : {data.headers}\n reason : {data.reason}\n')
+                    return data
+                    break
         return wrapper
-    return func
         
 
 
@@ -165,7 +165,7 @@ def store_uri(token,file) :
         while offset < total : 
             headers = format_token(valid_token)
             url=f'https://api.spotify.com/v1/playlists/{liste_uri[i]}/tracks?offset={offset}&limit=100'
-            result=test_request(get(url=url, headers=headers))
+            result=test_request(get)(url=url, headers=headers)
             try : 
                 json_result = json.loads(result.content)
                 for item in json_result["items"] : 
@@ -277,7 +277,7 @@ def get_playlist_tracks_uri_new(token,uri) :
         headers = format_token(valid_token)
         champs='items(added_at,track(uri,name,artists(name)))'
         url=f'https://api.spotify.com/v1/playlists/{uri}/tracks?fields={champs}&offset={offset}&limit=100'
-        result=test_request(get(url=url, headers=headers))
+        result=test_request(get)(url=url, headers=headers)
         json_result = json.loads(result.content)
         for item in json_result["items"] : 
             b= item["track"]["uri"]
