@@ -8,11 +8,28 @@ from requests import post, get, delete, put
 from io import*
 import re
 from datetime import*
+from calendar import *
 from dateutil.parser import isoparse
 import logging
 from time import sleep
 
 logger = logging.getLogger(__name__)
+
+
+def test_request(func) : 
+        def wrapper(*args,**kwargs) : 
+            count = 0
+            while count != 5 : 
+                count +=1
+                data = func(*args,**kwargs)
+                if data.status_code !=200 : 
+                    logger.info(f'result for attempt {count} \n status code  : {data.status_code}\n headers : {data.headers}\n reason : {data.reason}\n')
+                    sleep(60)
+                else : 
+                    # logger.info(f'{count} attempts\n final result :  \n status code  : {data.status_code}\n headers : {data.headers}\n reason : {data.reason}\n')
+                    return data
+                    break
+        return wrapper
 
 def get_current_token() : 
     '''This function retrieves a refresh token from spotify api, it needs a private and a public keys stored 
@@ -129,20 +146,7 @@ def get_playlist_snapshotid(token,uri) :
     json_result = json.loads(result.content)
     return json_result['snapshot_id']
 
-def test_request(func) : 
-        def wrapper(*args,**kwargs) : 
-            count = 0
-            while count != 5 : 
-                count +=1
-                data = func(*args,**kwargs)
-                if data.status_code !=200 : 
-                    logger.info(f'result for attempt {count} \n status code  : {data.status_code}\n headers : {data.headers}\n reason : {data.reason}\n')
-                    sleep(60)
-                else : 
-                    # logger.info(f'{count} attempts\n final result :  \n status code  : {data.status_code}\n headers : {data.headers}\n reason : {data.reason}\n')
-                    return data
-                    break
-        return wrapper
+
         
 
 
@@ -202,6 +206,14 @@ def date_above(D) :
     new_year=aujourdhui.year
     if liste.index(aujourdhui.month) - 6 <0 : 
         new_year+=-1
+
+    day_test_length = monthrange(new_year,new_month)
+
+    if aujourdhui.day > day_test_length[1] : 
+        borne = aujourdhui.replace(day=day_test_length[1])
+    else : 
+        borne = aujourdhui
+
     borne = aujourdhui.replace(month= new_month)
     borne = borne.replace(year= new_year)
 
@@ -226,6 +238,14 @@ def date_below(D) :
     new_year=aujourdhui.year
     if liste.index(aujourdhui.month) - 6 <0 : 
         new_year+=-1
+    
+    day_test_length = monthrange(new_year,new_month)
+
+    if aujourdhui.day > day_test_length[1] : 
+        borne = aujourdhui.replace(day=day_test_length[1])
+    else : 
+        borne = aujourdhui
+    
     borne = aujourdhui.replace(month= new_month)
     borne = borne.replace(year= new_year)
 
