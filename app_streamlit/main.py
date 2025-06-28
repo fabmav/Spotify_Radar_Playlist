@@ -1,5 +1,5 @@
 #brouillon streamlit
-from config_streamlit import *
+from app_streamlit.config_streamlit import *
 
 print(f'****************** {os.getcwd()}*****************************')
 df = get_weekly_data_local()
