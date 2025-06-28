@@ -6,6 +6,7 @@ import logging
 from functools import reduce
 from datetime import datetime, timezone
 import re
+from spotify_func.musicbrainz_func import musibrainz_search_tag
 
 logger = logging.getLogger(__name__)
 
@@ -87,29 +88,89 @@ def get_artist_data(json_data) :
         dico[artist_id] = [artist_id,total_follower,artist_popularity]
     return dico
 
+
 def get_artist_genre(json_data) : 
+    #! only outputs the first genre because of dictionnary...
     dico = {}
+    dico_artists = {}
+
+    with open ("stats/weekly_tracks_artists.txt","r",encoding="UTF-8") as f : 
+        for line in f : 
+            liste_line = line.split(sep=";")
+            dico_artists[liste_line[0]] = liste_line[1]
+
     for item in json_data['artists'] : 
         artist_id=item["id"]
-        artist_genres = item['genres']
+
+        if item['genres'] == [] : 
+            artist_genres = musibrainz_search_tag(dico_artists[artist_id])
+        
+        else : 
+            artist_genres =  item['genres']
+
+
         try :
+            #! if there are no genre in artist_genres, the loop will not yield anything : empty iterator means no loop iteration
             for genre in artist_genres : 
                 dico[artist_id] = [artist_id,genre]
         except Exception as e : 
-                dico[artist_id] = [artist_id,"Nan"]
+                dico[artist_id] = [artist_id,'Nan']
     return dico
+
+
+
+def compile_genre(L) : 
+
+    dico = {
+    'hip_hop_rnb' : re.compile("hip hop|rap|rnb|r&b|urbano|drill",re.IGNORECASE),
+    'reggae_afro' : re.compile("reggae|dub|ragga|afro",re.IGNORECASE),
+    'metal' : re.compile('metal|djent',re.IGNORECASE),
+    'soul_jazz' : re.compile('jazz|soul',re.IGNORECASE),
+    'electro_dance' : re.compile('electr|house|tech|break|bass|disco|small room|trip hop|jungle|tek',re.IGNORECASE),
+    'folk_acoustic' : re.compile("acoustic|songwriter|americana|folk",re.IGNORECASE),
+    'rock' : re.compile("rock|punk|hardcore|shoegaze|indie|power pop|country|screamo|emo|grunge|riot grrrl|psyche|crank wave",re.IGNORECASE),
+    'pop' : re.compile('pop|chanson|variete',re.IGNORECASE)}
+
+    # main_genre = [i if re.search(dico[i],L) != None else "other" for i in dico]
+    main_genre = "unknown" if L == '[]' or L == "['Nan']" else "other"
+    if main_genre == "unknown" : 
+        return main_genre
+    for i in dico : 
+        if re.search(dico[i],L) != None : 
+            main_genre = i
+            break
+    return main_genre
 
 
 def get_artist_genre_agg(json_data) : 
     dico = {}
+    dico_artists = {}
+
+    with open ("stats/weekly_tracks_artists.txt","r",encoding="UTF-8") as f : 
+        for line in f : 
+            liste_line = line.split(sep=";")
+            dico_artists[liste_line[0]] = liste_line[1]
+
+
+
     for item in json_data['artists'] : 
         artist_id=item["id"]
-        artist_genres = item['genres']
+        #! that's where we need to use musicbrainz
+
+
+        if item['genres'] == [] : 
+            artist_genres = musibrainz_search_tag(dico_artists[artist_id])
+            
+        else : 
+            artist_genres =  item['genres']
+
+
+
         artist_genres_main = compile_genre(str(artist_genres))
         try :
             dico[artist_id] = [artist_id,artist_genres,artist_genres_main]
         except Exception as e : 
-            dico[artist_id] = [artist_id,"Nan","Other"]
+            dico[artist_id] = [artist_id,"Nan","other"]
     return dico
 
 def write_to_file(liste, file_name,first_line,string_length,base_url,parse_func,request_headers,request_params=None,sep=",") : 
@@ -128,7 +189,7 @@ def write_to_file(liste, file_name,first_line,string_length,base_url,parse_func,
     output : 
     none'''
 
-    dico_line = {}
+    dico_line = {}  
     total = len(liste)
     offset = 0
         
@@ -167,27 +228,6 @@ def synth_genre_list(txt,output_file) :
             main_genre = compile_genre(str(dico[key]))
             file.write(f'{key},{dico[key]},{main_genre}\n')
 
-def compile_genre(L) : 
-
-    dico = {
-    'hip_hop_rnb' : re.compile("hip hop|rap|rnb|r&b|urbano|drill",re.IGNORECASE),
-    'reggae_afro' : re.compile("reggae|dub|ragga|afro",re.IGNORECASE),
-    'metal' : re.compile('metal|djent',re.IGNORECASE),
-    'soul_jazz' : re.compile('jazz|soul',re.IGNORECASE),
-    'electro_dance' : re.compile('electr|house|tech|break|bass|disco|small room|trip hop|jungle|tek',re.IGNORECASE),
-    'folk_acoustic' : re.compile("acoustic|songwriter|americana|folk",re.IGNORECASE),
-    'rock' : re.compile("rock|punk|hardcore|shoegaze|indie|power pop|country|screamo|emo|grunge|riot grrrl|psyche|crank wave",re.IGNORECASE),
-    'pop' : re.compile('pop|chanson|variete',re.IGNORECASE)}
-
-    # main_genre = [i if re.search(dico[i],L) != None else "other" for i in dico]
-    main_genre = "unknown" if L == '[]' else "other"
-    if main_genre == "unknown" : 
-        return main_genre
-    for i in dico : 
-        if re.search(dico[i],L) != None : 
-            main_genre = i
-            break
-    return main_genre
 
 if __name__ == "__main__" : 
     None

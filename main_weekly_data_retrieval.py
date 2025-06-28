@@ -8,6 +8,7 @@
 
 from spotify_func.stat_func import *
 from spotify_func.MesFonctions_Spotify import *
+from spotify_func.musicbrainz_func import * 
 
 from dotenv import load_dotenv
 import os
@@ -83,9 +84,9 @@ write_to_file(liste=liste_artists,file_name="stats/weekly_artists_data.txt",firs
               string_length=49,base_url=URL_ARTISTS,parse_func=get_artist_data,
               request_headers=HEADERS)
 
-write_to_file(liste=liste_artists,file_name="stats/weekly_artists_genres.txt",first_line=FIRST_LINE[4],
-              string_length=49,base_url=URL_ARTISTS,parse_func=get_artist_genre,
-              request_headers=HEADERS)
+# write_to_file(liste=liste_artists,file_name="stats/weekly_artists_genres.txt",first_line=FIRST_LINE[4],
+#               string_length=49,base_url=URL_ARTISTS,parse_func=get_artist_genre,
+#               request_headers=HEADERS)
 
 write_to_file(liste=liste_artists,file_name="stats/weekly_artists_genres_agg.txt",first_line=FIRST_LINE[5],
               string_length=49,base_url=URL_ARTISTS,parse_func=get_artist_genre_agg,

@@ -1,7 +1,7 @@
 #brouillon streamlit
 from config import *
 
-
+print(f'****************** {os.getcwd()}*****************************')
 df = get_weekly_data_local()
 
 st.title("Best New Track Radar Dashboard")
