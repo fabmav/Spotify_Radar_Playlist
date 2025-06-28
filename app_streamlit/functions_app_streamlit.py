@@ -14,9 +14,9 @@ def minute_seconds(x) :
 
 def get_weekly_data_local() : 
 
-    # curr_dir = os.getcwd()
+    curr_dir = os.getcwd()
 
-    # os.chdir('..')
+    os.chdir('..')
 
     df_track_info = pd.read_csv('stats/weekly_tracks_popularity.txt',sep=";")
 
