@@ -42,7 +42,7 @@ def get_weekly_data_local() :
 
     df_spotify['added_at']=pd.to_datetime(df_spotify['added_at'])
 
-    os.chdir(curr_dir)
+    # os.chdir(curr_dir)
 
     return df_spotify
 
