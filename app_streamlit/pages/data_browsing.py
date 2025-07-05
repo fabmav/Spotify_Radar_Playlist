@@ -1,4 +1,4 @@
-from Spotify_Radar_Playlist.app_streamlit.config_streamlit import *
+from config_streamlit import *
 
 #todo boutons de choix du genre
     #todo browser les sous genre et les artistes et morceaux associés
