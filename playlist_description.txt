@@ -1,2 +1,3 @@
 All the tracks from 6 months ago until today from Pithfork Selects, 
-NME's Best New Tracks and NME New Bangers, Consequence New Sounds, Kerrang! Chart, Stereogum's Favorite New Music and Radio Nova Le Grand Mix playlist.
+NME's Best New Tracks and NME New Bangers, Consequence New Sounds, Stereogum's Favorite New Music and Radio Nova Le Grand Mix playlist.
+More info about the playlist available here : https://spotify-radar.streamlit.app/
