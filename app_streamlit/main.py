@@ -7,9 +7,9 @@ df = get_weekly_data_local()
 
 st.title("Best New Track Radar Dashboard")
 
-st.sidebar.subheader("analyse")
-st.sidebar.subheader("dataviz")
-st.sidebar.subheader("playlist in depth")
+# st.sidebar.subheader("analyse")
+# st.sidebar.subheader("dataviz")
+# st.sidebar.subheader("playlist in depth")
 
 #showing a few metrics
 col1,col2,col3 = st.columns(3)
