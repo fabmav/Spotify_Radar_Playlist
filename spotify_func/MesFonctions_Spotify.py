@@ -214,7 +214,7 @@ def date_above(D) :
     else : 
         borne = aujourdhui
 
-    borne = aujourdhui.replace(month= new_month)
+    borne = borne.replace(month= new_month)
     borne = borne.replace(year= new_year)
 
     logger.info(f' threshold date is : {borne}. all tracks above this date are kept ')
@@ -246,7 +246,7 @@ def date_below(D) :
     else : 
         borne = aujourdhui
     
-    borne = aujourdhui.replace(month= new_month)
+    borne = borne.replace(month= new_month)
     borne = borne.replace(year= new_year)
 
     logger.info(f'threshold date is : {borne}. all tracks below this date are removed')
